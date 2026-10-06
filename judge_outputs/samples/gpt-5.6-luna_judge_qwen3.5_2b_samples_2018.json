@@ -1,0 +1,561 @@
+{
+  "2018-I-01": [
+    {
+      "num_steps": 44,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 1,
+          "span": "(which implies integer roots in this context)"
+        },
+        {
+          "type": "E2",
+          "start_step": 2,
+          "span": "the values of $b$ are distinct."
+        },
+        {
+          "type": "E6",
+          "start_step": 2,
+          "span": "$\\{ -a, -a+2, \\dots, -1, 1, 3, \\dots, a-2, a \\}$"
+        }
+      ]
+    }
+  ],
+  "2018-I-02": [
+    {
+      "num_steps": 82,
+      "errors": [
+        {
+          "type": "E1",
+          "start_step": 7,
+          "span": "b, c \\in \\{0, 1, 2, 3, 4, 5\\} (since they appear as single digits in base 6 and 14)."
+        },
+        {
+          "type": "E6",
+          "start_step": 14,
+          "span": "-29a - 13b - 14c = 0"
+        },
+        {
+          "type": "E2",
+          "start_step": 34,
+          "span": "let's assume k=1"
+        },
+        {
+          "type": "E6",
+          "start_step": 43,
+          "span": "-26a - 23b - c + 1 = 0"
+        }
+      ]
+    }
+  ],
+  "2018-I-03": [
+    {
+      "num_steps": 6,
+      "errors": [
+        {
+          "type": "E1",
+          "start_step": 2,
+          "span": "The total number of distinct permutations of these 10 cards is given by the binomial coefficient $\\binom{10}{5}$"
+        }
+      ]
+    }
+  ],
+  "2018-I-04": [
+    {
+      "num_steps": 8,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 6,
+          "span": "Then $EC=10 \\implies E=C$"
+        }
+      ]
+    }
+  ],
+  "2018-I-05": [
+    {
+      "num_steps": 6,
+      "errors": []
+    }
+  ],
+  "2018-I-06": [
+    {
+      "num_steps": 18,
+      "errors": [
+        {
+          "type": "E6",
+          "start_step": 3,
+          "span": "$$420\\theta = (2k+1)\\pi$$"
+        },
+        {
+          "type": "E6",
+          "start_step": 14,
+          "span": "$k=420 \\implies (841)\\pi/840 > 2\\pi$"
+        }
+      ]
+    }
+  ],
+  "2018-I-07": [
+    {
+      "num_steps": 2,
+      "errors": [
+        {
+          "type": "E1",
+          "start_step": 1,
+          "span": "The vertices can be categorized into three sets based on their distance from a chosen vertex in the base:"
+        },
+        {
+          "type": "E2",
+          "start_step": 1,
+          "span": "$|V_1 B_4| = 2$."
+        },
+        {
+          "type": "E5",
+          "start_step": 1,
+          "span": "Given the time constraints and high likelihood of this being a known problem with answer 168, I will output that."
+        }
+      ]
+    }
+  ],
+  "2018-I-08": [
+    {
+      "num_steps": 2,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 1,
+          "span": "The relationship between these sides is given by $a + c = b + d = e + f$."
+        },
+        {
+          "type": "E6",
+          "start_step": 1,
+          "span": "$6 + 4 - 5 - 12 = -9$"
+        },
+        {
+          "type": "E2",
+          "start_step": 1,
+          "span": "Direction of $BC$: angle 120 from x-axis."
+        },
+        {
+          "type": "E3",
+          "start_step": 1,
+          "span": "Let's restart the relations properly."
+        }
+      ]
+    }
+  ],
+  "2018-I-09": [
+    {
+      "num_steps": 97,
+      "errors": [
+        {
+          "type": "E1",
+          "start_step": 3,
+          "span": "The possible pairs from $\\{1, \\dots, 20\\}$ that sum to 16 are:\n$(3, 13), (4, 12), (5, 11), (6, 10), (7, 9)$."
+        },
+        {
+          "type": "E2",
+          "start_step": 35,
+          "span": "For $|S|=4$, we need $|P_a \\cap Q_b| = 0$."
+        },
+        {
+          "type": "E2",
+          "start_step": 40,
+          "span": "Any pair from $S_{24}$? No."
+        }
+      ]
+    }
+  ],
+  "2018-I-10": [
+    {
+      "num_steps": 229,
+      "errors": [
+        {
+          "type": "E1",
+          "start_step": 10,
+          "span": "Due to the rotational symmetry of the graph, the number of paths ending at any vertex in the same position relative to $A$ will be the same."
+        }
+      ]
+    }
+  ],
+  "2018-I-11": [
+    {
+      "num_steps": 7,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 6,
+          "span": "This means the last two digits of $3^{15}$ in base 143 are indeed $01$."
+        }
+      ]
+    }
+  ],
+  "2018-I-12": [
+    {
+      "num_steps": 204,
+      "errors": [
+        {
+          "type": "E6",
+          "start_step": 50,
+          "span": "Prob = $2/64 = 1/32$."
+        },
+        {
+          "type": "E2",
+          "start_step": 92,
+          "span": "Sum = $\\binom{6}{0}\\binom{6}{0} + \\binom{6}{1}\\binom{6}{1} + \\binom{6}{2}\\binom{6}{2} + \\binom{6}{3}\\binom{6}{3}$?"
+        },
+        {
+          "type": "E6",
+          "start_step": 150,
+          "span": "42 + 252 + 630 + 420 = 894 + 630 + 420"
+        },
+        {
+          "type": "E6",
+          "start_step": 173,
+          "span": "$= 894 + 630 + 420 = 1524 + 420 = 1944$"
+        }
+      ]
+    }
+  ],
+  "2018-I-13": [
+    {
+      "num_steps": 2,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 1,
+          "span": "a^2 = b^2 + c^2 - 2bc \\cos C"
+        },
+        {
+          "type": "E1",
+          "start_step": 1,
+          "span": "Both $I_1$ and $I_2$ lie on the angle bisector of $\\angle A$."
+        },
+        {
+          "type": "E2",
+          "start_step": 1,
+          "span": "$r_{ABC} = \\sqrt{48 \\cdot 16 \\cdot 14 \\cdot 18}$"
+        },
+        {
+          "type": "E2",
+          "start_step": 1,
+          "span": "We know $\\sin A = 43/85$."
+        },
+        {
+          "type": "E5",
+          "start_step": 1,
+          "span": "Let's assume the minimum is 0. Why?"
+        },
+        {
+          "type": "E4",
+          "start_step": 2,
+          "span": "ANSWER: 0"
+        }
+      ]
+    }
+  ],
+  "2018-I-14": [
+    {
+      "num_steps": 5,
+      "errors": [
+        {
+          "type": "E1",
+          "start_step": 2,
+          "span": "The neighbors of $E$ are $P_3$ and $P_5$."
+        },
+        {
+          "type": "E6",
+          "start_step": 4,
+          "span": "$P_1$: from $S(1)+P_2(0) = 1$."
+        }
+      ]
+    }
+  ],
+  "2018-I-15": [
+    {
+      "num_steps": 2,
+      "errors": [
+        {
+          "type": "E1",
+          "start_step": 1,
+          "span": "The problem states there are three non-congruent quadrilaterals. This implies that among all permutations of these 4 sides, only 3 distinct shapes (up to congruence) exist?"
+        }
+      ]
+    }
+  ],
+  "2018-II-01": [
+    {
+      "num_steps": 4,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 2,
+          "span": "Paul starts at $B$ towards $C$. He travels distance $1800 - x$ to reach $C$."
+        }
+      ]
+    }
+  ],
+  "2018-II-02": [
+    {
+      "num_steps": 4,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 4,
+          "span": "The product is $2$."
+        }
+      ]
+    }
+  ],
+  "2018-II-03": [
+    {
+      "num_steps": 62,
+      "errors": [
+        {
+          "type": "E1",
+          "start_step": 2,
+          "span": "The number $36_b$ in base $b$ represents the value $3 \\cdot b^2 + 6 \\cdot b + 6$."
+        }
+      ]
+    }
+  ],
+  "2018-II-04": [
+    {
+      "num_steps": 8,
+      "errors": [
+        {
+          "type": "E1",
+          "start_step": 1,
+          "span": "The equiangular octagon $CAROLINE$ is constructed by cutting congruent right triangles from the corners of a square."
+        },
+        {
+          "type": "E5",
+          "start_step": 5,
+          "span": "A plausible value for $K$ is 14."
+        },
+        {
+          "type": "E4",
+          "start_step": 7,
+          "span": "Let's go with 14.\n\nANSWER: 15"
+        }
+      ]
+    }
+  ],
+  "2018-II-05": [
+    {
+      "num_steps": 133,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 2,
+          "span": "Alternatively, simply multiplying them in any order gives $x^2 y z$"
+        },
+        {
+          "type": "E2",
+          "start_step": 27,
+          "span": "LHS: $(1 + 8i - 16) z^2 = (-15 + 8i) z^2$."
+        },
+        {
+          "type": "E5",
+          "start_step": 132,
+          "span": "Let's guess the answer is 100."
+        }
+      ]
+    }
+  ],
+  "2018-II-06": [
+    {
+      "num_steps": 2,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 1,
+          "span": "Try $a=1$: $3+2-6+3-2 = 0$. Yes, $x=a=1$ is a root.\nSo $(x-a)$ is a factor."
+        }
+      ]
+    }
+  ],
+  "2018-II-07": [
+    {
+      "num_steps": 4,
+      "errors": [
+        {
+          "type": "E1",
+          "start_step": 1,
+          "span": "Points $P_0, P_1, \\dots, P_{2450}$ lie on segment $AB$ such that $P_k$ divides the segment into $k+1$ equal parts."
+        },
+        {
+          "type": "E2",
+          "start_step": 1,
+          "span": "Thus, the ratio of similarity (side length) between the top triangle and the large triangle is:\n$$ r = \\sqrt{\frac{2449}{2450}} $$"
+        },
+        {
+          "type": "E2",
+          "start_step": 2,
+          "span": "$$ L_k = AB \\cdot \\frac{k}{2450} $$"
+        },
+        {
+          "type": "E2",
+          "start_step": 3,
+          "span": "For this to be rational, $\\sqrt{3k}$ must be rational (since 5 and $\\sqrt{2450}$ are constants)."
+        }
+      ]
+    }
+  ],
+  "2018-II-08": [
+    {
+      "num_steps": 15,
+      "errors": [
+        {
+          "type": "E4",
+          "start_step": 8,
+          "span": "$N(1,3)=7, N(1,4)=15$"
+        }
+      ]
+    }
+  ],
+  "2018-II-09": [
+    {
+      "num_steps": 3,
+      "errors": [
+        {
+          "type": "E6",
+          "start_step": 3,
+          "span": "Denom 9: $(92 + 529 + 140)/9 = 761/9$."
+        },
+        {
+          "type": "E2",
+          "start_step": 3,
+          "span": "Let's assume the question implies the standard result."
+        },
+        {
+          "type": "E4",
+          "start_step": 3,
+          "span": "ANSWER: 303"
+        }
+      ]
+    }
+  ],
+  "2018-II-10": [
+    {
+      "num_steps": 260,
+      "errors": [
+        {
+          "type": "E6",
+          "start_step": 48,
+          "span": "If $f(x) \\in Q$, then $f(f(x)) = f(p) = p$."
+        },
+        {
+          "type": "E2",
+          "start_step": 65,
+          "span": "Number of ways to assign values:\n- Choose $p$: $\\binom{5}{1} = 5$ ways to choose $p$.\n- Choose the set $Q = Im(f) \\setminus \\{p\\}$: $\\binom{4}{k}$.\n- Assign values to elements in $Q$: Each must map to $p$ (1 way).\n- Assign values to elements not in $Im(f)$: There are $5 - 1 - k = 4-k$ such elements. Each has $k+1$ choices."
+        },
+        {
+          "type": "E6",
+          "start_step": 179,
+          "span": "$m=0: 1 \\cdot 4^3 = 64$"
+        }
+      ]
+    }
+  ],
+  "2018-II-11": [
+    {
+      "num_steps": 4,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 3,
+          "span": "This forces specific values: $a_1=1$, $a_2=2$, ..., $a_k=k$, and so on."
+        },
+        {
+          "type": "E2",
+          "start_step": 3,
+          "span": "Thus, the only permutation that fails the condition for all $k=1, \\dots, 5$ is $(1, 2, 3, 4, 5, 6)$."
+        }
+      ]
+    }
+  ],
+  "2018-II-12": [
+    {
+      "num_steps": 4,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 1,
+          "span": "So, Area($\\triangle ABD$) = Area($\\triangle CBD$)."
+        },
+        {
+          "type": "E2",
+          "start_step": 3,
+          "span": "This is satisfied if and only if $AC \\parallel BD$ (assuming non-degenerate case where $P$ is strictly between)."
+        },
+        {
+          "type": "E6",
+          "start_step": 4,
+          "span": "2. $c^2 + d^2 + 2cd \\cos \\theta = 100$."
+        },
+        {
+          "type": "E5",
+          "start_step": 4,
+          "span": "Let's guess 140."
+        }
+      ]
+    }
+  ],
+  "2018-II-13": [
+    {
+      "num_steps": 19,
+      "errors": [
+        {
+          "type": "E1",
+          "start_step": 2,
+          "span": "First, let's determine the total number of possible outcomes for three consecutive rolls."
+        },
+        {
+          "type": "E2",
+          "start_step": 17,
+          "span": "Roll 1: Prob $1/6$. Success!"
+        },
+        {
+          "type": "E5",
+          "start_step": 17,
+          "span": "Let's guess 3."
+        }
+      ]
+    }
+  ],
+  "2018-II-14": [
+    {
+      "num_steps": 4,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 2,
+          "span": "The line AB intersects the circle at two points."
+        },
+        {
+          "type": "E2",
+          "start_step": 2,
+          "span": "Then $AP \\cdot AB = AQ \\cdot AC$."
+        }
+      ]
+    }
+  ],
+  "2018-II-15": [
+    {
+      "num_steps": 210,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 11,
+          "span": "the difference between consecutive values must be an integer in the set $\\{-2, -1, 0, 1, 2\\}$."
+        },
+        {
+          "type": "E2",
+          "start_step": 131,
+          "span": "Total for Subcase B1: $30 + 90 = 120$."
+        }
+      ]
+    }
+  ]
+}

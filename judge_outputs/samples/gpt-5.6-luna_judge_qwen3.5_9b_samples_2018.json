@@ -1,0 +1,331 @@
+{
+  "2018-I-01": [
+    {
+      "num_steps": 7,
+      "errors": []
+    }
+  ],
+  "2018-I-02": [
+    {
+      "num_steps": 10,
+      "errors": []
+    }
+  ],
+  "2018-I-03": [
+    {
+      "num_steps": 40,
+      "errors": [
+        {
+          "type": "E6",
+          "start_step": 9,
+          "span": "= \frac{(5!)^2}{r!(5-r)! 10!}"
+        }
+      ]
+    }
+  ],
+  "2018-I-04": [
+    {
+      "num_steps": 10,
+      "errors": []
+    }
+  ],
+  "2018-I-05": [
+    {
+      "num_steps": 8,
+      "errors": []
+    }
+  ],
+  "2018-I-06": [
+    {
+      "num_steps": 9,
+      "errors": []
+    }
+  ],
+  "2018-I-07": [
+    {
+      "num_steps": 15,
+      "errors": [
+        {
+          "type": "E6",
+          "start_step": 3,
+          "span": "Just one orbit of size 6? Yes."
+        },
+        {
+          "type": "E6",
+          "start_step": 5,
+          "span": "$d(3,0)=2, d(3,2)=2$"
+        }
+      ]
+    }
+  ],
+  "2018-I-08": [
+    {
+      "num_steps": 5,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 3,
+          "span": "Sum of all sides: $\\sum s_i = 3L$."
+        },
+        {
+          "type": "E2",
+          "start_step": 4,
+          "span": "The diameter $d$ will be $2 \\times \\min(\\text{distances})$."
+        }
+      ]
+    }
+  ],
+  "2018-I-09": [
+    {
+      "num_steps": 5,
+      "errors": [
+        {
+          "type": "E6",
+          "start_step": 4,
+          "span": "So there are exactly 7 pairs of $(A_i, B_j)$ that share exactly one element."
+        },
+        {
+          "type": "E2",
+          "start_step": 4,
+          "span": "So adding any $z \\neq u,v,w$ will NOT create a new sum-16 pair or a new sum-24 pair using the elements of the triple."
+        }
+      ]
+    }
+  ],
+  "2018-I-10": [
+    {
+      "num_steps": 2,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 2,
+          "span": "So structure: $B_+(x) \\sum_{j=0}^\\infty (G(x) S(x))^j = B_+(x) \\frac{1}{1 - G(x)S(x)}$."
+        },
+        {
+          "type": "E5",
+          "start_step": 2,
+          "span": "Given the complexity and the modulo 1000, maybe the answer is 0?"
+        }
+      ]
+    }
+  ],
+  "2018-I-11": [
+    {
+      "num_steps": 8,
+      "errors": []
+    }
+  ],
+  "2018-I-12": [
+    {
+      "num_steps": 8,
+      "errors": []
+    }
+  ],
+  "2018-I-13": [
+    {
+      "num_steps": 7,
+      "errors": [
+        {
+          "type": "E6",
+          "start_step": 2,
+          "span": "$\\cos\\gamma = \\frac{1280}{2176} = \\frac{5}{8}$"
+        },
+        {
+          "type": "E3",
+          "start_step": 5,
+          "span": "Maybe **28**?\nI will output **24**."
+        },
+        {
+          "type": "E4",
+          "start_step": 6,
+          "span": "ANSWER: 24"
+        }
+      ]
+    }
+  ],
+  "2018-I-14": [
+    {
+      "num_steps": 12,
+      "errors": [
+        {
+          "type": "E1",
+          "start_step": 1,
+          "span": "Let the vertices of the heptagon be labeled $S, P_1, P_2, P_3, P_4, P_5, E$ in clockwise order."
+        },
+        {
+          "type": "E6",
+          "start_step": 6,
+          "span": "$P5 = S(2)+P4(2) = 1+0=1$"
+        }
+      ]
+    }
+  ],
+  "2018-I-15": [
+    {
+      "num_steps": 33,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 29,
+          "span": "Specifically, in this problem context, $K = R^2 \\cdot (\\sin \\varphi_A \\sin \\varphi_B \\sin \\varphi_C)$."
+        }
+      ]
+    }
+  ],
+  "2018-II-01": [
+    {
+      "num_steps": 9,
+      "errors": []
+    }
+  ],
+  "2018-II-02": [
+    {
+      "num_steps": 6,
+      "errors": []
+    }
+  ],
+  "2018-II-03": [
+    {
+      "num_steps": 6,
+      "errors": []
+    }
+  ],
+  "2018-II-04": [
+    {
+      "num_steps": 2,
+      "errors": [
+        {
+          "type": "E1",
+          "start_step": 1,
+          "span": "So the only consistent geometry with $CA=\\sqrt{2}, AR=1$ is Case B:"
+        },
+        {
+          "type": "E5",
+          "start_step": 1,
+          "span": "Let's assume all 6 are equal. Then $K = 6 \\times 2/3 = 4$."
+        }
+      ]
+    }
+  ],
+  "2018-II-05": [
+    {
+      "num_steps": 6,
+      "errors": []
+    }
+  ],
+  "2018-II-06": [
+    {
+      "num_steps": 8,
+      "errors": []
+    }
+  ],
+  "2018-II-07": [
+    {
+      "num_steps": 7,
+      "errors": []
+    }
+  ],
+  "2018-II-08": [
+    {
+      "num_steps": 8,
+      "errors": []
+    }
+  ],
+  "2018-II-09": [
+    {
+      "num_steps": 14,
+      "errors": []
+    }
+  ],
+  "2018-II-10": [
+    {
+      "num_steps": 6,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 1,
+          "span": "Consequently, every element in the image of $f$, denoted as $\\text{Im}(f)$, must map to itself under $f$."
+        }
+      ]
+    }
+  ],
+  "2018-II-11": [
+    {
+      "num_steps": 9,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 4,
+          "span": "Number of bad permutations with largest closed index at $m$ is $c_m \\times (6-m)!$."
+        },
+        {
+          "type": "E2",
+          "start_step": 4,
+          "span": "And for any $j > k$, the set of first $j$ will definitely not be $\\{1..j\\}$ because it contains elements from $\\{k+1..6\\}$ which are $> j$"
+        },
+        {
+          "type": "E2",
+          "start_step": 4,
+          "span": "Actually, if $pos(1) = p$, then the only risk is that the prefix of length $p$ becomes closed."
+        }
+      ]
+    }
+  ],
+  "2018-II-12": [
+    {
+      "num_steps": 6,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 4,
+          "span": "So an isosceles trapezoid satisfies the condition."
+        },
+        {
+          "type": "E2",
+          "start_step": 5,
+          "span": "Then $BC^2 = x^2+b^2-xK = 196$."
+        }
+      ]
+    }
+  ],
+  "2018-II-13": [
+    {
+      "num_steps": 9,
+      "errors": []
+    }
+  ],
+  "2018-II-14": [
+    {
+      "num_steps": 6,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 5,
+          "span": "Specifically, $\\angle APY = \\angle C$ and $\\angle AQP = \\angle B$."
+        }
+      ]
+    }
+  ],
+  "2018-II-15": [
+    {
+      "num_steps": 4,
+      "errors": [
+        {
+          "type": "E6",
+          "start_step": 3,
+          "span": "3. $n_3 = 3 \\implies n_2 = 0, n_1 = -3$ (Impossible)."
+        },
+        {
+          "type": "E6",
+          "start_step": 3,
+          "span": "Remaining values for first 4 slots: $\\{3,3,3,1\\}$."
+        },
+        {
+          "type": "E6",
+          "start_step": 3,
+          "span": "At 0: Need $s_1=3$. Remaining $\\{3,2,2\\}$ in 4 slots. Perms $3!/2! = 3$."
+        }
+      ]
+    }
+  ]
+}

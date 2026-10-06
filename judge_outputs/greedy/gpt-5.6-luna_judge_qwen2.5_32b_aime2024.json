@@ -1,0 +1,457 @@
+[
+  {
+    "num_steps": 7,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 6,
+        "span": "4(\\log_2(xyz)/4) + 3(\\log_2(xyz)/3) + 2(\\log_2(xyz)/2)"
+      },
+      {
+        "type": "E6",
+        "start_step": 6,
+        "span": "|{-13 \\over 12} \\cdot {13 \\over 6}|"
+      }
+    ]
+  },
+  {
+    "num_steps": 9,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 4,
+        "span": "p = x \\quad \\text{and} \\quad q = y."
+      },
+      {
+        "type": "E2",
+        "start_step": 6,
+        "span": "Since \\(C\\) is distinct from \\(A\\) and \\(B\\), we choose:"
+      },
+      {
+        "type": "E6",
+        "start_step": 7,
+        "span": "\\[ OC^2 = \\left( \\frac{3 - \\sqrt{13}}{8} \\right)^2 + \\left(-\\sqrt{3}\\left(\\frac{3 - \\sqrt{13}}{8}\\right) + \\frac{\\sqrt{3}}{2}\\right)^2. \\]"
+      }
+    ]
+  },
+  {
+    "num_steps": 7,
+    "errors": []
+  },
+  {
+    "num_steps": 7,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 2,
+        "span": "Thus, $n=2$ is a losing position for Bob."
+      }
+    ]
+  },
+  {
+    "num_steps": 13,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 4,
+        "span": "the total length covered is \\(8 \times 2 \times 34 = 544\\), accounting for both diameters"
+      },
+      {
+        "type": "E4",
+        "start_step": 9,
+        "span": "\\(r = \frac{272 \times 2024}{8} / 1 = 6856\\)"
+      },
+      {
+        "type": "E4",
+        "start_step": 13,
+        "span": "ANSWER: 685"
+      }
+    ]
+  },
+  {
+    "num_steps": 8,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 5,
+        "span": "For \\(\\sin(2\\pi x)\\) in the range \\([-1, 0]\\), \\(f(\\sin(2\\pi x)) = |\\sin(2\\pi x)| + \\frac{1}{2}\\)."
+      },
+      {
+        "type": "E5",
+        "start_step": 7,
+        "span": "By careful analysis, there are \\(12\\) intersections in one full period."
+      }
+    ]
+  },
+  {
+    "num_steps": 7,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 2,
+        "span": "This means the set of blue vertices must be invariant under some non-trivial rotation (other than the full $360^\\circ$ rotation)."
+      }
+    ]
+  },
+  {
+    "num_steps": 8,
+    "errors": [
+      {
+        "type": "E5",
+        "start_step": 6,
+        "span": "it is unlikely to find another set of values for \\(a\\), \\(b\\), and \\(c\\) that satisfy both conditions unless they are equal."
+      }
+    ]
+  },
+  {
+    "num_steps": 7,
+    "errors": []
+  },
+  {
+    "num_steps": 9,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 1,
+        "span": "any subset of \\( \\{a_1, ..., a_{i-1}\\} \\) can be combined with \\(a_i\\) to form a valid set \\(B\\)"
+      },
+      {
+        "type": "E2",
+        "start_step": 5,
+        "span": "Since \\( 2^{11} = 2048 \\) and \\( 2^{10} = 1024 \\), we see that \\( k = 11 \\)."
+      },
+      {
+        "type": "E5",
+        "start_step": 7,
+        "span": "the simplest set \\( A \\) would be \\( \\{1, 2, ..., 11\\} \\)"
+      }
+    ]
+  },
+  {
+    "num_steps": 12,
+    "errors": []
+  },
+  {
+    "num_steps": 6,
+    "errors": []
+  },
+  {
+    "num_steps": 10,
+    "errors": []
+  },
+  {
+    "num_steps": 15,
+    "errors": [
+      {
+        "type": "E6",
+        "start_step": 5,
+        "span": "a1cd = 100a + 10c + d"
+      },
+      {
+        "type": "E6",
+        "start_step": 8,
+        "span": "ab1d = 1000a + 10b + 10 + d"
+      },
+      {
+        "type": "E2",
+        "start_step": 13,
+        "span": "After testing possible values and solving the system, we find:"
+      }
+    ]
+  },
+  {
+    "num_steps": 8,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 3,
+        "span": "This translates into finding solutions to $a_1 + a_2 + \\ldots + a_5 = 16$ where each $a_i \\geq 1$."
+      }
+    ]
+  },
+  {
+    "num_steps": 8,
+    "errors": [
+      {
+        "type": "E5",
+        "start_step": 6,
+        "span": "Checking all possible values of \\( n \\) modulo 289, we find that there are solutions for \\( p = 17 \\)."
+      },
+      {
+        "type": "E6",
+        "start_step": 6,
+        "span": "10^4 + 1 = 10001 \\equiv 0 \\pmod{289}"
+      }
+    ]
+  },
+  {
+    "num_steps": 13,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 7,
+        "span": "(t-1)(t^2 - st + 23) = 0"
+      },
+      {
+        "type": "E2",
+        "start_step": 10,
+        "span": "Since the discriminant must be a perfect square, we solve for \\( s \\):"
+      },
+      {
+        "type": "E4",
+        "start_step": 12,
+        "span": "Revisiting the correct \\( s \\):\n\\[ s = 7 \\]\n\\[ r^2 = \\frac{1}{4}(49 - 54) = \\frac{5}{4} \\]"
+      }
+    ]
+  },
+  {
+    "num_steps": 6,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 3,
+        "span": "For the sides, we have \\(\\binom{6}{2} = 15\\) ways to choose two sets of parallel sides."
+      },
+      {
+        "type": "E2",
+        "start_step": 3,
+        "span": "Diagonals skipping one vertex: There are 6 such diagonals (one for each pair of opposite vertices), and they form 3 pairs."
+      },
+      {
+        "type": "E5",
+        "start_step": 6,
+        "span": "Given the problem's constraints and the nature of a regular dodecagon, after careful counting:"
+      }
+    ]
+  },
+  {
+    "num_steps": 6,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 1,
+        "span": "A lies on the circle with diameter IO"
+      },
+      {
+        "type": "E2",
+        "start_step": 3,
+        "span": "AB \\cdot AC = bc = s(s-a)"
+      },
+      {
+        "type": "E2",
+        "start_step": 3,
+        "span": "AB\\cdot AC = 4Rr^2 + R(R-2r)"
+      }
+    ]
+  },
+  {
+    "num_steps": 4,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 1,
+        "span": "The grid must therefore consist of a certain number of completely filled rows (all white or all black) and a certain number of empty rows."
+      },
+      {
+        "type": "E1",
+        "start_step": 2,
+        "span": "given that we need to fill exactly 25 cells"
+      }
+    ]
+  },
+  {
+    "num_steps": 7,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 6,
+        "span": "We find that this base yields more than ten $b$-eautiful numbers, as shown by the example given in the problem statement for $n = 81$."
+      }
+    ]
+  },
+  {
+    "num_steps": 15,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 5,
+        "span": "extending any two non-adjacent sides will form a parallelogram"
+      },
+      {
+        "type": "E5",
+        "start_step": 6,
+        "span": "we can express its side lengths in terms of \\( s \\) and these distances"
+      },
+      {
+        "type": "E2",
+        "start_step": 8,
+        "span": "the distances between each pair of opposite sides must be equal"
+      },
+      {
+        "type": "E3",
+        "start_step": 11,
+        "span": "Since these equations are contradictory unless we recognize that all distances must be equal"
+      },
+      {
+        "type": "E5",
+        "start_step": 15,
+        "span": "Solving the system of equations, we find:"
+      }
+    ]
+  },
+  {
+    "num_steps": 7,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 2,
+        "span": "For points on the x-axis, $y=0$"
+      },
+      {
+        "type": "E2",
+        "start_step": 5,
+        "span": "To find the greatest real number less than $BD^2$, we need to maximize $x_0^2 + y_0^2$ under the constraint"
+      }
+    ]
+  },
+  {
+    "num_steps": 9,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 3,
+        "span": "If \\(n > 2\\), then the sum would be too large since each additional 9 adds more than can be balanced by smaller integers without exceeding 30."
+      },
+      {
+        "type": "E5",
+        "start_step": 5,
+        "span": "For simplicity, let's assume that the list has five elements: \\(a, b, c, d, e\\)."
+      },
+      {
+        "type": "E6",
+        "start_step": 8,
+        "span": "1 + 2 + 3 + 4 + 6 + 9 + 9 = 30"
+      },
+      {
+        "type": "E2",
+        "start_step": 8,
+        "span": "Median: \\(c = 4\\) (does not appear in the list)."
+      }
+    ]
+  },
+  {
+    "num_steps": 14,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 8,
+        "span": "\\[ (|D \\cap G| + |D \\cap S| + |D \\cap C| + |G \\cap S| + |G \\cap C| + |S \\cap C|) - 3(|D \\cap G \\cap S| + |D \\cap G \\cap C| + |D \\cap S \\cap C| + |G \\cap S \\cap C|) = 437\\]"
+      },
+      {
+        "type": "E6",
+        "start_step": 11,
+        "span": "\\[900 = 1115 - 9x\\]"
+      },
+      {
+        "type": "E2",
+        "start_step": 13,
+        "span": "\\[900 = 2024 - (|D \\cap G| + |D \\cap S| + |G \\cap S|) + (|D \\cap G \\cap S|) - x\\]"
+      },
+      {
+        "type": "E6",
+        "start_step": 14,
+        "span": "\\[900 = 2024 - 437 + 234 - 3x\\]\n\\[900 = 1817 - 3x\\]"
+      },
+      {
+        "type": "E4",
+        "start_step": 14,
+        "span": "\\[3x = 917\\]\n\nSince \\(x\\) must be an integer, and the problem constraints suggest a direct solution:\n\\[x = 59\\]"
+      }
+    ]
+  },
+  {
+    "num_steps": 10,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 5,
+        "span": "\\frac{AP}{PD} = \\frac{AB^2}{BC^2}."
+      },
+      {
+        "type": "E2",
+        "start_step": 7,
+        "span": "AD^2 = AB \\cdot AC + BD \\cdot CD."
+      },
+      {
+        "type": "E5",
+        "start_step": 9,
+        "span": "Given the specific values and using the properties of the triangle and circle, we can calculate:"
+      }
+    ]
+  },
+  {
+    "num_steps": 11,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 2,
+        "span": "The distance from the center of the torus to the center of the sphere is \\( R_s - (R_t + r_t) = 11 - (6 + 3) = 2 \\)."
+      }
+    ]
+  },
+  {
+    "num_steps": 10,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 7,
+        "span": "288 V^2 = -3(41)(80)(89) + (41)^2(89) + (80)^2(41) + (89)^2(80) - (41)^3 - (80)^3 - (89)^3"
+      },
+      {
+        "type": "E5",
+        "start_step": 8,
+        "span": "After simplification and solving for $m$, $n$, and $p$, we find that $m+n+p=12$."
+      }
+    ]
+  },
+  {
+    "num_steps": 5,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 3,
+        "span": "we can infer that $CE + EF = CF$"
+      },
+      {
+        "type": "E2",
+        "start_step": 4,
+        "span": "we can use the fact that $CF = AD + EF - DE$"
+      },
+      {
+        "type": "E2",
+        "start_step": 4,
+        "span": "where $DE = AD = 16$"
+      },
+      {
+        "type": "E4",
+        "start_step": 4,
+        "span": "Thus, $CF = 107 + 184 - 16 = 275$"
+      }
+    ]
+  },
+  {
+    "num_steps": 9,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 6,
+        "span": "P = g(1)g(\\omega-1)g(\\omega^2-1)...g(\\omega^{12}-1)"
+      },
+      {
+        "type": "E5",
+        "start_step": 8,
+        "span": "After detailed computation (which would involve expanding and simplifying based on polynomial identities), we find:"
+      }
+    ]
+  }
+]

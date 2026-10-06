@@ -1,0 +1,365 @@
+[
+  {
+    "problem_idx": "2024-II-4",
+    "final_answer_correct": false,
+    "num_steps": 18,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 6,
+        "span": "1 = 2^{13/12}"
+      }
+    ]
+  },
+  {
+    "problem_idx": "2024-II-12",
+    "final_answer_correct": false,
+    "num_steps": 8,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 3,
+        "span": "A segment \\( \\overline{PQ} \\) of unit length with \\( P \\) on the \\( x \\)-axis and \\( Q \\) on the \\( y \\)-axis can be parameterized as:\n\\[ P(t, 0), \\quad Q(0, t) \\]"
+      }
+    ]
+  },
+  {
+    "problem_idx": "2024-I-4",
+    "final_answer_correct": true,
+    "num_steps": 5,
+    "errors": []
+  },
+  {
+    "problem_idx": "2024-I-3",
+    "final_answer_correct": false,
+    "num_steps": 6,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 1,
+        "span": "- If \\( n = 2, 3 \\), Alice can take all tokens and win."
+      }
+    ]
+  },
+  {
+    "problem_idx": "2024-I-8",
+    "final_answer_correct": false,
+    "num_steps": 10,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 1,
+        "span": "- The centers of these circles form a regular octagon."
+      },
+      {
+        "type": "E2",
+        "start_step": 3,
+        "span": "which is the same as the circumradius of the octagon:"
+      },
+      {
+        "type": "E2",
+        "start_step": 7,
+        "span": "Since the inradius of triangle \\(ABC\\) is consistent with both scenarios, we equate:"
+      },
+      {
+        "type": "E2",
+        "start_step": 9,
+        "span": "Thus,\n\\[ m = 62, n = 1 \\]"
+      }
+    ]
+  },
+  {
+    "problem_idx": "2024-I-12",
+    "final_answer_correct": false,
+    "num_steps": 11,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 2,
+        "span": "Similarly:\n\\[ g(x) = \\left| x - \\frac{1}{4} \\right|. \\]"
+      }
+    ]
+  },
+  {
+    "problem_idx": "2024-I-11",
+    "final_answer_correct": false,
+    "num_steps": 7,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 2,
+        "span": "- **Case \\(k = 0\\)**: There are no blue vertices, so there are no valid rotations. The probability for this case is \\(0\\)."
+      }
+    ]
+  },
+  {
+    "problem_idx": "2024-II-11",
+    "final_answer_correct": false,
+    "num_steps": 7,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 6,
+        "span": "By comparing terms and solving, we find that the only feasible solution is when \\(a = b = c = 100\\). Let's verify:\n\\[100^2(100+100) + 100^2(100+100) + 100^2(100+100) = 3 \\cdot 100^4 = 3 \\cdot 100000000 = 6,000,000.\\]"
+      }
+    ]
+  },
+  {
+    "problem_idx": "2024-I-2",
+    "final_answer_correct": false,
+    "num_steps": 12,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 10,
+        "span": "Equate the exponents and solve for \\(a\\) and \\(b\\). By inspection, we find that:\n\\[ a = b = 2 \\]\nThus,\n\\[ x = e^2 \\]\n\\[ y = e^2 \\]"
+      }
+    ]
+  },
+  {
+    "problem_idx": "2024-II-6",
+    "final_answer_correct": false,
+    "num_steps": 7,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 2,
+        "span": "For each \\( a_i \\in A \\), we can form sets \\( B \\) by choosing any nonempty subset of the elements in \\( A \\) that are less than or equal to \\( a_i \\)."
+      }
+    ]
+  },
+  {
+    "problem_idx": "2024-I-7",
+    "final_answer_correct": false,
+    "num_steps": 7,
+    "errors": [
+      {
+        "type": "E6",
+        "start_step": 6,
+        "span": "\\[ \\sqrt{324^2 + (-504)^2} = \\sqrt{104976 + 254016} = \\sqrt{358992}. \\]"
+      }
+    ]
+  },
+  {
+    "problem_idx": "2024-II-3",
+    "final_answer_correct": false,
+    "num_steps": 7,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 3,
+        "span": "This implies that \\(a + d = 9\\) and \\(b + e + c + f = 9\\)."
+      }
+    ]
+  },
+  {
+    "problem_idx": "2024-I-1",
+    "final_answer_correct": true,
+    "num_steps": 7,
+    "errors": []
+  },
+  {
+    "problem_idx": "2024-II-7",
+    "final_answer_correct": false,
+    "num_steps": 8,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 2,
+        "span": "\\[ 1000a + 100b + 10c + d - (999a) = a + 100b + 10c + d \\equiv 0 \\pmod{7} \\]"
+      }
+    ]
+  },
+  {
+    "problem_idx": "2024-I-6",
+    "final_answer_correct": false,
+    "num_steps": 9,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 4,
+        "span": "We need to place four direction changes in the 15 possible positions between the 16 steps. This is equivalent to choosing 4 out of these 15 positions, which can be done in \\(\\binom{15}{4}\\) ways."
+      }
+    ]
+  },
+  {
+    "problem_idx": "2024-I-13",
+    "final_answer_correct": false,
+    "num_steps": 5,
+    "errors": [
+      {
+        "type": "E6",
+        "start_step": 4,
+        "span": "6^4 = 1296 \\equiv -1 \\pmod{13} \\quad (\\text{since } 1296 \\div 13 = 99 \\text{ remainder } 9)"
+      }
+    ]
+  },
+  {
+    "problem_idx": "2024-I-15",
+    "final_answer_correct": false,
+    "num_steps": 6,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 2,
+        "span": "Since the volume is 23 (which is a prime number), one of the dimensions must be 1."
+      }
+    ]
+  },
+  {
+    "problem_idx": "2024-II-15",
+    "final_answer_correct": false,
+    "num_steps": 5,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 1,
+        "span": "To form a rectangle using only its sides, we need to choose two pairs of opposite sides."
+      }
+    ]
+  },
+  {
+    "problem_idx": "2024-II-10",
+    "final_answer_correct": false,
+    "num_steps": 6,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 4,
+        "span": "Since \\(\\overline{IA} \\perp \\overline{OI}\\), we have:\n\\[AI^2 = R(R - r) = 13(13 - 6) = 13 \\cdot 7 = 91.\\]"
+      }
+    ]
+  },
+  {
+    "problem_idx": "2024-II-9",
+    "final_answer_correct": false,
+    "num_steps": 8,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 2,
+        "span": "We need to determine how many ways we can assign colors (white or black) to each row and each column. Since there are 5 rows and 5 columns, and each must be either all white or all black, the problem reduces to finding the number of binary strings of length 5."
+      }
+    ]
+  },
+  {
+    "problem_idx": "2024-II-14",
+    "final_answer_correct": false,
+    "num_steps": 3,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 1,
+        "span": "Let's denote the two-digit number in base \\( b \\) as \\( \\overline{ab}_b \\), where \\( a \\) and \\( b \\) are its digits. This number can be written as:\n\\[ n = ab + b^1a + 0 \\cdot b^2 = a \\cdot b + b \\cdot a = (a+b)b \\]"
+      }
+    ]
+  },
+  {
+    "problem_idx": "2024-II-5",
+    "final_answer_correct": false,
+    "num_steps": 9,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 3,
+        "span": "The triangle formed by extending these sides is a larger equilateral triangle."
+      }
+    ]
+  },
+  {
+    "problem_idx": "2024-I-9",
+    "final_answer_correct": false,
+    "num_steps": 6,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 4,
+        "span": "we can use the fact that the maximum value of \\(BD^2\\) occurs when the points are at the vertices of the asymptotes or where the distance is maximized under the given constraints."
+      }
+    ]
+  },
+  {
+    "problem_idx": "2024-II-2",
+    "final_answer_correct": false,
+    "num_steps": 10,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 6,
+        "span": "This gives us the list [1, 2, 9, 9, 3, 4], which sums to 20."
+      }
+    ]
+  },
+  {
+    "problem_idx": "2024-II-1",
+    "final_answer_correct": false,
+    "num_steps": 7,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 3,
+        "span": "- The number of residents who own exactly two items: 437.\n- The number of residents who own exactly three items: 234."
+      }
+    ]
+  },
+  {
+    "problem_idx": "2024-I-10",
+    "final_answer_correct": false,
+    "num_steps": 9,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 3,
+        "span": "By the Power of a Point theorem, for point $A$ with respect to circle $\\omega$, we know that $AB \\cdot AC = AP \\cdot AD$."
+      }
+    ]
+  },
+  {
+    "problem_idx": "2024-II-8",
+    "final_answer_correct": false,
+    "num_steps": 5,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 2,
+        "span": "The distance from the center of the sphere to the center of the torus (which we'll call the major radius of the torus plus the radius of the sphere minus the minor radius of the torus) is 11 - 3 = 8."
+      }
+    ]
+  },
+  {
+    "problem_idx": "2024-I-14",
+    "final_answer_correct": false,
+    "num_steps": 5,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 1,
+        "span": "Expanding this determinant, we find:\n\\[\n288 V^2 = -567 \\implies V^2 = \\frac{567}{288} = \\frac{63}{32}"
+      }
+    ]
+  },
+  {
+    "problem_idx": "2024-I-5",
+    "final_answer_correct": false,
+    "num_steps": 9,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 3,
+        "span": "The coordinates of points in the coordinate plane can be set as follows:\n- \\( A(0, 16) \\)\n- \\( B(107, 16) \\)\n- \\( C(107, 0) \\)\n- \\( D(x_1, y_1) \\)\n- \\( E(x_2, y_2) \\)\n- \\( F(x_3, 17) \\)"
+      }
+    ]
+  },
+  {
+    "problem_idx": "2024-II-13",
+    "final_answer_correct": false,
+    "num_steps": 12,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 5,
+        "span": "We need to evaluate the product at \\( x = 2 \\):\n\\[ P(2) = (2-1)(2-\\omega)(2-\\omega^2)\\cdots(2-\\omega^{12}) = 1. \\]"
+      }
+    ]
+  }
+]

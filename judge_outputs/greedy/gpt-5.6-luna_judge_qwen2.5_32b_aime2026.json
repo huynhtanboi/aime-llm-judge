@@ -1,0 +1,444 @@
+[
+  {
+    "num_steps": 10,
+    "errors": []
+  },
+  {
+    "num_steps": 7,
+    "errors": [
+      {
+        "type": "E6",
+        "start_step": 4,
+        "span": "Possible pairs $(b, c)$ are (5, 1), (4, 3), (3, 5), and (2, 7)."
+      },
+      {
+        "type": "E5",
+        "start_step": 5,
+        "span": "From Step 2 and Step 4, we have found that there are 5 three-digit palindromes and 10 five-digit palindromes."
+      }
+    ]
+  },
+  {
+    "num_steps": 8,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 2,
+        "span": "The center of the sphere must be at least \\(42\\) units above the plane of the disk. The highest point on the sphere is then \\(84\\) units above the plane of the disk (since the radius of the sphere is \\(42\\)). For this point to lie inside the hemisphere, it must satisfy:"
+      },
+      {
+        "type": "E6",
+        "start_step": 3,
+        "span": "\\(\\sqrt{32944} = 181.5\\)"
+      }
+    ]
+  },
+  {
+    "num_steps": 7,
+    "errors": [
+      {
+        "type": "E5",
+        "start_step": 6,
+        "span": "After performing these steps, we find that there are 49 such integers less than or equal to 100 that can be expressed as \\(a + b + ab\\)."
+      }
+    ]
+  },
+  {
+    "num_steps": 7,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 3,
+        "span": "\\(\\angle A'B'B = \\theta\\)."
+      },
+      {
+        "type": "E2",
+        "start_step": 5,
+        "span": "and \\(A'A = 1\\)"
+      },
+      {
+        "type": "E2",
+        "start_step": 6,
+        "span": "In triangle \\(A'B'B\\):\n\\[ AB'^2 ="
+      }
+    ]
+  },
+  {
+    "num_steps": 11,
+    "errors": []
+  },
+  {
+    "num_steps": 4,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 2,
+        "span": "The only valid combinations given the constraint are:\n\n- Six fixed points (length 1 cycles)\n- Three disjoint transpositions (three length 2 cycles)\n- Two disjoint 3-cycles\n- One 6-cycle"
+      }
+    ]
+  },
+  {
+    "num_steps": 8,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 1,
+        "span": "17017 = 7 \\times 13 \\times 19"
+      },
+      {
+        "type": "E2",
+        "start_step": 6,
+        "span": "we need:\n\\[(-5)^{a+c} \\equiv (-5) \\mod{12}\\]"
+      },
+      {
+        "type": "E6",
+        "start_step": 7,
+        "span": "there are $\\frac{18}{2} = 9$ ways to choose an odd sum for $a+c$"
+      }
+    ]
+  },
+  {
+    "num_steps": 7,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 2,
+        "span": "we can consider these as fixed positions for those rolls"
+      }
+    ]
+  },
+  {
+    "num_steps": 7,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 4,
+        "span": "creates a right triangle with hypotenuse equal to the diameter of the circumcircle"
+      },
+      {
+        "type": "E2",
+        "start_step": 6,
+        "span": "The hexagon can be seen as two triangles ($\\triangle ABC$ and $\\triangle A'B'C'$) minus their overlapping areas (two isosceles triangles with base equal to the sides of the original triangle)."
+      }
+    ]
+  },
+  {
+    "num_steps": 8,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 5,
+        "span": "M \\approx 32 \\times 112 = 3584."
+      },
+      {
+        "type": "E2",
+        "start_step": 6,
+        "span": "The alternating pattern ensures maximum difference between adjacent cells."
+      }
+    ]
+  },
+  {
+    "num_steps": 6,
+    "errors": [
+      {
+        "type": "E6",
+        "start_step": 3,
+        "span": "2 - \\frac{8(4+4-12)}{13}"
+      },
+      {
+        "type": "E2",
+        "start_step": 4,
+        "span": "The distance from the center of each sphere to plane \\(\\mathcal T\\) is equal to its radius plus a constant height \\(h\\)."
+      }
+    ]
+  },
+  {
+    "num_steps": 7,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 4,
+        "span": "by Fermat\u2019s little theorem, this simplifies to \\( 1 \\mod 503 \\)."
+      }
+    ]
+  },
+  {
+    "num_steps": 11,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 5,
+        "span": "\\[ \\sum_{i=1}^{5}a_i^2 + \\sum_{\\text{diagonals}}d_{ij}^2 = \\frac{3}{4}\\left(\\sum_{i=1}^{5} a_i\\right)^2. \\]"
+      },
+      {
+        "type": "E6",
+        "start_step": 9,
+        "span": "\\[ P^2 = \\frac{4432}{3} = m \\sqrt{n}, \\]"
+      }
+    ]
+  },
+  {
+    "num_steps": 10,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 7,
+        "span": "We need to count the number of ways to partition 60 into sums of five pairs \\((a_i, b_i)\\), where each pair satisfies \\(2 \\leq a_i, b_i \\leq 10\\)."
+      }
+    ]
+  },
+  {
+    "num_steps": 10,
+    "errors": []
+  },
+  {
+    "num_steps": 10,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 2,
+        "span": "each move is either moving one square to the right (R) or moving up and then right (U)"
+      },
+      {
+        "type": "E2",
+        "start_step": 8,
+        "span": "since 3003 isn't a perfect square, we look for its closest integer approximation"
+      }
+    ]
+  },
+  {
+    "num_steps": 9,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 1,
+        "span": "we can infer that points \\( B, C, \\) and \\( D \\) lie on a line parallel to \\( AE \\)"
+      },
+      {
+        "type": "E2",
+        "start_step": 4,
+        "span": "given the symmetry and angles involved, we can place \\( D \\) at:"
+      },
+      {
+        "type": "E2",
+        "start_step": 5,
+        "span": "Since \\( BC = 14\\sqrt{2} \\) and forms a right isosceles triangle with legs of length 14"
+      },
+      {
+        "type": "E5",
+        "start_step": 8,
+        "span": "By solving and checking each integer value from \\( x = 1 \\) to \\( x < 2026 \\), we find the number of valid solutions."
+      }
+    ]
+  },
+  {
+    "num_steps": 6,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 4,
+        "span": "By checking each possible value of \\( a \\) and \\( b \\), we find that no two-digit number satisfies the condition."
+      }
+    ]
+  },
+  {
+    "num_steps": 10,
+    "errors": [
+      {
+        "type": "E6",
+        "start_step": 3,
+        "span": "\\[ \\frac{(n-r)(n-r-1)(n-r-2)}{6} = \\frac{(r-4) (n-r)(n-r-1)}{20}. \\]"
+      },
+      {
+        "type": "E2",
+        "start_step": 8,
+        "span": "Thus, the smallest integer values for \\( k \\) are \\( k = 1, 2, 3, 4, 5 \\)."
+      }
+    ]
+  },
+  {
+    "num_steps": 7,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 3,
+        "span": "The circle and parabola are tangent if they intersect at exactly one point."
+      },
+      {
+        "type": "E2",
+        "start_step": 5,
+        "span": "For tangency, this quadratic equation in \\( x \\) must have exactly one solution."
+      },
+      {
+        "type": "E5",
+        "start_step": 6,
+        "span": "After solving, we find two possible radii:"
+      }
+    ]
+  },
+  {
+    "num_steps": 9,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 2,
+        "span": "We need to find the number of ways Alice and Bob can each get exactly 2 coins in a sequence, with no Carol's coin appearing."
+      }
+    ]
+  },
+  {
+    "num_steps": 10,
+    "errors": [
+      {
+        "type": "E5",
+        "start_step": 8,
+        "span": "All conditions are satisfied."
+      }
+    ]
+  },
+  {
+    "num_steps": 12,
+    "errors": [
+      {
+        "type": "E6",
+        "start_step": 5,
+        "span": "\\frac{1/10^{2k}}{9/10^k} = \\frac{1}{9 \\cdot 10^k}"
+      },
+      {
+        "type": "E2",
+        "start_step": 9,
+        "span": "10^{100} = (10^4)^{25} \\equiv 376^{25} \\mod 1000"
+      },
+      {
+        "type": "E2",
+        "start_step": 9,
+        "span": "To find the remainder when $\\frac{10^{100}}{81}$ is divided by $1000$, we need to consider the last three digits of $10^{100}/81$."
+      },
+      {
+        "type": "E6",
+        "start_step": 10,
+        "span": "81^{-1} \\equiv 493 \\mod 1000"
+      }
+    ]
+  },
+  {
+    "num_steps": 10,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 1,
+        "span": "implying $AD$ is perpendicular to $BC$ (since it's a radius perpendicular to the tangent line)."
+      },
+      {
+        "type": "E6",
+        "start_step": 5,
+        "span": "This implies that $k^2$ must be a multiple of the least common multiple (LCM) of 50 and 25, which is 50."
+      },
+      {
+        "type": "E2",
+        "start_step": 8,
+        "span": "further multiples would not satisfy these conditions without violating the constraints."
+      }
+    ]
+  },
+  {
+    "num_steps": 7,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 4,
+        "span": "This implies that $s^2$ can take on exactly seven distinct values"
+      },
+      {
+        "type": "E2",
+        "start_step": 4,
+        "span": "we have two cases for $p$: $p = -19$ or $p = 21$."
+      },
+      {
+        "type": "E2",
+        "start_step": 6,
+        "span": "The simplest way is if these are consecutive integers"
+      }
+    ]
+  },
+  {
+    "num_steps": 6,
+    "errors": [
+      {
+        "type": "E6",
+        "start_step": 1,
+        "span": "Simplifying, we get \\(A = 25\\)."
+      },
+      {
+        "type": "E5",
+        "start_step": 2,
+        "span": "The height from one vertex to the opposite face (using the area and side lengths) is calculated as follows."
+      },
+      {
+        "type": "E2",
+        "start_step": 3,
+        "span": "The circumradius \\(R_c\\) for a tetrahedron with vertices on a sphere can be found using:\n\\[ R_c = \\frac{abc}{4A}, \\]"
+      },
+      {
+        "type": "E2",
+        "start_step": 4,
+        "span": "The formula for the distance \\(d\\) between the circumcenter and incenter of a tetrahedron is given by:\n\\[ d^2 = R_c^2 - 2rR_c. \\]"
+      }
+    ]
+  },
+  {
+    "num_steps": 10,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 4,
+        "span": "each element in \\(S\\) has exactly 2 choices for pairing, leading to \\(2^n\\) total pairings."
+      },
+      {
+        "type": "E2",
+        "start_step": 5,
+        "span": "The subtraction of 1 accounts for excluding the case where all elements in \\(T\\) are exactly one more or less than those in \\(S\\), which would not be disjoint."
+      },
+      {
+        "type": "E6",
+        "start_step": 7,
+        "span": "\\(n \\approx \\log_2(4041) \\approx 12.003\\)"
+      },
+      {
+        "type": "E2",
+        "start_step": 9,
+        "span": "we see that \\(n = 12\\) is indeed the smallest integer satisfying the condition."
+      }
+    ]
+  },
+  {
+    "num_steps": 10,
+    "errors": [
+      {
+        "type": "E5",
+        "start_step": 9,
+        "span": "After careful enumeration, we find that there are specific patterns in how these sequences can be constructed to meet both conditions. The exact number of such sequences is determined by systematically counting all valid configurations."
+      }
+    ]
+  },
+  {
+    "num_steps": 11,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 6,
+        "span": "this means that for each term to contribute to making E a multiple of 3, it must include at least one '3'."
+      },
+      {
+        "type": "E2",
+        "start_step": 8,
+        "span": "This can happen if there are at least three '3's among $a_1, a_2, \\ldots, a_7$."
+      },
+      {
+        "type": "E2",
+        "start_step": 9,
+        "span": "Calculate the number of ways to place at least three '3's in seven positions."
+      }
+    ]
+  }
+]

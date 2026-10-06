@@ -1,0 +1,527 @@
+[
+  {
+    "num_steps": 3,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 1,
+        "span": "\\frac{\\ln(x)}{yz} - \\frac{\\ln(y)}{y} - \\frac{\\ln(z)}{z} = \\frac{1}{2}"
+      },
+      {
+        "type": "E2",
+        "start_step": 2,
+        "span": "\\frac{x y z}{y z x} = 1"
+      },
+      {
+        "type": "E6",
+        "start_step": 3,
+        "span": "\\frac{6+8+9}{12} = \\frac{23}{12} > 0"
+      }
+    ]
+  },
+  {
+    "num_steps": 1,
+    "errors": [
+      {
+        "type": "E6",
+        "start_step": 1,
+        "span": "Equation: $y = -\\frac{v}{u}(x-u) \\Rightarrow ux + vy = uv$."
+      },
+      {
+        "type": "E2",
+        "start_step": 1,
+        "span": "Since $u^2+v^2=1$, the equation is $ux + vy = u^2+v^2$"
+      },
+      {
+        "type": "E5",
+        "start_step": 1,
+        "span": "Let's assume the boundary consists of two circles:"
+      }
+    ]
+  },
+  {
+    "num_steps": 2,
+    "errors": [
+      {
+        "type": "E5",
+        "start_step": 2,
+        "span": "However, consider this: If she shares"
+      }
+    ]
+  },
+  {
+    "num_steps": 38,
+    "errors": [
+      {
+        "type": "E6",
+        "start_step": 9,
+        "span": "Moves to $7$ or $2$."
+      },
+      {
+        "type": "E2",
+        "start_step": 11,
+        "span": "$8-1=7(L)$? No ($W$)."
+      },
+      {
+        "type": "E5",
+        "start_step": 38,
+        "span": "Actually, simpler logic:"
+      }
+    ]
+  },
+  {
+    "num_steps": 1,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 1,
+        "span": "This implies we have two chains: one chain with eight circles and another with twenty-four circles (since there are two sets)."
+      },
+      {
+        "type": "E5",
+        "start_step": 1,
+        "span": "Let's try to reverse engineer from the answer format ($m+n"
+      }
+    ]
+  },
+  {
+    "num_steps": 1,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 1,
+        "span": "If $0 \\le u < 1/2$: $\\phi(u) = u - 1/4$ (since $|u|-1/2 < 0$)."
+      },
+      {
+        "type": "E5",
+        "start_step": 1,
+        "span": "Let's use the explicit formula derived earlier which seemed consistent:"
+      }
+    ]
+  },
+  {
+    "num_steps": 2,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 2,
+        "span": "This means: For every vertex in the new configuration that has color B, its source position must have been R."
+      },
+      {
+        "type": "E3",
+        "start_step": 2,
+        "span": "Let's reconsider the problem statement source context (likely AIME 2015 Problem 9)."
+      },
+      {
+        "type": "E5",
+        "start_step": 2,
+        "span": "This means that if we look at the sequence of colors, and shift it by $k$, then any B must be preceded (or rather, map to)"
+      }
+    ]
+  },
+  {
+    "num_steps": 18,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 5,
+        "span": "(a+b+c)^3 = a^3 + b^3 + c^3 + 3(a+b)(b+c)(c+a)"
+      },
+      {
+        "type": "E5",
+        "start_step": 18,
+        "span": "We know that:"
+      }
+    ]
+  },
+  {
+    "num_steps": 2,
+    "errors": [
+      {
+        "type": "E4",
+        "start_step": 2,
+        "span": "So Eq B is $4y \\cdot (1/r)$ where $r=\\log_x y$? NO!"
+      }
+    ]
+  },
+  {
+    "num_steps": 78,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 6,
+        "span": "The number of such subsets is simply the number of nonempty subsets of $\\{1, 2, \\dots, m-1\\}$. This count is given by the formula for powers: $2^{(m-1)} - 1$"
+      }
+    ]
+  },
+  {
+    "num_steps": 1,
+    "errors": [
+      {
+        "type": "E6",
+        "start_step": 1,
+        "span": "Term 2: \\(\\frac{96+144i}{z} = R |B| e^{i(\\beta-\\theta)}\\)"
+      },
+      {
+        "type": "E5",
+        "start_step": 1,
+        "span": "No, $1"
+      }
+    ]
+  },
+  {
+    "num_steps": 59,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 2,
+        "span": "a_{00} + a_{01} \\cdot 10 + a_{02} = 99"
+      }
+    ]
+  },
+  {
+    "num_steps": 34,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 7,
+        "span": "So, $9 = s(240 + t) / 60$."
+      },
+      {
+        "type": "E6",
+        "start_step": 28,
+        "span": "$s$ km/h $\\rightarrow$ $s \\times \\frac{1000}{3600}$ m/min $= \\frac{s}{3.6}$ m/min."
+      },
+      {
+        "type": "E5",
+        "start_step": 34,
+        "span": "Factor out $1944$:"
+      }
+    ]
+  },
+  {
+    "num_steps": 44,
+    "errors": [
+      {
+        "type": "E6",
+        "start_step": 3,
+        "span": "N' = 1000d_3 + 100d_2 + 10d_1 + (d_0+1)"
+      },
+      {
+        "type": "E2",
+        "start_step": 4,
+        "span": "The resulting number is $N'' = N - d_1 + 1$."
+      },
+      {
+        "type": "E6",
+        "start_step": 7,
+        "span": "1000 = 98 \\times 10 + 2"
+      },
+      {
+        "type": "E5",
+        "start_step": 44,
+        "span": "Since we"
+      }
+    ]
+  },
+  {
+    "num_steps": 4,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 1,
+        "span": "Thus, every valid path has exactly $n=14$ steps."
+      },
+      {
+        "type": "E2",
+        "start_step": 3,
+        "span": "Total = 2 changes. Number of runs = 4. Formula: Runs - 1 = 3? No."
+      },
+      {
+        "type": "E5",
+        "start_step": 4,
+        "span": "Actually, for any sequence of moves $m_1, m_2,"
+      }
+    ]
+  },
+  {
+    "num_steps": 2,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 1,
+        "span": "(ia)^4 = i^4 a^4 = a^4 \\cdot (-1) \\equiv -1 \\pmod p"
+      },
+      {
+        "type": "E6",
+        "start_step": 1,
+        "span": "roots exist mod 5: $x^4 \\equiv 4 \\implies x=\\pm 3$ (since $9\\equiv -1$)."
+      },
+      {
+        "type": "E6",
+        "start_step": 2,
+        "span": "Fourth powers are squares of squares: $0, 1, 4$"
+      },
+      {
+        "type": "E4",
+        "start_step": 2,
+        "span": "Is it sufficient? Yes"
+      },
+      {
+        "type": "E5",
+        "start_step": 2,
+        "span": "then let roots of unity be generated by primitive root $g$."
+      }
+    ]
+  },
+  {
+    "num_steps": 31,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 21,
+        "span": "For any set of points in space, the smallest enclosing sphere has a diameter equal to the maximum distance between two points."
+      },
+      {
+        "type": "E2",
+        "start_step": 23,
+        "span": "So $x^2+y^2+z^2 \\leq xy+yz+zx$ is TRUE."
+      },
+      {
+        "type": "E5",
+        "start_step": 31,
+        "span": "Let's attempt"
+      }
+    ]
+  },
+  {
+    "num_steps": 3,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 1,
+        "span": "This means each side of such a rectangle is a diameter of the circumcircle."
+      },
+      {
+        "type": "E5",
+        "start_step": 3,
+        "span": "We have 6 lines through the center, equally spaced"
+      }
+    ]
+  },
+  {
+    "num_steps": 8,
+    "errors": [
+      {
+        "type": "E5",
+        "start_step": 8,
+        "span": "We need to find points $B$ and $C$ on this circle such that the incenter is at $(0,0)$."
+      }
+    ]
+  },
+  {
+    "num_steps": 42,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 6,
+        "span": "those chips must be of different colors (one white, one black)"
+      },
+      {
+        "type": "E5",
+        "start_step": 42,
+        "span": "Then adding a Black chip to any column that currently has NO chips is valid for the \"same color"
+      }
+    ]
+  },
+  {
+    "num_steps": 35,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 3,
+        "span": "This means $\\sqrt{2} \\cdot b < n < (\\sqrt{3}) \\cdot b"
+      },
+      {
+        "type": "E2",
+        "start_step": 6,
+        "span": "Since $n > (d_1+1)b$, then $\\sqrt{n} > \\sqrt{(d_1+1)b}$."
+      },
+      {
+        "type": "E2",
+        "start_step": 14,
+        "span": "$n < b^2 = (d_1+d_0)^2$"
+      },
+      {
+        "type": "E6",
+        "start_step": 21,
+        "span": "$n = (7-1)=6$"
+      },
+      {
+        "type": "E5",
+        "start_step": 35,
+        "span": "$s^2 = d_1"
+      }
+    ]
+  },
+  {
+    "num_steps": 3,
+    "errors": [
+      {
+        "type": "E5",
+        "start_step": 3,
+        "span": "This implies these three lines intersect at 3 points forming a triangle"
+      }
+    ]
+  },
+  {
+    "num_steps": 1,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 1,
+        "span": "Since it is a rhombus with diagonals bisecting each other (at the center), the four vertices are symmetric with respect to both axes."
+      },
+      {
+        "type": "E2",
+        "start_step": 1,
+        "span": "For a parallelogram centered at origin to be a rhombus, we need $|\\mathbf{u}| = |\\mathbf{v}|$ and diagonals perpendicular."
+      },
+      {
+        "type": "E5",
+        "start_step": 1,
+        "span": "Set equal: $(x_2-1)^2 = (x_2+1)^2 \\implies x_2^2 - 2x_2 + 1 ="
+      }
+    ]
+  },
+  {
+    "num_steps": 4,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 3,
+        "span": "If there are two numbers both appearing twice, then neither is unique mode (tie)."
+      },
+      {
+        "type": "E2",
+        "start_step": 4,
+        "span": "If list has three items, max freq is at least 3 (if all same). Then unique mode implies that k=3"
+      },
+      {
+        "type": "E6",
+        "start_step": 4,
+        "span": "Two 9s, one other? $\\{x, y\\}$. If two 9s, $N=3$, sum = $18 + x+y = 30 \\implies x+y=12$"
+      },
+      {
+        "type": "E5",
+        "start_step": 4,
+        "span": "Let's test specific counts of non-9 items."
+      }
+    ]
+  },
+  {
+    "num_steps": 73,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 9,
+        "span": "$| (n(R) \\cap n(G)) \\setminus E_2 |$"
+      },
+      {
+        "type": "E1",
+        "start_step": 14,
+        "span": "Any person who owns exactly two items can have either $\\{R, G\\}$, $\\{G, S\\}$, or $\\{S, R\\}$."
+      },
+      {
+        "type": "E3",
+        "start_step": 15,
+        "span": "Let's re-evaluate the structure of \"Exactly 2\"."
+      },
+      {
+        "type": "E5",
+        "start_step": 73,
+        "span": "There are three such combinations: $(R,G), (G,S), (S,R)$. Let counts be $a,b,c$. Sum = ?"
+      }
+    ]
+  },
+  {
+    "num_steps": 3,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 2,
+        "span": "In the cyclic quadrilateral $ABCD$"
+      },
+      {
+        "type": "E6",
+        "start_step": 3,
+        "span": "$\\sin B = \\sqrt{1 - (1/15)^2} = \\sqrt{\frac{224}{225}} = \frac{4\\sqrt{7}}{15}$? No, $224 = 32 \times 7$, so $\frac{8\\sqrt{7}}{15}$."
+      },
+      {
+        "type": "E5",
+        "start_step": 3,
+        "span": "$AD^2 = AB \\cdot"
+      }
+    ]
+  },
+  {
+    "num_steps": 3,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 1,
+        "span": "the major radius (distance from the center of the tube to the central axis) is $R = d + r_{circle}$"
+      },
+      {
+        "type": "E6",
+        "start_step": 3,
+        "span": "The distance from $O$ to any point on the circle of contact is 121."
+      },
+      {
+        "type": "E5",
+        "start_step": 3,
+        "span": "Let's assume"
+      }
+    ]
+  },
+  {
+    "num_steps": 58,
+    "errors": [
+      {
+        "type": "E5",
+        "start_step": 58,
+        "span": "with $s = \\frac"
+      }
+    ]
+  },
+  {
+    "num_steps": 2,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 1,
+        "span": "The line segment containing these four collinear points is $D-E-C-F$."
+      },
+      {
+        "type": "E5",
+        "start_step": 2,
+        "span": "Length $|x_E - x"
+      }
+    ]
+  },
+  {
+    "num_steps": 1,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 1,
+        "span": "No, because the second factor is not $(\\dots) + i$."
+      },
+      {
+        "type": "E5",
+        "start_step": 1,
+        "span": "So the problem reduces to finding:"
+      }
+    ]
+  }
+]

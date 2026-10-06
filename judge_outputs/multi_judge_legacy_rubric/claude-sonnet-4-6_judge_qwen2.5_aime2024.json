@@ -1,0 +1,85 @@
+[
+  {
+    "problem_idx": "2024-II-4",
+    "final_answer_correct": false,
+    "num_steps": 17,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 12,
+        "span": "4 \\log_2 x + 3 \\log_2 y + 2 \\log_2 z = (3 - 1) \\log_2 x + (2 - 1) \\log_2 y + (1 - 1) \\log_2 z"
+      }
+    ]
+  },
+  {
+    "problem_idx": "2024-II-12",
+    "final_answer_correct": false,
+    "num_steps": 7,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 3,
+        "span": "A segment $\\overline{PQ}$ of unit length with $P$ on the $x$-axis and $Q$ on the $y$-axis can be parameterized as:\n\\[ P(t, 0), \\quad Q(0, t) \\]"
+      }
+    ]
+  },
+  {
+    "problem_idx": "2024-I-4",
+    "final_answer_correct": true,
+    "num_steps": 5,
+    "errors": []
+  },
+  {
+    "problem_idx": "2024-I-3",
+    "final_answer_correct": false,
+    "num_steps": 5,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 1,
+        "span": "If \\( n = 4 \\), Bob wins because no matter what Alice does (taking 1 or 4 tokens), Bob will be left with a winning position."
+      }
+    ]
+  },
+  {
+    "problem_idx": "2024-I-8",
+    "final_answer_correct": false,
+    "num_steps": 9,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 1,
+        "span": "The centers of these circles form a regular octagon."
+      }
+    ]
+  },
+  {
+    "problem_idx": "2024-I-12",
+    "final_answer_correct": false,
+    "num_steps": 10,
+    "errors": [
+      {
+        "type": "E5",
+        "start_step": 9,
+        "span": "Both \\( f(\\sin(2\\pi x)) \\) and \\( f(\\cos(3\\pi y)) \\) are periodic functions with periods \\(\\frac{1}{2}\\) and \\(\\frac{2}{3}\\), respectively. The combined period of the system is the least common multiple (LCM) of these periods, which is 1."
+      },
+      {
+        "type": "E2",
+        "start_step": 10,
+        "span": "For each value of \\( x \\) in \\([0, 1)\\), there is exactly one corresponding \\( y \\) that satisfies the equation due to the symmetry and periodicity."
+      }
+    ]
+  },
+  {
+    "problem_idx": "2024-I-11",
+    "final_answer_correct": false,
+    "num_steps": 6,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 3,
+        "span": "For \\(k = 2\\): \\(\\binom{8}{2} \\times 4 = 56 \\times 4 = 224\\)"
+      }
+    ]
+  }
+]

@@ -1,0 +1,455 @@
+[
+  {
+    "problem_idx": "2024-II-4",
+    "num_steps": 18,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 12,
+        "span": "4 \\log_2 x + 3 \\log_2 y + 2 \\log_2 z = (3 - 1) \\log_2 x + (2 - 1) \\log_2 y + (1 - 1) \\log_2 z"
+      }
+    ]
+  },
+  {
+    "problem_idx": "2024-II-12",
+    "num_steps": 7,
+    "errors": [
+      {
+        "type": "E1",
+        "span": "A segment \\( \\overline{PQ} \\) of unit length with \\( P \\) on the \\( x \\)-axis and \\( Q \\) on the \\( y \\)-axis can be parameterized as:\n\\[ P(t, 0), \\quad Q(0, t) \\]",
+        "start_step": 3
+      },
+      {
+        "type": "E2",
+        "span": "This occurs at the intersection of the perpendicular bisector of \\( AB \\) with line \\( AB \\).",
+        "start_step": 5
+      }
+    ]
+  },
+  {
+    "problem_idx": "2024-I-4",
+    "num_steps": 6,
+    "errors": []
+  },
+  {
+    "problem_idx": "2024-I-3",
+    "num_steps": 6,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 2,
+        "span": "If \\( n = 4 \\), Bob wins because no matter what Alice does (taking 1 or 4 tokens), Bob will be left with a winning position."
+      }
+    ]
+  },
+  {
+    "problem_idx": "2024-I-8",
+    "num_steps": 9,
+    "errors": [
+      {
+        "type": "E1",
+        "span": "The centers of these circles form a regular octagon.",
+        "start_step": 1
+      }
+    ]
+  },
+  {
+    "problem_idx": "2024-I-12",
+    "num_steps": 10,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 1,
+        "span": "\\[ f(x) = \\left| x - \\frac{1}{2} \\right|. \\]"
+      },
+      {
+        "type": "E5",
+        "start_step": 10,
+        "span": "there is exactly one corresponding \\( y \\) that satisfies the equation due to the symmetry and periodicity"
+      }
+    ]
+  },
+  {
+    "problem_idx": "2024-I-11",
+    "num_steps": 12,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 4,
+        "span": "For each choice, there are exactly 4 valid rotations (since a regular octagon has rotational symmetry and only 4 out of the 7 non-trivial rotations will map two distinct positions correctly)."
+      }
+    ]
+  },
+  {
+    "problem_idx": "2024-II-11",
+    "num_steps": 8,
+    "errors": [
+      {
+        "type": "E2",
+        "span": "By comparing terms and solving, we find that the only feasible solution is when \\(a = b = c = 100\\).",
+        "start_step": 6
+      },
+      {
+        "type": "E6",
+        "span": "3 \\cdot 100^4 = 3 \\cdot 100000000 = 6,000,000",
+        "start_step": 7
+      }
+    ]
+  },
+  {
+    "problem_idx": "2024-I-2",
+    "num_steps": 11,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 10,
+        "span": "By inspection, we find that:\n\\[ a = b = 2 \\]"
+      },
+      {
+        "type": "E4",
+        "start_step": 11,
+        "span": "\\[ xy = (e^2)(e^2) = e^4 \\]"
+      }
+    ]
+  },
+  {
+    "problem_idx": "2024-II-6",
+    "num_steps": 9,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 2,
+        "span": "The number of such subsets is given by \\( 2^{i-1} - 1 \\)"
+      },
+      {
+        "type": "E2",
+        "start_step": 6,
+        "span": "Since 2036 is closer to 2024, we need to adjust slightly"
+      },
+      {
+        "type": "E2",
+        "start_step": 8,
+        "span": "the sum of these elements is simply the number of elements in \\( A \\)"
+      }
+    ]
+  },
+  {
+    "problem_idx": "2024-I-7",
+    "num_steps": 8,
+    "errors": [
+      {
+        "type": "E6",
+        "start_step": 6,
+        "span": "- 36i(\\sin\\theta - i\\cos\\theta)"
+      }
+    ]
+  },
+  {
+    "problem_idx": "2024-II-3",
+    "num_steps": 7,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 2,
+        "span": "The three numbers are \\(10a + b\\), \\(10d + e\\), and \\(10c + f\\)."
+      },
+      {
+        "type": "E2",
+        "start_step": 3,
+        "span": "This implies that \\(a + d = 9\\) and \\(b + e + c + f = 9\\)."
+      }
+    ]
+  },
+  {
+    "problem_idx": "2024-I-1",
+    "num_steps": 8,
+    "errors": []
+  },
+  {
+    "problem_idx": "2024-II-7",
+    "num_steps": 7,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 2,
+        "span": "1000a + 100b + 10c + d - (999a) = a + 100b + 10c + d \\equiv 0 \\pmod{7}"
+      },
+      {
+        "type": "E3",
+        "start_step": 5,
+        "span": "This is not correct, so we need to adjust further."
+      }
+    ]
+  },
+  {
+    "problem_idx": "2024-I-6",
+    "num_steps": 9,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 4,
+        "span": "We need to place four direction changes in the 15 possible positions between the 16 steps. This is equivalent to choosing 4 out of these 15 positions, which can be done in \\(\\binom{15}{4}\\) ways."
+      }
+    ]
+  },
+  {
+    "problem_idx": "2024-I-13",
+    "num_steps": 6,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 4,
+        "span": "6^4 = 1296 \\equiv -1 \\pmod{13} \\quad (\\text{since } 1296 \\div 13 = 99 \\text{ remainder } 9)"
+      },
+      {
+        "type": "E5",
+        "start_step": 6,
+        "span": "By direct computation, we find:\n\\[\nm = 52\n\\]"
+      }
+    ]
+  },
+  {
+    "problem_idx": "2024-I-15",
+    "num_steps": 7,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 2,
+        "span": "Since the volume is 23 (which is a prime number), one of the dimensions must be 1."
+      },
+      {
+        "type": "E6",
+        "start_step": 1,
+        "span": "ab + bc + ca = 54"
+      }
+    ]
+  },
+  {
+    "problem_idx": "2024-II-15",
+    "num_steps": 4,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 1,
+        "span": "we need to choose two pairs of opposite sides"
+      }
+    ]
+  },
+  {
+    "problem_idx": "2024-II-10",
+    "num_steps": 6,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 4,
+        "span": "AI^2 = R(R - r) = 13(13 - 6) = 13 \\cdot 7 = 91."
+      },
+      {
+        "type": "E2",
+        "start_step": 6,
+        "span": "for a right angle at \\(A\\) (which is implied by the perpendicularity condition), we have:\n\\[AB \\cdot AC = 4R^2 - 4r^2.\\]"
+      }
+    ]
+  },
+  {
+    "problem_idx": "2024-II-9",
+    "num_steps": 7,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 2,
+        "span": "the problem reduces to finding the number of binary strings of length 5"
+      }
+    ]
+  },
+  {
+    "problem_idx": "2024-II-14",
+    "num_steps": 103,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 2,
+        "span": "n = ab + b^1a + 0 \\cdot b^2 = a \\cdot b + b \\cdot a = (a+b)b"
+      },
+      {
+        "type": "E4",
+        "start_step": 103,
+        "span": "the smallest integer greater than or equal to 2023 that is not a \\( b \\)-beautiful integer for any base \\( b \\) is:\n\n\\[\n\\boxed{2023}\n\\]"
+      }
+    ]
+  },
+  {
+    "problem_idx": "2024-II-5",
+    "num_steps": 9,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 3,
+        "span": "The triangle formed by extending these sides is a larger equilateral triangle."
+      },
+      {
+        "type": "E5",
+        "start_step": 8,
+        "span": "recognizing they are proportional to the side length of the hexagon, we can set up a proportion"
+      },
+      {
+        "type": "E2",
+        "start_step": 8,
+        "span": "\\[ 3s = 300 \\]"
+      }
+    ]
+  },
+  {
+    "problem_idx": "2024-I-9",
+    "num_steps": 5,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 1,
+        "span": "if one point is \\((x_1, y_1)\\), then its opposite point will be \\((-x_1, -y_1)\\). The other two points can be \\((x_2, y_2)\\) and \\((-x_2, -y_2)\\)."
+      },
+      {
+        "type": "E5",
+        "start_step": 4,
+        "span": "we can use the fact that the maximum value of \\(BD^2\\) occurs when the points are at the vertices of the asymptotes or where the distance is maximized under the given constraints. The maximum value of \\(BD^2\\) for such a rhombus inscribed in this hyperbola is found by considering the semi-major and semi-minor axes scaled appropriately."
+      },
+      {
+        "type": "E6",
+        "start_step": 5,
+        "span": "BD^2 = 40 + 32 = 72 \\times 2 = 160"
+      }
+    ]
+  },
+  {
+    "problem_idx": "2024-II-2",
+    "num_steps": 9,
+    "errors": [
+      {
+        "type": "E6",
+        "start_step": 6,
+        "span": "which sums to 20"
+      },
+      {
+        "type": "E2",
+        "start_step": 7,
+        "span": "the median is 4, which does not appear in the list"
+      },
+      {
+        "type": "E6",
+        "start_step": 9,
+        "span": "1 + 4 + 81 + 81 + 9 + 16 + 25 + 36 = 257"
+      }
+    ]
+  },
+  {
+    "problem_idx": "2024-II-1",
+    "num_steps": 10,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 6,
+        "span": "|D \\cup G \\cup S| = 900."
+      },
+      {
+        "type": "E2",
+        "start_step": 9,
+        "span": "195 + 367 + 562 - (437 + 234) + x = 900,"
+      }
+    ]
+  },
+  {
+    "problem_idx": "2024-I-10",
+    "num_steps": 8,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 3,
+        "span": "we know that $AB \\cdot AC = AP \\cdot AD$"
+      },
+      {
+        "type": "E2",
+        "start_step": 6,
+        "span": "AP = \\frac{AB \\cdot AC}{BC} = \\frac{5 \\cdot 10}{9} = \\frac{50}{9}"
+      }
+    ]
+  },
+  {
+    "problem_idx": "2024-II-8",
+    "num_steps": 8,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 2,
+        "span": "This radius can be found by considering the right triangle formed by the major radius of the torus (6), the minor radius of the torus (3), and the distance from the center of the sphere to the point of tangency."
+      },
+      {
+        "type": "E4",
+        "start_step": 8,
+        "span": "m = 132, \\quad n = 59"
+      }
+    ]
+  },
+  {
+    "problem_idx": "2024-I-14",
+    "num_steps": 8,
+    "errors": [
+      {
+        "type": "E6",
+        "start_step": 3,
+        "span": "288 V^2 = -567 \\implies V^2 = \\frac{567}{288}"
+      },
+      {
+        "type": "E5",
+        "start_step": 5,
+        "span": "After calculating \\( S \\) (which involves detailed arithmetic), we find that the inradius simplifies to a form involving square roots."
+      },
+      {
+        "type": "E5",
+        "start_step": 6,
+        "span": "Assuming the simplified form of \\( r \\) is:"
+      }
+    ]
+  },
+  {
+    "problem_idx": "2024-I-5",
+    "num_steps": 8,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 3,
+        "span": "- \\( D(x_1, y_1) \\)\n- \\( E(x_2, y_2) \\)\n- \\( F(x_3, 17) \\)"
+      },
+      {
+        "type": "E2",
+        "start_step": 4,
+        "span": "we can infer that point \\( D \\) is directly below or above point \\( C \\)"
+      },
+      {
+        "type": "E2",
+        "start_step": 8,
+        "span": "|CE| = 107 + 16 - 17 = 106"
+      }
+    ]
+  },
+  {
+    "problem_idx": "2024-II-13",
+    "num_steps": 13,
+    "errors": [
+      {
+        "type": "E1",
+        "span": "we start by noting that $\\omega$ is a primitive 13th root of unity",
+        "start_step": 1
+      },
+      {
+        "type": "E6",
+        "span": "P(2) = (2-1)(2-\\omega)(2-\\omega^2)\\cdots(2-\\omega^{12}) = 1",
+        "start_step": 5
+      },
+      {
+        "type": "E5",
+        "span": "By symmetry and properties of roots of unity, the product simplifies to a known result from cyclotomic polynomials. The final value is:",
+        "start_step": 12
+      }
+    ]
+  }
+]

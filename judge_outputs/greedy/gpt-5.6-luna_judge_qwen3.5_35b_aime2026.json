@@ -1,0 +1,287 @@
+[
+  {
+    "num_steps": 12,
+    "errors": []
+  },
+  {
+    "num_steps": 3,
+    "errors": []
+  },
+  {
+    "num_steps": 9,
+    "errors": []
+  },
+  {
+    "num_steps": 6,
+    "errors": []
+  },
+  {
+    "num_steps": 5,
+    "errors": [
+      {
+        "type": "E6",
+        "start_step": 4,
+        "span": "$x' = (-\\cos\theta)\\cos\theta + (-\\sin\theta)(-\\sin\theta) = -\\cos^2\theta + \\sin^2\theta$"
+      }
+    ]
+  },
+  {
+    "num_steps": 7,
+    "errors": []
+  },
+  {
+    "num_steps": 12,
+    "errors": []
+  },
+  {
+    "num_steps": 10,
+    "errors": []
+  },
+  {
+    "num_steps": 2,
+    "errors": [
+      {
+        "type": "E5",
+        "start_step": 2,
+        "span": "So sticker"
+      }
+    ]
+  },
+  {
+    "num_steps": 4,
+    "errors": [
+      {
+        "type": "E5",
+        "start_step": 4,
+        "span": "Let's use coordinates."
+      }
+    ]
+  },
+  {
+    "num_steps": 45,
+    "errors": [
+      {
+        "type": "E5",
+        "start_step": 16,
+        "span": "This suggests a \"checkerboard\" pattern or alternating high/low values."
+      }
+    ]
+  },
+  {
+    "num_steps": 9,
+    "errors": []
+  },
+  {
+    "num_steps": 68,
+    "errors": [
+      {
+        "type": "E6",
+        "start_step": 15,
+        "span": "10000 = 19 \times 503 + 423"
+      },
+      {
+        "type": "E5",
+        "start_step": 68,
+        "span": "We are summing $\\sum_{x \neq 0, -1} x^{-r} Q(x)$? No, we can include all non-zero $x$ because if $x=-1$, term is 0."
+      }
+    ]
+  },
+  {
+    "num_steps": 3,
+    "errors": [
+      {
+        "type": "E6",
+        "start_step": 1,
+        "span": "$P^2 = (a+b+c+d+e)^2 = S + 2(ab+bc+cd+de+ea)$"
+      }
+    ]
+  },
+  {
+    "num_steps": 3,
+    "errors": [
+      {
+        "type": "E6",
+        "start_step": 3,
+        "span": "2(2)+2(b)-4 = 2+2b-4 = 2b"
+      },
+      {
+        "type": "E2",
+        "start_step": 3,
+        "span": "Thus, any tiling must be formed by recursively splitting rectangles and assigning loops to them?"
+      },
+      {
+        "type": "E5",
+        "start_step": 3,
+        "span": "Are there other partitions?"
+      }
+    ]
+  },
+  {
+    "num_steps": 9,
+    "errors": [
+      {
+        "type": "E6",
+        "start_step": 7,
+        "span": "all are valid positive integers, so the indices $n$ will be $\u2265 4$"
+      }
+    ]
+  },
+  {
+    "num_steps": 5,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 2,
+        "span": "This implies that the x-coordinate of the bug must strictly increase at every step."
+      },
+      {
+        "type": "E5",
+        "start_step": 5,
+        "span": "No, Left"
+      }
+    ]
+  },
+  {
+    "num_steps": 2,
+    "errors": [
+      {
+        "type": "E6",
+        "start_step": 2,
+        "span": "Note $\\Delta x = -\\Delta y$? No."
+      },
+      {
+        "type": "E5",
+        "start_step": 2,
+        "span": "Here $\\Delta x"
+      }
+    ]
+  },
+  {
+    "num_steps": 7,
+    "errors": []
+  },
+  {
+    "num_steps": 33,
+    "errors": []
+  },
+  {
+    "num_steps": 3,
+    "errors": [
+      {
+        "type": "E5",
+        "start_step": 3,
+        "span": "So we have found all values of $r$ where tangency occurs: $r=9$ and $r=41$."
+      }
+    ]
+  },
+  {
+    "num_steps": 3,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 3,
+        "span": "We need ... first 4 \"non-C\" outcomes contain exactly 2 As and 2 Bs (in any order), AND no C appears *before* these 4 non-Cs."
+      },
+      {
+        "type": "E5",
+        "start_step": 3,
+        "span": "This looks like: The probability that in a sequence of trials where each trial results in A (1/3), B (1/3), C (1/"
+      }
+    ]
+  },
+  {
+    "num_steps": 76,
+    "errors": [
+      {
+        "type": "E5",
+        "start_step": 76,
+        "span": "$500(8/27) + 250(4/9) + 250(2/"
+      }
+    ]
+  },
+  {
+    "num_steps": 4,
+    "errors": [
+      {
+        "type": "E5",
+        "start_step": 3,
+        "span": "Let's assume \\(\\lfloor F \\rfloor = 0\\)."
+      },
+      {
+        "type": "E5",
+        "start_step": 4,
+        "span": "We need \\(A \\pmod{1000}\\)."
+      }
+    ]
+  },
+  {
+    "num_steps": 6,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 3,
+        "span": "Since 8 and 25 are coprime, for $8x/25$ to be an integer, $x$ must be a multiple of 25."
+      }
+    ]
+  },
+  {
+    "num_steps": 61,
+    "errors": [
+      {
+        "type": "E5",
+        "start_step": 30,
+        "span": "Let's assume the roots $r_1, r_2, r_3$ are distinct and non-zero."
+      },
+      {
+        "type": "E5",
+        "start_step": 61,
+        "span": "Wait, in our list of 8 sums:"
+      }
+    ]
+  },
+  {
+    "num_steps": 2,
+    "errors": [
+      {
+        "type": "E5",
+        "start_step": 2,
+        "span": "So the"
+      }
+    ]
+  },
+  {
+    "num_steps": 54,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 14,
+        "span": "This is exactly equivalent to saying that the graph induced by $U$ on the integer line has a perfect matching."
+      },
+      {
+        "type": "E5",
+        "start_step": 51,
+        "span": "It turns out that for a path graph of length $2k$, the number of subsets $S$ of size $k$ such that there is a perfect matching between $S$ and $V \\setminus S$ using edges $(i, i+1)$ is exactly $C_k = 2^k$."
+      }
+    ]
+  },
+  {
+    "num_steps": 3,
+    "errors": [
+      {
+        "type": "E5",
+        "start_step": 3,
+        "span": "Suppose $R_k = -O$ (negative odd). Next"
+      }
+    ]
+  },
+  {
+    "num_steps": 2,
+    "errors": [
+      {
+        "type": "E5",
+        "start_step": 2,
+        "span": "Let's reconsider the \"all non-zero\" case and see if it yields 0 or something simple."
+      }
+    ]
+  }
+]

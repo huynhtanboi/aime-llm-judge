@@ -1,0 +1,571 @@
+[
+  {
+    "problem_idx": 1,
+    "num_steps": 10,
+    "errors": [
+      {
+        "type": "E5",
+        "start_step": 6,
+        "span": "For k > 10, the denominator becomes negative and will yield a non-positive integer or a fraction less than 9, which are not valid solutions since we need b > 9."
+      },
+      {
+        "type": "E5",
+        "start_step": 7,
+        "span": "For k < 8, the denominator would be positive, and we need to check if it results in an integer greater than 9:"
+      }
+    ]
+  },
+  {
+    "problem_idx": 2,
+    "num_steps": 6,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 2,
+        "span": "- Point D is at \\((95, 80)\\)."
+      },
+      {
+        "type": "E2",
+        "start_step": 4,
+        "span": "\\[ \\text{Area} = 288 + \\text{Area of } \\triangle FNB. \\]"
+      },
+      {
+        "type": "E5",
+        "start_step": 5,
+        "span": "Given the complexity, we can use symmetry and known areas to simplify:"
+      },
+      {
+        "type": "E6",
+        "start_step": 5,
+        "span": "\\[ \\text{Total Area} = 800 + 288 + (288 - 144) = 1328. \\]"
+      }
+    ]
+  },
+  {
+    "problem_idx": 3,
+    "num_steps": 5,
+    "errors": []
+  },
+  {
+    "problem_idx": 4,
+    "num_steps": 4,
+    "errors": [
+      {
+        "type": "E6",
+        "start_step": 1,
+        "span": "Grouping terms, we get: \\( (4x - y)(3x + 2y) = 0. \\)"
+      },
+      {
+        "type": "E2",
+        "start_step": 3,
+        "span": "Thus, there are \\( 66 - (-66) + 1 = 133 \\) integer solutions for \\( x \\), and each corresponds to a unique \\( y \\)."
+      }
+    ]
+  },
+  {
+    "problem_idx": 5,
+    "num_steps": 9,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 4,
+        "span": "multiply by \\(P(7, 4) = 840\\) (the number of ways to arrange 4 digits in odd positions)"
+      },
+      {
+        "type": "E2",
+        "start_step": 5,
+        "span": "\\(S_1 = 9\\), \\(S_2 = 27\\)"
+      },
+      {
+        "type": "E5",
+        "start_step": 6,
+        "span": "After performing the detailed calculations (which are extensive and involve combinatorial methods), we find that there are 1440 such numbers for each valid last digit."
+      }
+    ]
+  },
+  {
+    "problem_idx": 6,
+    "num_steps": 14,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 6,
+        "span": "The height of these triangles is equal to the radius of the inscribed circle, which is 3."
+      }
+    ]
+  },
+  {
+    "problem_idx": 7,
+    "num_steps": 9,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 3,
+        "span": "The arrangement must end in 'GX'"
+      },
+      {
+        "type": "E2",
+        "start_step": 7,
+        "span": "The probability that any given arrangement of these pairs results in no word being lexicographically greater than 'GX' is \\(\\frac{5!}{11 \\choose 2} = \\frac{60}{55} = \\frac{12}{11}\\)"
+      },
+      {
+        "type": "E5",
+        "start_step": 8,
+        "span": "This fraction is derived from combinatorial arguments and simplifies to \\(\\frac{5}{11}\\)."
+      }
+    ]
+  },
+  {
+    "problem_idx": 8,
+    "num_steps": 10,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 2,
+        "span": "|(x + yi) - (4 + ki)|"
+      },
+      {
+        "type": "E6",
+        "start_step": 8,
+        "span": "6889 + 6640k + 1600k^2 - 166k^3 - k^4"
+      }
+    ]
+  },
+  {
+    "problem_idx": 9,
+    "num_steps": 8,
+    "errors": [
+      {
+        "type": "E6",
+        "start_step": 3,
+        "span": "x = \\frac{x' + y'\\sqrt{3}}{\\sqrt{3}}, \\quad y = \\frac{-x'\\sqrt{3} + y'}{\\sqrt{3}}"
+      },
+      {
+        "type": "E2",
+        "start_step": 5,
+        "span": "Substitute y = x^2 - 4 into the transformed equation:"
+      },
+      {
+        "type": "E5",
+        "start_step": 7,
+        "span": "After detailed calculations, we find:"
+      }
+    ]
+  },
+  {
+    "problem_idx": 10,
+    "num_steps": 8,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 5,
+        "span": "(9!)^2 = (362880)^2"
+      }
+    ]
+  },
+  {
+    "problem_idx": 11,
+    "num_steps": 6,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 1,
+        "span": "The equation for intersection is:\n\\[34y^2 = y.\\]"
+      },
+      {
+        "type": "E2",
+        "start_step": 3,
+        "span": "The function \\(f(x)\\) has a period of 4, so we need to consider all points within one period and then extend them due to periodicity."
+      }
+    ]
+  },
+  {
+    "problem_idx": 12,
+    "num_steps": 8,
+    "errors": [
+      {
+        "type": "E6",
+        "start_step": 1,
+        "span": "\\[ x - yz - y + zx > 0 \\implies (x - y) + z(x - y) > 0 \\implies (x - y)(1 + z) > 0 \\]"
+      },
+      {
+        "type": "E5",
+        "start_step": 5,
+        "span": "The finite region is a right triangle with legs along the lines \\(x = y\\) and \\(y = z\\)."
+      },
+      {
+        "type": "E6",
+        "start_step": 6,
+        "span": "\\[ 937.5 = 475\\sqrt{3} \\]"
+      }
+    ]
+  },
+  {
+    "problem_idx": 13,
+    "num_steps": 8,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 6,
+        "span": "Each new line segment will intersect each existing line segment exactly once (since no two segments are parallel or concurrent)."
+      }
+    ]
+  },
+  {
+    "problem_idx": 14,
+    "num_steps": 6,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 2,
+        "span": "Since both angles are \\( 60^\\circ \\), point \\( C \\) will be at a distance of 7 from \\( B \\) and form an angle of \\( 60^\\circ \\) with the x-axis."
+      },
+      {
+        "type": "E2",
+        "start_step": 4,
+        "span": "The function \\( f(X) \\) is minimized when \\( X \\) is the Fermat point of the triangle formed by any three vertices of the pentagon, given that each internal angle is \\( 60^\\circ \\)."
+      },
+      {
+        "type": "E2",
+        "start_step": 5,
+        "span": "a more straightforward approach is to recognize that the minimum value of \\( f(X) \\) for such a configuration is given by:"
+      }
+    ]
+  },
+  {
+    "problem_idx": 15,
+    "num_steps": 9,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 1,
+        "span": "a, b, c \\leq 2187\\ (since\\ 3^6 = 729)"
+      },
+      {
+        "type": "E2",
+        "start_step": 4,
+        "span": "more generally, \\(x^3 \\equiv x \\pmod{3^k}\\) for any positive integer \\(k\\)"
+      },
+      {
+        "type": "E2",
+        "start_step": 5,
+        "span": "First, consider the equation in the form of non-negative integers: \\(a' + b' + c' = 2186\\)"
+      },
+      {
+        "type": "E6",
+        "start_step": 6,
+        "span": "\\(\\binom{2188}{2} = \\frac{2188 \\times 2187}{2} = 2409693\\)"
+      }
+    ]
+  },
+  {
+    "problem_idx": 16,
+    "num_steps": 4,
+    "errors": [
+      {
+        "type": "E6",
+        "start_step": 3,
+        "span": "(58 - 26)^2 + b^2 = 924"
+      },
+      {
+        "type": "E2",
+        "start_step": 4,
+        "span": "we can use the relative distances to find that \\(b = 40\\)"
+      },
+      {
+        "type": "E4",
+        "start_step": 4,
+        "span": "The area of \\(\\triangle BGE\\) is \\(\\boxed{168}\\)."
+      }
+    ]
+  },
+  {
+    "problem_idx": 17,
+    "num_steps": 9,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 5,
+        "span": "Therefore, we need to check when \\( k \\) divides \\( 3(k+1) \\)."
+      }
+    ]
+  },
+  {
+    "problem_idx": 18,
+    "num_steps": 5,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 1,
+        "span": "This means that for each square, two adjacent sides are colored red and the other two are colored blue."
+      },
+      {
+        "type": "E1",
+        "start_step": 3,
+        "span": "Both sides (A's bottom and B's top) are red."
+      },
+      {
+        "type": "E5",
+        "start_step": 3,
+        "span": "This pattern continues, forcing a specific coloring for all sides."
+      },
+      {
+        "type": "E6",
+        "start_step": 4,
+        "span": "2 \\text{ (choices)} \\times 3! = 6"
+      },
+      {
+        "type": "E4",
+        "start_step": 5,
+        "span": "\\boxed{90}"
+      }
+    ]
+  },
+  {
+    "problem_idx": 19,
+    "num_steps": 13,
+    "errors": [
+      {
+        "type": "E6",
+        "start_step": 6,
+        "span": "\\left( \\prod_{k=4}^{63} \\frac{k-1}{k-2} \\right) \\left( \\prod_{k=4}^{63} \\frac{(k+1) \\log (k+1)}{k \\log k} \\right)"
+      }
+    ]
+  },
+  {
+    "problem_idx": 20,
+    "num_steps": 7,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 2,
+        "span": "The angles of $\\triangle DEF$ will be half those of $\\triangle ABC$:"
+      },
+      {
+        "type": "E2",
+        "start_step": 4,
+        "span": "- $\\angle DGF = 2 \\cdot \\angle DEF = 60^\\circ$"
+      },
+      {
+        "type": "E2",
+        "start_step": 5,
+        "span": "- Arc $DE$ corresponds to $\\angle EDF$, so $\\wideparen{DE} = 2 \\cdot 42^\\circ = 84^\\circ$"
+      },
+      {
+        "type": "E2",
+        "start_step": 5,
+        "span": "since $\\angle GHD = 90^\\circ$ as it is a right angle in the triangle formed by midpoints"
+      },
+      {
+        "type": "E2",
+        "start_step": 5,
+        "span": "- Arc $GH = 360^\\circ - (84^\\circ + 120^\\circ + 90^\\circ) = 66^\\circ$"
+      }
+    ]
+  },
+  {
+    "problem_idx": 21,
+    "num_steps": 7,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 1,
+        "span": "circle $\\omega_2$ with a radius of $15$ is externally tangent to $\\omega_1$ at point $B$"
+      },
+      {
+        "type": "E2",
+        "start_step": 2,
+        "span": "we can place $C$ at $(-15, 0)$"
+      },
+      {
+        "type": "E2",
+        "start_step": 3,
+        "span": "we can place $D$ at $(0, 15)$"
+      },
+      {
+        "type": "E5",
+        "start_step": 4,
+        "span": "These coordinates are derived from the circle's equation and the rectangle's properties."
+      },
+      {
+        "type": "E6",
+        "start_step": 5,
+        "span": "which simplifies to $6\\sqrt{3}$"
+      },
+      {
+        "type": "E2",
+        "start_step": 6,
+        "span": "The area can be expressed as $\\frac{60\\sqrt{3}}{1}$, where $m = 60\\sqrt{3}$ and $n = 1$."
+      },
+      {
+        "type": "E4",
+        "start_step": 7,
+        "span": "Here, $m = 240$ (since $\\sqrt{3} \\approx 1.732$ and $60\\sqrt{3} \\approx 103.92$, but we need the exact form)"
+      }
+    ]
+  },
+  {
+    "problem_idx": 22,
+    "num_steps": 10,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 3,
+        "span": "For this to happen, every subset must include at least one divisor with both prime factors \\(3^4 \\times 5^2\\) present."
+      },
+      {
+        "type": "E6",
+        "start_step": 6,
+        "span": "2^{14} - 1 = 16384 - 1 = 16383"
+      }
+    ]
+  },
+  {
+    "problem_idx": 23,
+    "num_steps": 5,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 2,
+        "span": "For \\( N = 106 \\), the greedy choice is \\(4\\) $25$-cent coins, \\(1\\) $10$-cent coin, and \\(1\\) $1$-cent coin (total of 6 coins)."
+      },
+      {
+        "type": "E6",
+        "start_step": 4,
+        "span": "\\[ 100 (6,7) + 100 (8,9) = 200. \\]"
+      }
+    ]
+  },
+  {
+    "problem_idx": 24,
+    "num_steps": 10,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 5,
+        "span": "For each valid \\( k \\), we need to solve:\n\\[ \\sin(5x) = \frac{k}{7} \\]\nThe equation \\( \\sin(5x) = c \\) has two solutions in one period of \\( 2\\pi \\). Since the interval is \\( 0 < x < 2\\pi \\), which corresponds to five periods of \\( \\sin(5x) \\), each value of \\( k \\) will have:\n\\[ 2 \times 5 = 10 \\]\nsolutions."
+      },
+      {
+        "type": "E6",
+        "start_step": 8,
+        "span": "There are 8 such values."
+      }
+    ]
+  },
+  {
+    "problem_idx": 25,
+    "num_steps": 8,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 1,
+        "span": "such that no two people are adjacent"
+      },
+      {
+        "type": "E6",
+        "start_step": 3,
+        "span": "9 + 8 - 1 = 15"
+      },
+      {
+        "type": "E2",
+        "start_step": 6,
+        "span": "without any restrictions on adjacency"
+      }
+    ]
+  },
+  {
+    "problem_idx": 26,
+    "num_steps": 5,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 2,
+        "span": "perfect matchings in a cycle graph \\( C_{24} \\)"
+      },
+      {
+        "type": "E2",
+        "start_step": 5,
+        "span": "The division by \\( 2^{12} \\) accounts for the fact that each perfect matching can be traversed in two directions (clockwise and counterclockwise)."
+      }
+    ]
+  },
+  {
+    "problem_idx": 27,
+    "num_steps": 4,
+    "errors": [
+      {
+        "type": "E6",
+        "start_step": 3,
+        "span": "a_{10} = \\frac{26}{5a_8} = \\frac{26}{5a_2}."
+      },
+      {
+        "type": "E1",
+        "start_step": 3,
+        "span": "A_1 A_2 + A_1 A_3 + \\cdots + A_1 A_{11} + A_{11} A_1 = a_2 + a_3 + \\cdots + a_{10} + a_{11} + a_{11} = 20."
+      },
+      {
+        "type": "E6",
+        "start_step": 3,
+        "span": "a_2 = \\frac{100 \\pm \\sqrt{10000 - 12480}}{60} = \\frac{100 \\pm \\sqrt{1600}}{60}."
+      }
+    ]
+  },
+  {
+    "problem_idx": 28,
+    "num_steps": 12,
+    "errors": [
+      {
+        "type": "E6",
+        "start_step": 5,
+        "span": "\\frac{24649 + 75625 - 43475}{43475} = \\frac{56809}{43475}"
+      },
+      {
+        "type": "E5",
+        "start_step": 9,
+        "span": "Since \\(x_1 = \\frac{25}{11}\\) is positive and rational, we discard \\(x = -1\\) and conclude that the sequence converges to \\(x = \\frac{1}{2}\\)."
+      },
+      {
+        "type": "E2",
+        "start_step": 10,
+        "span": "x_{2025} = \\frac{1}{2}."
+      }
+    ]
+  },
+  {
+    "problem_idx": 29,
+    "num_steps": 10,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 1,
+        "span": "points \\( K \\) and \\( L \\) are equidistant from vertices \\( B, C \\), and \\( A \\)"
+      },
+      {
+        "type": "E2",
+        "start_step": 5,
+        "span": "points \\( K \\) and \\( L \\) are located such that they form an equilateral triangle with each other and the midpoints"
+      }
+    ]
+  },
+  {
+    "problem_idx": 30,
+    "num_steps": 6,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 2,
+        "span": "The function will have vertical asymptotes at these points and at \\( x = 0 \\)."
+      },
+      {
+        "type": "E2",
+        "start_step": 3,
+        "span": "This implies that the function should have a double root or a point where the derivative changes sign, but not more than twice."
+      },
+      {
+        "type": "E5",
+        "start_step": 4,
+        "span": "This can happen in three scenarios:"
+      }
+    ]
+  }
+]

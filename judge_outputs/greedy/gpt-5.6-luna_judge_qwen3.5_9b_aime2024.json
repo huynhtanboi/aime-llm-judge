@@ -1,0 +1,350 @@
+[
+  {
+    "num_steps": 11,
+    "errors": []
+  },
+  {
+    "num_steps": 3,
+    "errors": [
+      {
+        "type": "E6",
+        "start_step": 3,
+        "span": "Derivative: $f'(u) = -\\frac{x_0}{u^2} - \\frac{y_0 u}{(1-u^2)^{3/2}}$."
+      },
+      {
+        "type": "E5",
+        "start_step": 3,
+        "span": "Actually, simpler interpretation: The set of points covered by segments in $\\mathcal{F}$ is the region bounded by the axes and the envelope curve. Points on the boundary (the envelope) are touched by exactly one line from the family. Points inside are touched by two lines? Or maybe zero outside"
+      }
+    ]
+  },
+  {
+    "num_steps": 8,
+    "errors": []
+  },
+  {
+    "num_steps": 5,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 4,
+        "span": "- Remove 4 $\\to n-4 \\equiv 3 \\pmod 5$ (Not in $\\{0, 2\\}$)."
+      },
+      {
+        "type": "E5",
+        "start_step": 5,
+        "span": "For $"
+      }
+    ]
+  },
+  {
+    "num_steps": 1,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 1,
+        "span": "We have a right-angled triangle (implied by \"tangent to AB and BC\" at vertices A and B, or generally forming an angle)."
+      },
+      {
+        "type": "E5",
+        "start_step": 1,
+        "span": "Then we replace them with radius 1, same number (2024), same manner -> same geometric arrangement relative to the triangle shape? Or does \"same manner\" mean they fill the"
+      }
+    ]
+  },
+  {
+    "num_steps": 8,
+    "errors": [
+      {
+        "type": "E6",
+        "start_step": 7,
+        "span": "If $\\sin(2\\pi x) = \\pm 1$ (i.e., $x=k/4$),"
+      },
+      {
+        "type": "E5",
+        "start_step": 8,
+        "span": "Step 8: Count intersections by analyzing the grid of periods."
+      }
+    ]
+  },
+  {
+    "num_steps": 3,
+    "errors": [
+      {
+        "type": "E6",
+        "start_step": 3,
+        "span": "0-2=-6 \\equiv 2"
+      },
+      {
+        "type": "E5",
+        "start_step": 3,
+        "span": "Wait, do we need to consider both directions? If I have 0 and 2. Diff is 2."
+      }
+    ]
+  },
+  {
+    "num_steps": 6,
+    "errors": [
+      {
+        "type": "E6",
+        "start_step": 2,
+        "span": "Thus, the given equation becomes \\(\\sigma_1 \\sigma_2 - 2\\sigma_3 = 6,000,000\\)."
+      },
+      {
+        "type": "E6",
+        "start_step": 5,
+        "span": "$(a+b)(b+c)(c+a) = (y+x)(2x)(x+y) = y(2x)(y+x)$"
+      },
+      {
+        "type": "E5",
+        "start_step": 6,
+        "span": "Perform polynomial division: $(x^3 - 300x^2 + 30000x - 1,000,000) / (x-10"
+      }
+    ]
+  },
+  {
+    "num_steps": 6,
+    "errors": [
+      {
+        "type": "E6",
+        "start_step": 5,
+        "span": "$k^{k+1} = \frac{10^k}{2.5} = (4)^k$"
+      }
+    ]
+  },
+  {
+    "num_steps": 7,
+    "errors": []
+  },
+  {
+    "num_steps": 11,
+    "errors": []
+  },
+  {
+    "num_steps": 5,
+    "errors": [
+      {
+        "type": "E6",
+        "start_step": 5,
+        "span": "If $X \\le 8$, max value is $899 < 999$."
+      },
+      {
+        "type": "E5",
+        "start_step": 5,
+        "span": "Let's check mathematically:"
+      }
+    ]
+  },
+  {
+    "num_steps": 12,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 5,
+        "span": "\\frac{1}{4-\\tau} + \\frac{2}{9} = \\frac{2.4 - \\tau}{9}"
+      }
+    ]
+  },
+  {
+    "num_steps": 5,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 5,
+        "span": "Number $N = 1111$. This is a valid solution."
+      },
+      {
+        "type": "E5",
+        "start_step": 5,
+        "span": "Let's test X from 0 to 6:"
+      }
+    ]
+  },
+  {
+    "num_steps": 8,
+    "errors": []
+  },
+  {
+    "num_steps": 7,
+    "errors": [
+      {
+        "type": "E6",
+        "start_step": 4,
+        "span": "We need $n^8 \\equiv -1 \\pmod{17}$."
+      },
+      {
+        "type": "E2",
+        "start_step": 4,
+        "span": "there are exactly two elements of order 8"
+      },
+      {
+        "type": "E5",
+        "start_step": 7,
+        "span": "Then the solution is $n = n_0 + k p$. We want smallest positive."
+      }
+    ]
+  },
+  {
+    "num_steps": 5,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 5,
+        "span": "So there are two distinct sets of boxes (up to permutation)"
+      },
+      {
+        "type": "E5",
+        "start_step": 5,
+        "span": "Actually, any permutation of $(x,y,z)$ works. If there is a double root $k$, then two dimensions are $k$ and the third is $"
+      }
+    ]
+  },
+  {
+    "num_steps": 3,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 3,
+        "span": "Thus, **no rectangle can use a main diagonal as a side**"
+      },
+      {
+        "type": "E5",
+        "start_step": 3,
+        "span": "Possible rectangles types based on symmetry axes:\nType 1: Sides"
+      }
+    ]
+  },
+  {
+    "num_steps": 6,
+    "errors": [
+      {
+        "type": "E5",
+        "start_step": 6,
+        "span": "We need to find \\(\\sin B \\sin C\\) given constraints."
+      }
+    ]
+  },
+  {
+    "num_steps": 5,
+    "errors": [
+      {
+        "type": "E5",
+        "start_step": 5,
+        "span": "If row $i$ is B, need some col to be"
+      }
+    ]
+  },
+  {
+    "num_steps": 9,
+    "errors": [
+      {
+        "type": "E5",
+        "start_step": 9,
+        "span": "So total solutions in $"
+      }
+    ]
+  },
+  {
+    "num_steps": 2,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 1,
+        "span": "This property, combined with the fact that it is equilateral (all six sides have equal length), implies that the hexagon can be viewed as a large equilateral triangle formed by extending its non-adjacent sides."
+      },
+      {
+        "type": "E5",
+        "start_step": 2,
+        "span": "Maybe my assumption that $\\vec{AB} + \\vec{CD} + \\vec{EF} = 0$ is wrong for a general convex hexagon with parallel opposite sides?"
+      }
+    ]
+  },
+  {
+    "num_steps": 8,
+    "errors": [
+      {
+        "type": "E6",
+        "start_step": 6,
+        "span": "Numerator $\\to 480(1.2) = 576$."
+      }
+    ]
+  },
+  {
+    "num_steps": 6,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 4,
+        "span": "Since their average is an integer, they differ by exactly 2 (e.g., $k-1$ and $k+1$)."
+      },
+      {
+        "type": "E6",
+        "start_step": 6,
+        "span": "If we have three 9s ($k=27$), remaining sum = 3."
+      },
+      {
+        "type": "E5",
+        "start_step": 6,
+        "span": "What about starting with larger numbers?\n$\\{?, ?, ?, ?\\}$. If min is 2: $2+"
+      }
+    ]
+  },
+  {
+    "num_steps": 4,
+    "errors": [
+      {
+        "type": "E6",
+        "start_step": 3,
+        "span": "Let $n_1$ = number of residents with exactly 1 item from $\\{D, G, S\\}$. Total items owned = $1 (\\text{Candy}) + n_1(\\text{others}) = 2$? No."
+      }
+    ]
+  },
+  {
+    "judge_error": "judge call failed after 3 attempts: no verdict JSON object found in judge response"
+  },
+  {
+    "num_steps": 4,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 2,
+        "span": "Let the sphere have radius $\\rho_S = 11$ and be centered at the origin $(0,0)$ in our cross-sectional plane."
+      }
+    ]
+  },
+  {
+    "num_steps": 10,
+    "errors": [
+      {
+        "type": "E6",
+        "start_step": 6,
+        "span": "k(-16-20)"
+      }
+    ]
+  },
+  {
+    "num_steps": 1,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 1,
+        "span": "Let's assume both rectangles stand on the same side ($y>0$)."
+      },
+      {
+        "type": "E5",
+        "start_step": 1,
+        "span": "Maybe the order $D,"
+      }
+    ]
+  },
+  {
+    "num_steps": 10,
+    "errors": [
+      {
+        "type": "E6",
+        "start_step": 6,
+        "span": "$13\\pi/4 = 8\\pi + \\pi/4 - 5\\pi/4$"
+      }
+    ]
+  }
+]

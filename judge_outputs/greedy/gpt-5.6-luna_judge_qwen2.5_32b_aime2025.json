@@ -1,0 +1,540 @@
+[
+  {
+    "num_steps": 11,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 9,
+        "span": "The divisors of 7(k-1) are the factors of 7, which are \\( \\pm 1 \\) and \\( \\pm 7 \\)."
+      }
+    ]
+  },
+  {
+    "num_steps": 7,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 3,
+        "span": "The total length of $\\overline{AC}$ is 91, so if $AF = 13$, then $FM = FD = (91 - 2 \\times 13) / 2 = 32.5$."
+      },
+      {
+        "type": "E6",
+        "start_step": 3,
+        "span": "Therefore, the coordinate of $M$ along $\\overline{AC}$ is $F + FM = 13 + 65 = 78$."
+      },
+      {
+        "type": "E2",
+        "start_step": 5,
+        "span": "Since $M$ and $N$ are reflections, the areas of triangles $\\triangle ADFM$ and $\\triangle BNEG$ will be equal to the area of quadrilateral $DEGF$."
+      }
+    ]
+  },
+  {
+    "num_steps": 6,
+    "errors": []
+  },
+  {
+    "num_steps": 5,
+    "errors": [
+      {
+        "type": "E6",
+        "start_step": 1,
+        "span": "(4x + 3y)(3x - 2y) = 0."
+      },
+      {
+        "type": "E2",
+        "start_step": 3,
+        "span": "Since \\(x\\) and \\(y\\) range from \\(-100\\) to \\(100\\),\n\\[-100 \\leq -3k \\leq 100,\\]"
+      },
+      {
+        "type": "E6",
+        "start_step": 4,
+        "span": "\\[\\frac{-100}{2} \\geq m \\geq \\frac{100}{2},\\]"
+      },
+      {
+        "type": "E2",
+        "start_step": 5,
+        "span": "the sum of the solutions found in Steps 3 and 4 is \\(67 + 101 = 168\\)."
+      }
+    ]
+  },
+  {
+    "num_steps": 11,
+    "errors": [
+      {
+        "type": "E5",
+        "start_step": 7,
+        "span": "assuming each choice of last digit leads to an equal number of valid arrangements"
+      },
+      {
+        "type": "E5",
+        "start_step": 9,
+        "span": "let's assume based on problem structure and typical AIME solutions that the number of valid arrangements N is around 1800"
+      }
+    ]
+  },
+  {
+    "num_steps": 11,
+    "errors": []
+  },
+  {
+    "num_steps": 10,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 1,
+        "span": "\\(\\frac{12!}{(2!)^6}\\)"
+      },
+      {
+        "type": "E1",
+        "start_step": 3,
+        "span": "For \\(G\\) to be in the last word, it must either be paired with a letter that comes after it alphabetically"
+      },
+      {
+        "type": "E2",
+        "start_step": 5,
+        "span": "Multiply the choices for \\(G\\)'s partner by the number of ways to pair up the rest: \\(5 \\times 945 = 4725\\)."
+      },
+      {
+        "type": "E6",
+        "start_step": 4,
+        "span": "\\(\\frac{10!}{32} = 945\\)"
+      },
+      {
+        "type": "E6",
+        "start_step": 7,
+        "span": "\\(\\text{gcd}(4725, 7484400) = 135\\)"
+      }
+    ]
+  },
+  {
+    "num_steps": 8,
+    "errors": [
+      {
+        "type": "E6",
+        "start_step": 3,
+        "span": "The midpoint between \\(4+k\\) and \\(3i+k\\) is \\(\frac{(4+k) + (3i+k)}{2} = 2+\frac{k}{2} + \frac{3i}{2}\\)."
+      },
+      {
+        "type": "E6",
+        "start_step": 3,
+        "span": "The slope of the segment joining \\(4+k\\) and \\(3i+k\\) is \\(-\frac{1}{0}\\), which means it's vertical."
+      },
+      {
+        "type": "E1",
+        "start_step": 5,
+        "span": "The center of the circle in terms of \\(y\\)-coordinate is \\(20 + \text{Im}(k)\\)."
+      },
+      {
+        "type": "E2",
+        "start_step": 7,
+        "span": "However, the problem asks for positive integers, so we take absolute values."
+      }
+    ]
+  },
+  {
+    "num_steps": 10,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 3,
+        "span": "Since we are looking for intersection points, we equate \\(y'\\) from the rotated parabola with \\(y = x^2 - 4\\):"
+      }
+    ]
+  },
+  {
+    "num_steps": 10,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 3,
+        "span": "For each of the remaining two rows, we need to ensure that no number repeats within a column or within any $3 \\times 3$ block."
+      },
+      {
+        "type": "E5",
+        "start_step": 6,
+        "span": "For simplicity and based on known results, we use $9! \\times (3!)^4$ as a simplified form."
+      },
+      {
+        "type": "E6",
+        "start_step": 7,
+        "span": "9! \\times (3!)^4 = 362880 \\times 1296 = 466560000"
+      },
+      {
+        "type": "E6",
+        "start_step": 7,
+        "span": "$2^{10} \\cdot 3^7 \\cdot 5^4$"
+      }
+    ]
+  },
+  {
+    "num_steps": 7,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 1,
+        "span": "For \\(x \\in [-1, 1)\\), we have \\(f(x) = x\\)."
+      }
+    ]
+  },
+  {
+    "num_steps": 8,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 2,
+        "span": "If \\(1+z \neq 0\\) (i.e., \\(z \neq -1\\)), we can divide both sides by \\(1+z\\):\n\\[ x < y \\]"
+      },
+      {
+        "type": "E2",
+        "start_step": 3,
+        "span": "If \\(1+x \neq 0\\) (i.e., \\(x \neq -1\\)), we can divide both sides by \\(1+x\\):\n\\[ y < z \\]"
+      },
+      {
+        "type": "E5",
+        "start_step": 7,
+        "span": "After detailed calculations (which involve solving systems of equations and integrating over regions), we find that the finite region's area is \\(125\\sqrt{3}\\)."
+      }
+    ]
+  },
+  {
+    "num_steps": 7,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 3,
+        "span": "the probability that this new line intersects any given existing line is \\frac{1}{2} (since it can be in one of two orientations relative to each existing line)."
+      },
+      {
+        "type": "E2",
+        "start_step": 4,
+        "span": "The first line segment added will intersect none"
+      },
+      {
+        "type": "E2",
+        "start_step": 6,
+        "span": "Since the number of regions must be an integer, we round $175.5$ to $175$"
+      }
+    ]
+  },
+  {
+    "num_steps": 9,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 4,
+        "span": "The function \\(f(X)\\) is minimized when \\(X\\) is at a specific point known as the Fermat point (or Torricelli point)."
+      },
+      {
+        "type": "E2",
+        "start_step": 6,
+        "span": "The minimum value of \\(f(X)\\) can be found by considering the sum of distances from the Fermat points in each triangle."
+      },
+      {
+        "type": "E2",
+        "start_step": 6,
+        "span": "\\[ f(X) = AB + BC + CD + DE + EA - (AC + AD) \\]"
+      }
+    ]
+  },
+  {
+    "num_steps": 9,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 4,
+        "span": "Therefore, we can reduce our problem to considering only the cases where $a, b,$ and $c$ are not multiples of $3$."
+      },
+      {
+        "type": "E2",
+        "start_step": 6,
+        "span": "any cube not divisible by $3$ will be congruent to either $1$ or $-1$ modulo $27$"
+      },
+      {
+        "type": "E2",
+        "start_step": 8,
+        "span": "the total number of valid triples is:"
+      },
+      {
+        "type": "E6",
+        "start_step": 8,
+        "span": "14348907/27"
+      },
+      {
+        "type": "E6",
+        "start_step": 8,
+        "span": "1367631"
+      }
+    ]
+  },
+  {
+    "num_steps": 10,
+    "errors": [
+      {
+        "type": "E6",
+        "start_step": 5,
+        "span": "x_G^2 + y_G^2 = 40^2"
+      },
+      {
+        "type": "E6",
+        "start_step": 9,
+        "span": "\\[ \\text{Area} = \\frac{1}{2} \\times 39 \\times 27.81 \\approx 530.445 \\]"
+      }
+    ]
+  },
+  {
+    "num_steps": 10,
+    "errors": [
+      {
+        "type": "E6",
+        "start_step": 3,
+        "span": "3[(n+2)+1][(n+2)^2 - 4(n+2) + 13] = 3[n^2 + 5n + 6][n^2 - 4n + 9]."
+      },
+      {
+        "type": "E2",
+        "start_step": 6,
+        "span": "Since \\( k \\) clearly divides \\( 3k \\), we need to check when \\( k \\) divides \\( (k+1)(k^2-8k+21) \\)."
+      },
+      {
+        "type": "E6",
+        "start_step": 7,
+        "span": "3(6)(8) = 144, \n\\]\nwhich is divisible by 7."
+      },
+      {
+        "type": "E5",
+        "start_step": 8,
+        "span": "We need to ensure that no further positive integer solutions exist beyond those checked."
+      }
+    ]
+  },
+  {
+    "num_steps": 9,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 5,
+        "span": "This leaves us two choices for the other red side in the top-right square - either the top or bottom side."
+      },
+      {
+        "type": "E2",
+        "start_step": 6,
+        "span": "which must be blue."
+      },
+      {
+        "type": "E2",
+        "start_step": 7,
+        "span": "leaving no choice but one valid configuration that satisfies all conditions."
+      },
+      {
+        "type": "E2",
+        "start_step": 8,
+        "span": "However, since there are six ways to choose which sides of the top-left square are red (as calculated in Step 2), we multiply by 6."
+      }
+    ]
+  },
+  {
+    "num_steps": 6,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 4,
+        "span": "The terms in the numerator and denominator will cancel out, leaving:"
+      }
+    ]
+  },
+  {
+    "num_steps": 8,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 2,
+        "span": "\\angle DFE = \\angle ABC = 60^\\circ, and \\angle DEF = \\angle ACB = 36^\\circ"
+      },
+      {
+        "type": "E4",
+        "start_step": 4,
+        "span": "the measure of arc $\\wideparen{DE}$ is twice the angle opposite it, which is $36^\\circ$"
+      },
+      {
+        "type": "E2",
+        "start_step": 5,
+        "span": "Since $\\angle DFE = 60^\\circ$, arc $\\wideparen{HJ} = 120^\\circ$ (since it is opposite this angle)."
+      },
+      {
+        "type": "E2",
+        "start_step": 6,
+        "span": "since $\\angle EDF = 84^\\circ$, the measure of arc $\\wideparen{FG} = 168^\\circ$"
+      }
+    ]
+  },
+  {
+    "num_steps": 10,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 2,
+        "span": "the distance from $A$ to $C$ is $9 + 6 = 15"
+      },
+      {
+        "type": "E6",
+        "start_step": 3,
+        "span": "Since $EFGH$ is inscribed in $\\omega_1$, we have that $l^2 + w^2 = 6^2 = 36$."
+      },
+      {
+        "type": "E2",
+        "start_step": 4,
+        "span": "their bases must be equal. Therefore, $DG = CG$."
+      },
+      {
+        "type": "E3",
+        "start_step": 6,
+        "span": "Given $w=6$, we find:\n\\[\n l^2 + 36 = 36 \\Rightarrow l^2 = 0\n\\]"
+      },
+      {
+        "type": "E5",
+        "start_step": 7,
+        "span": "Given the symmetry and equal areas condition, let's assume $l=w=6/\\sqrt{2}=3\\sqrt{2}$."
+      }
+    ]
+  },
+  {
+    "num_steps": 8,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 5,
+        "span": "The number of subsets that lack either \\(3^4\\) or \\(5^2\\) (or both) is:\n\\[ |A_1| + |A_2| - |A_1 \\cap A_2| = 12 + 10 - 8 = 14 \\]"
+      }
+    ]
+  },
+  {
+    "num_steps": 8,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 4,
+        "span": "If Silas has to use exactly three $10$-cent coins, he could instead use one $25$-cent coin and five $1$-cent coins (totaling fewer coins)."
+      },
+      {
+        "type": "E5",
+        "start_step": 6,
+        "span": "it is known through combinatorial analysis and pattern recognition that out of $1000$ values, the greedy algorithm succeeds for most values."
+      }
+    ]
+  },
+  {
+    "num_steps": 7,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 3,
+        "span": "The equation \\(\\sin(5x) = c\\) has 10 solutions in the interval \\(0 < x < 2\\pi\\) for any \\(c\\) within the range of sine"
+      },
+      {
+        "type": "E2",
+        "start_step": 5,
+        "span": "This happens when \\(\\sin(5x) = 0\\) because then both \\(7\\pi \\cdot \\sin(5x) = 0\\) and its derivative with respect to \\(x\\) is zero."
+      }
+    ]
+  },
+  {
+    "num_steps": 12,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 1,
+        "span": "such that no two selected chairs are adjacent."
+      },
+      {
+        "type": "E4",
+        "start_step": 11,
+        "span": "Applying this formula directly gives us \\(\\binom{16-8+1}{8} = \\binom{9}{8}\\). However, the correct combinatorial approach involves a more complex calculation that results in a larger number of configurations than simply choosing from 9 positions. The exact value for $N$ is known to be 12870."
+      }
+    ]
+  },
+  {
+    "num_steps": 5,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 1,
+        "span": "the possible distances (measured in terms of number of sides) between paired vertices can be any divisor of 12"
+      },
+      {
+        "type": "E2",
+        "start_step": 3,
+        "span": "For each valid distance (2, 3, 4, 6, 12), there is exactly one way to pair up all vertices"
+      }
+    ]
+  },
+  {
+    "num_steps": 7,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 5,
+        "span": "9 \\cdot A_iA_{i+1} + 2 \\cdot (A_1A_2 + A_1A_{11}) = 20"
+      },
+      {
+        "type": "E4",
+        "start_step": 6,
+        "span": "The expression $A_1A_2 + A_1A_{11}$ is $\\frac{39 - 4\\sqrt{65}}{5}$. Thus, we have:\n- $m = 4$\n- $n = 65$\n- $p = 39$\n- $q = 5$"
+      }
+    ]
+  },
+  {
+    "num_steps": 10,
+    "errors": [
+      {
+        "type": "E5",
+        "start_step": 9,
+        "span": "Given the sequence converges to \\(\\frac{1}{2}\\)"
+      },
+      {
+        "type": "E2",
+        "start_step": 10,
+        "span": "x_{2025} = \\frac{1}{2}"
+      }
+    ]
+  },
+  {
+    "num_steps": 10,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 4,
+        "span": "Because of symmetry and equal distances, points $K$ and $L$ must lie on the angle bisectors of $\\angle BAC$"
+      },
+      {
+        "type": "E2",
+        "start_step": 5,
+        "span": "the perpendicular distance from $K$ or $L$ to either side (say, $AB$) will be $7\\sqrt{3}$"
+      },
+      {
+        "type": "E2",
+        "start_step": 9,
+        "span": "$\\text{Area}_{BKLC} = \\frac{1}{2} \\times AB \\times AC - 49\\sqrt{3}.$"
+      },
+      {
+        "type": "E5",
+        "start_step": 10,
+        "span": "the final area simplifies to:"
+      }
+    ]
+  },
+  {
+    "num_steps": 9,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 4,
+        "span": "For \\( f(x) \\) to have exactly two positive real numbers where it achieves its minimum value, the derivative \\( f'(x) = 0 \\) must have exactly three solutions"
+      },
+      {
+        "type": "E5",
+        "start_step": 7,
+        "span": "By analyzing the polynomial and its roots, we find specific values of \\( k \\):"
+      }
+    ]
+  }
+]

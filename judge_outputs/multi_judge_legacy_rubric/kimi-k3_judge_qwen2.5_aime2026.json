@@ -1,0 +1,545 @@
+[
+  {
+    "num_steps": 16,
+    "errors": []
+  },
+  {
+    "num_steps": 6,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 4,
+        "span": "(5,0,1)"
+      },
+      {
+        "type": "E6",
+        "start_step": 4,
+        "span": "we get 25 palindromes for \\( k = 5 \\)"
+      },
+      {
+        "type": "E5",
+        "start_step": 5,
+        "span": "The total number of such palindromes is \\( 15 + 25 = 40 \\)"
+      }
+    ]
+  },
+  {
+    "num_steps": 10,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 3,
+        "span": "to the farthest point on the sphere's surface that can still fit inside the hemisphere is \\(200 - 42 = 158\\)"
+      }
+    ]
+  },
+  {
+    "num_steps": 6,
+    "errors": [
+      {
+        "type": "E6",
+        "start_step": 2,
+        "span": "(1+1)(2+1) = 3"
+      },
+      {
+        "type": "E2",
+        "start_step": 3,
+        "span": "A number \\( k \\) can be written as a product of two distinct positive integers if it has at least one divisor greater than its square root"
+      }
+    ]
+  },
+  {
+    "num_steps": 5,
+    "errors": [
+      {
+        "type": "E6",
+        "start_step": 3,
+        "span": "\\[ B' = (1 - \\cos \\theta, -\\sin \\theta). \\]"
+      },
+      {
+        "type": "E2",
+        "start_step": 4,
+        "span": "The distance between points \\(A' = (\\cos \\theta, \\sin \\theta)\\) and \\(B' = (1 - \\cos \\theta, -\\sin \\theta)\\)"
+      }
+    ]
+  },
+  {
+    "num_steps": 15,
+    "errors": []
+  },
+  {
+    "num_steps": 5,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 1,
+        "span": "the only possible cycle structure is one 6-cycle"
+      }
+    ]
+  },
+  {
+    "num_steps": 9,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 1,
+        "span": "17017 = 17 \\times 19^2"
+      },
+      {
+        "type": "E2",
+        "start_step": 7,
+        "span": "\\(5^a \\equiv 1\\) and \\(7^b \\equiv 5\\)"
+      },
+      {
+        "type": "E2",
+        "start_step": 7,
+        "span": "\\(a\\) must be odd (0, 1, 3, 5, 7, 9, 11, 13, 15, 17)"
+      }
+    ]
+  },
+  {
+    "num_steps": 10,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 3,
+        "span": "for each odd-numbered sticker, it can either cover an even sticker or another odd sticker already on the die"
+      },
+      {
+        "type": "E2",
+        "start_step": 4,
+        "span": "sticker 1 (already placed) can only cover an even or another odd sticker"
+      },
+      {
+        "type": "E2",
+        "start_step": 7,
+        "span": "The first odd sticker (3) has a $\\frac{4}{5}$ chance of covering an even number because it cannot cover itself."
+      }
+    ]
+  },
+  {
+    "num_steps": 6,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 3,
+        "span": "This rotation effectively swaps the roles of \\( A \\) and \\( C \\) while keeping \\( B \\) fixed."
+      },
+      {
+        "type": "E5",
+        "start_step": 4,
+        "span": "can be divided into two congruent triangles, each with an area equal to half the area of triangle \\( \\triangle ABC \\), plus a rectangle formed by the circumradius"
+      },
+      {
+        "type": "E5",
+        "start_step": 5,
+        "span": "The area of hexagon \\( AA'CC'B'B' \\) can be calculated as twice the area of triangle \\( \\triangle ABC \\)"
+      }
+    ]
+  },
+  {
+    "num_steps": 8,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 3,
+        "span": "To achieve this for every pair in a row, we can alternate between the smallest and largest remaining numbers."
+      }
+    ]
+  },
+  {
+    "num_steps": 6,
+    "errors": [
+      {
+        "type": "E6",
+        "start_step": 3,
+        "span": "y - \\frac{4}{3} = \\frac{3}{2}(x-2) \\implies y = \\frac{3}{2}x - 1"
+      },
+      {
+        "type": "E6",
+        "start_step": 3,
+        "span": "y = \\frac{27}{13}"
+      },
+      {
+        "type": "E2",
+        "start_step": 3,
+        "span": "D = \\left( 4, \\frac{8}{3} \\right)"
+      },
+      {
+        "type": "E2",
+        "start_step": 4,
+        "span": "the distance between the planes is equal to the sum of the radii of the spheres"
+      },
+      {
+        "type": "E2",
+        "start_step": 4,
+        "span": "The distance from point \\(D\\) to plane \\(\\mathcal P\\) is 4"
+      },
+      {
+        "type": "E2",
+        "start_step": 5,
+        "span": "4 + r = 6 - 6 + r = r + 4. \\]\nThis simplifies to:\n\\[ r = \\frac{5}{3}. \\]"
+      }
+    ]
+  },
+  {
+    "num_steps": 12,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 8,
+        "span": "\\sum_{m=0}^{p-1} \\binom{n}{m} = 2^n"
+      },
+      {
+        "type": "E2",
+        "start_step": 9,
+        "span": "S_r = \\frac{2^{10000}}{502}"
+      },
+      {
+        "type": "E2",
+        "start_step": 10,
+        "span": "2^{10000} \\equiv 1 \\pmod{503}"
+      },
+      {
+        "type": "E2",
+        "start_step": 11,
+        "span": "S_r = \\frac{2^{10000} - 1}{502}"
+      },
+      {
+        "type": "E5",
+        "start_step": 12,
+        "span": "\\boxed{251}"
+      }
+    ]
+  },
+  {
+    "num_steps": 12,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 8,
+        "span": "800 = 2 \\times 308 - P^2"
+      },
+      {
+        "type": "E2",
+        "start_step": 9,
+        "span": "P^2 = 616 - 800 + 308 = 524"
+      }
+    ]
+  },
+  {
+    "num_steps": 7,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 3,
+        "span": "We need to partition these into 5 cell loops, so each loop must contain:\n\\[ \\frac{100}{5} = 20 \\]\ncells."
+      },
+      {
+        "type": "E2",
+        "start_step": 6,
+        "span": "For \\((2, 10)\\): This is invalid because it would require a loop that extends beyond the grid."
+      },
+      {
+        "type": "E5",
+        "start_step": 7,
+        "span": "we can use known results or computational tools to find that there are exactly:\n\\[ \\boxed{126} \\]"
+      }
+    ]
+  },
+  {
+    "num_steps": 9,
+    "errors": [
+      {
+        "type": "E5",
+        "start_step": 5,
+        "span": "We can check if there are other pairs by solving the equation for different values of \\(m\\):\n- If \\(m = 5\\), then \\(2k = 3(5) - 1 = 14 \\implies k = 7\\) (valid pair).\n- If \\(m = 7\\), then \\(2k = 3(7) - 1 = 20 \\implies k = 10\\) (valid pair)."
+      }
+    ]
+  },
+  {
+    "num_steps": 6,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 2,
+        "span": "Each step the bug takes is either an upward diagonal (UD) or a horizontal (H)."
+      },
+      {
+        "type": "E2",
+        "start_step": 6,
+        "span": "given that \\( N = 638 \\) is a perfect square in this context"
+      }
+    ]
+  },
+  {
+    "num_steps": 10,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 1,
+        "span": "triangles \\( \\triangle ABE \\) and \\( \\triangle CDE \\) are right-angled at \\( A \\) and \\( E \\) respectively"
+      },
+      {
+        "type": "E1",
+        "start_step": 2,
+        "span": "the line segment \\( AB \\) makes a 45-degree angle with the x-axis"
+      },
+      {
+        "type": "E1",
+        "start_step": 5,
+        "span": "Since \\( DE = x_D - 0 = 20 \\), we have \\( D = (20, y_D) \\)"
+      },
+      {
+        "type": "E2",
+        "start_step": 6,
+        "span": "The area of pentagon \\( ABCDE \\) can be split into the areas of triangles \\( ABE \\) and \\( CDE \\)"
+      },
+      {
+        "type": "E5",
+        "start_step": 9,
+        "span": "Thus, there are 253 valid values for \\( AB \\)."
+      }
+    ]
+  },
+  {
+    "num_steps": 7,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 3,
+        "span": "the maximum digit in any number is 9. Therefore, \\( b \\) will be at least 10."
+      },
+      {
+        "type": "E2",
+        "start_step": 5,
+        "span": "n = d_0 \\cdot (n+1) + 0"
+      }
+    ]
+  },
+  {
+    "num_steps": 17,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 7,
+        "span": "\\frac{1}{(r-4)(r-5)} \\cdot \\frac{1}{6(b-3)} = \\frac{1}{120(r-5)(r-6)} \\cdot \\frac{1}{2(b-2)}"
+      }
+    ]
+  },
+  {
+    "num_steps": 11,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 7,
+        "span": "For tangency, there should be exactly one solution for \\( x \\) that satisfies the above equation. This implies that the quadratic in terms of \\( x \\) must have a double root."
+      },
+      {
+        "type": "E5",
+        "start_step": 9,
+        "span": "Solving the resulting quadratic equation, we find two possible values for \\( r \\):\n\\[ r_1 = 35, \\quad r_2 = 7. \\]"
+      }
+    ]
+  },
+  {
+    "num_steps": 7,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 3,
+        "span": "We can generalize this to find the total probability that Carol gets a coin before both Alice and Bob get at least two coins."
+      },
+      {
+        "type": "E6",
+        "start_step": 3,
+        "span": "\\sum_{n=1}^{\\infty} \\left( \\frac{2}{3} \\right)^{2(n-1)} \\left( \\frac{1}{3} \\right)"
+      }
+    ]
+  },
+  {
+    "num_steps": 12,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 5,
+        "span": "We need to find values of \\( y \\) and \\( d \\) that satisfy this condition."
+      }
+    ]
+  },
+  {
+    "num_steps": 10,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 3,
+        "span": "S = \\sum_{k=1}^{\\infty} \\sum_{n=1}^{k} \\left(\\frac{1}{10^n}\\right)^k"
+      },
+      {
+        "type": "E2",
+        "start_step": 4,
+        "span": "\\sum_{n=1}^{k} \\frac{1}{10^{nk}} = \\frac{\\frac{1}{10^k}}{1 - \\frac{1}{10^k}} = \\frac{1}{10^k (10^k - 1)}"
+      },
+      {
+        "type": "E2",
+        "start_step": 5,
+        "span": "This is a known series that sums to \\( S = \\ln(2) \\)"
+      },
+      {
+        "type": "E2",
+        "start_step": 7,
+        "span": "Use the approximation \\( \\ln(2) \\approx 0.693147 \\)"
+      },
+      {
+        "type": "E6",
+        "start_step": 8,
+        "span": "10^{100} \\cdot 0.693147 = 693147 \\times 10^9"
+      },
+      {
+        "type": "E2",
+        "start_step": 9,
+        "span": "(693147 \\times 10^9) \\mod 1000 = 147"
+      }
+    ]
+  },
+  {
+    "num_steps": 12,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 2,
+        "span": "AD^2 = AB \\cdot AE = AC \\cdot AF"
+      },
+      {
+        "type": "E5",
+        "start_step": 8,
+        "span": "The smallest value for \\( p \\) is 1, giving:\n\\[ x = 8, y = 9, BC = 17. \\]"
+      }
+    ]
+  },
+  {
+    "num_steps": 6,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 3,
+        "span": "\\alpha \\beta \\gamma = -\\sqrt[3]{400}"
+      },
+      {
+        "type": "E2",
+        "start_step": 4,
+        "span": "This implies that the equation \\(s^2 = \\frac{n}{6} + 2p\\) must have exactly seven distinct solutions."
+      },
+      {
+        "type": "E2",
+        "start_step": 4,
+        "span": "Since \\(p\\) is a real number"
+      },
+      {
+        "type": "E2",
+        "start_step": 5,
+        "span": "The possible values of \\(\\alpha, \\beta, \\gamma\\) that satisfy \\(\\alpha^2 \\beta^2 \\gamma^2 = 400\\) are the cube roots of 400."
+      },
+      {
+        "type": "E5",
+        "start_step": 6,
+        "span": "we find that the greatest integer \\(n\\) that satisfies these conditions is:\n\\[\n\\boxed{186}."
+      }
+    ]
+  },
+  {
+    "num_steps": 5,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 3,
+        "span": "we use the formula for the circumradius \\( R \\):\n\\[ R = \\frac{abc}{4K} \\]"
+      },
+      {
+        "type": "E6",
+        "start_step": 3,
+        "span": "= \\sqrt{(5\\sqrt{10} + 9)(5\\sqrt{10} - 9)(9)(9)} = 81(10 - 1) = 729"
+      },
+      {
+        "type": "E2",
+        "start_step": 4,
+        "span": "V = \\frac{1}{3} K_1 h + \\frac{1}{3} K_2 h"
+      },
+      {
+        "type": "E2",
+        "start_step": 5,
+        "span": "RS = \\sqrt{R^2 - r^2}"
+      },
+      {
+        "type": "E5",
+        "start_step": 5,
+        "span": "The distance \\( RS \\) can be simplified to:\n\\[ RS = \\frac{13}{5} \\]"
+      }
+    ]
+  },
+  {
+    "num_steps": 8,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 6,
+        "span": "the number of pairs is \\( \\frac{n}{2} \\). Since there are 4040 cousins, this implies:"
+      }
+    ]
+  },
+  {
+    "num_steps": 8,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 4,
+        "span": "This can only happen if the sequence ends with an even number of odd numbers, as each pair of odd numbers will cancel out."
+      },
+      {
+        "type": "E2",
+        "start_step": 5,
+        "span": "The only way to get a sum of 12 with all even numbers is \\(6, 6\\)."
+      },
+      {
+        "type": "E2",
+        "start_step": 5,
+        "span": "This sequence satisfies both conditions."
+      },
+      {
+        "type": "E2",
+        "start_step": 5,
+        "span": "Two odd numbers and ten even numbers (sum = 12)"
+      },
+      {
+        "type": "E5",
+        "start_step": 7,
+        "span": "After calculating all possible sequences, we find that there are exactly 70 valid sequences."
+      }
+    ]
+  },
+  {
+    "num_steps": 6,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 2,
+        "span": "Thus, the sum is a multiple of 3 if and only if there are either 6 or 4 ones among the seven numbers."
+      },
+      {
+        "type": "E2",
+        "start_step": 4,
+        "span": "Each term in \\(P\\) will be either 1 or 9 (since each product involves at least one 3 and the other two can be 1 or 2, but not both 2)."
+      },
+      {
+        "type": "E5",
+        "start_step": 4,
+        "span": "However, by symmetry and combinatorial arguments, we find that exactly half of these will satisfy \\(P \\equiv 0 \\pmod{3}\\)."
+      },
+      {
+        "type": "E2",
+        "start_step": 4,
+        "span": "Since the number must be an integer, we round to the nearest whole number: 18."
+      }
+    ]
+  }
+]

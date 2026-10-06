@@ -1,0 +1,577 @@
+{
+  "2018-I-01": [
+    {
+      "num_steps": 11,
+      "errors": [
+        {
+          "type": "E1",
+          "start_step": 3,
+          "span": "1 \\leq p, q \\leq 100"
+        },
+        {
+          "type": "E6",
+          "start_step": 5,
+          "span": "The number of non-negative integers \\(q\\) for each \\(p\\) is \\(101 - p\\)"
+        }
+      ]
+    }
+  ],
+  "2018-I-02": [
+    {
+      "num_steps": 8,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 6,
+          "span": "Compare coefficients."
+        }
+      ]
+    }
+  ],
+  "2018-I-03": [
+    {
+      "num_steps": 10,
+      "errors": [
+        {
+          "type": "E1",
+          "start_step": 1,
+          "span": "The total number of ways to arrange 10 cards is given by the factorial of 10, which is 10!."
+        },
+        {
+          "type": "E2",
+          "start_step": 5,
+          "span": "This gives us 4 units to arrange, which can be done in 4! ways."
+        }
+      ]
+    }
+  ],
+  "2018-I-04": [
+    {
+      "num_steps": 6,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 3,
+          "span": "Using the Pythagorean theorem in $\\triangle ABD$ and $\\triangle ACD$"
+        },
+        {
+          "type": "E2",
+          "start_step": 4,
+          "span": "we can use the fact that $BC = BD + CD$"
+        },
+        {
+          "type": "E5",
+          "start_step": 6,
+          "span": "ANSWER: 15"
+        }
+      ]
+    }
+  ],
+  "2018-I-05": [
+    {
+      "num_steps": 30,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 15,
+          "span": "\\log_3(3(-2y) + y) = \\log_3(3(-2y)^2 + 4(-2y)y + Ky^2)"
+        },
+        {
+          "type": "E2",
+          "start_step": 23,
+          "span": "\\log_3(3y + y) = \\log_3(3y^2 + 4y^2 + Ky^2)"
+        },
+        {
+          "type": "E6",
+          "start_step": 24,
+          "span": "\\log_3(4y + Ky) = \\log_3(7y^2 + Ky^2)"
+        },
+        {
+          "type": "E5",
+          "start_step": 30,
+          "span": "The possible values of $K$ are determined by the conditions \\(x = -2y\\) and \\(x = y\\). The product of all possible values of \\(K\\) is:"
+        }
+      ]
+    }
+  ],
+  "2018-I-06": [
+    {
+      "num_steps": 19,
+      "errors": [
+        {
+          "type": "E6",
+          "start_step": 6,
+          "span": "\\sin(720\\theta) = -\\sin(120\\theta)"
+        },
+        {
+          "type": "E2",
+          "start_step": 7,
+          "span": "Using the identity $\\sin(2\\theta) = 2\\sin(\\theta)\\cos(\\theta)$, we can rewrite the equation as:"
+        },
+        {
+          "type": "E2",
+          "start_step": 11,
+          "span": "Using the identity $\\sin(180\\theta) = -\\sin(180\\theta)$"
+        }
+      ]
+    }
+  ],
+  "2018-I-07": [
+    {
+      "num_steps": 9,
+      "errors": [
+        {
+          "type": "E5",
+          "start_step": 5,
+          "span": "Analyze the symmetry and properties of the hexagonal prism to determine the number of isosceles triangles."
+        }
+      ]
+    }
+  ],
+  "2018-I-08": [
+    {
+      "num_steps": 13,
+      "errors": [
+        {
+          "type": "E1",
+          "start_step": 2,
+          "span": "an equiangular hexagon can be divided into six equilateral triangles"
+        },
+        {
+          "type": "E2",
+          "start_step": 9,
+          "span": "The diameter of this circle will be equal to the distance from one vertex of the hexagon to the opposite vertex"
+        }
+      ]
+    }
+  ],
+  "2018-I-09": [
+    {
+      "num_steps": 9,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 6,
+          "span": "$\\{1, 15, 5, 11\\}$"
+        },
+        {
+          "type": "E5",
+          "start_step": 7,
+          "span": "Therefore, there are 9 such subsets."
+        }
+      ]
+    }
+  ],
+  "2018-I-10": [
+    {
+      "num_steps": 11,
+      "errors": [
+        {
+          "type": "E1",
+          "start_step": 2,
+          "span": "On the inner cycle, the bug can move to 4 adjacent vertices (counterclockwise)."
+        },
+        {
+          "type": "E2",
+          "start_step": 3,
+          "span": "This means the bug must have moved an equal number of times clockwise and counterclockwise on the outer cycle."
+        },
+        {
+          "type": "E2",
+          "start_step": 4,
+          "span": "The graph is symmetric, so the number of paths from $A$ to $A$ is the same as the number of paths from $J$ to $J$, $I$ to $I$, $H$ to $H$, $G$ to $G$, and $F$ to $F$."
+        },
+        {
+          "type": "E6",
+          "start_step": 10,
+          "span": "The remainder when divided by 1000 is 1000."
+        }
+      ]
+    }
+  ],
+  "2018-I-11": [
+    {
+      "num_steps": 10,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 9,
+          "span": "we can use the fact that \\( 3^{15} \\equiv 1 \\pmod{143} \\) and \\( 3^{15} \\equiv 1 \\pmod{143} \\) to conclude that \\( 3^{15} \\equiv 1 \\pmod{143^2} \\)"
+        }
+      ]
+    }
+  ],
+  "2018-I-12": [
+    {
+      "num_steps": 10,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 6,
+          "span": "The binomial theorem tells us that the sum of the elements of all subsets of \\( U \\) is \\( 2^{18} \\)."
+        },
+        {
+          "type": "E2",
+          "start_step": 7,
+          "span": "The number of subsets whose sum is congruent to 0 modulo 3 is half of the total number of subsets"
+        }
+      ]
+    }
+  ],
+  "2018-I-13": [
+    {
+      "num_steps": 10,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 3,
+          "span": "The area of \\( \triangle AI_1I_2 \\) will be minimized when \\( X \\) is such that the incenters are as close as possible."
+        },
+        {
+          "type": "E2",
+          "start_step": 5,
+          "span": "To minimize the area of \\( \triangle AI_1I_2 \\), we need to minimize the height from \\( A \\) to the line \\( I_1I_2 \\)."
+        },
+        {
+          "type": "E2",
+          "start_step": 6,
+          "span": "The minimum height will occur when \\( X \\) is such that the triangles \\( \triangle ABX \\) and \\( \triangle ACX \\) are similar to \\( \triangle ABC \\)."
+        },
+        {
+          "type": "E2",
+          "start_step": 8,
+          "span": "\\[ \\text{Area} = \\frac{1}{2} \\times BC \\times \\text{minimum height} \\]"
+        },
+        {
+          "type": "E5",
+          "start_step": 9,
+          "span": "After calculating the minimum height, we find that the minimum area of \\( \triangle AI_1I_2 \\) is 120."
+        }
+      ]
+    }
+  ],
+  "2018-I-14": [
+    {
+      "num_steps": 11,
+      "errors": [
+        {
+          "type": "E1",
+          "start_step": 3,
+          "span": "Let $b_n$ be the number of sequences of length $n$ ending at $P_1, P_2, P_3, P_4, P_5$ before reaching $E$."
+        },
+        {
+          "type": "E2",
+          "start_step": 7,
+          "span": "$a_{12} + b_{12}$ gives the total number of sequences of length 12 or less ending at $E$."
+        },
+        {
+          "type": "E5",
+          "start_step": 11,
+          "span": "a_{12} + b_{12} = 2a_{11} + 2a_{10} + 2a_9 + \\ldots + 2a_1"
+        }
+      ]
+    }
+  ],
+  "2018-I-15": [
+    {
+      "num_steps": 9,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 3,
+          "span": "For a cyclic quadrilateral inscribed in a circle with radius $1$, the diagonals intersect at right angles."
+        },
+        {
+          "type": "E5",
+          "start_step": 7,
+          "span": "We can use these values to find the area $K$."
+        },
+        {
+          "type": "E6",
+          "start_step": 8,
+          "span": "Thus, $m=120$ and $n=145$, and $m+n=265$."
+        }
+      ]
+    }
+  ],
+  "2018-II-01": [
+    {
+      "num_steps": 8,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 3,
+          "span": "When Paul meets Eve, they have run the same distance."
+        }
+      ]
+    }
+  ],
+  "2018-II-02": [
+    {
+      "num_steps": 4,
+      "errors": [
+        {
+          "type": "E6",
+          "start_step": 3,
+          "span": "60 \\mod 11 = 6"
+        }
+      ]
+    }
+  ],
+  "2018-II-03": [
+    {
+      "num_steps": 5,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 5,
+          "span": "#### Valid $b$ values:\n- $b = 10$\n- $b = 104.5$"
+        },
+        {
+          "type": "E5",
+          "start_step": 5,
+          "span": "Let's start by finding $k$ and $m$ that fit the equation $3b + 6 = k^2$ and $2b + 7 = m^3$."
+        },
+        {
+          "type": "E6",
+          "start_step": 5,
+          "span": "Sum = $10 + 104.5 + 168 + 252.5 + 361 + 496.5 + 662 + 860.5 + 1095 = 4170$"
+        }
+      ]
+    }
+  ],
+  "2018-II-04": [
+    {
+      "num_steps": 9,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 3,
+          "span": "Each triangle has a base of $1$"
+        },
+        {
+          "type": "E2",
+          "start_step": 4,
+          "span": "The height of each triangle is $\\sqrt{2}$"
+        }
+      ]
+    }
+  ],
+  "2018-II-05": [
+    {
+      "num_steps": 11,
+      "errors": [
+        {
+          "type": "E6",
+          "start_step": 4,
+          "span": "(-80 - 320i)(60)(-96 + 24i) = (-80 - 320i)(-96 + 24i)"
+        },
+        {
+          "type": "E2",
+          "start_step": 7,
+          "span": "= \\sqrt{32640} \\cdot (-1)^{1/2} \\cdot i^{1/2}\n   \\]\n   \\[\n   = \\sqrt{32640} \\cdot i^{1/2}"
+        },
+        {
+          "type": "E6",
+          "start_step": 8,
+          "span": "\\sqrt{32640} = \\sqrt{32640} = 180\\sqrt{5}"
+        },
+        {
+          "type": "E2",
+          "start_step": 10,
+          "span": "we can find $a^2 + b^2$ by squaring the real part of $x + y + z$."
+        }
+      ]
+    }
+  ],
+  "2018-II-06": [
+    {
+      "num_steps": 6,
+      "errors": [
+        {
+          "type": "E1",
+          "start_step": 1,
+          "span": "Factor the polynomial as $(x^2 + 2ax - 1)(x^2 + (2a - 2)x - 2)$."
+        },
+        {
+          "type": "E5",
+          "start_step": 2,
+          "span": "Use Vieta's formulas to find the sum and product of the roots."
+        }
+      ]
+    }
+  ],
+  "2018-II-07": [
+    {
+      "num_steps": 7,
+      "errors": [
+        {
+          "type": "E5",
+          "start_step": 1,
+          "span": "Step 1: Calculate the area of triangle $ABC$ using Heron's formula."
+        }
+      ]
+    }
+  ],
+  "2018-II-08": [
+    {
+      "num_steps": 5,
+      "errors": [
+        {
+          "type": "E1",
+          "start_step": 3,
+          "span": "The frog needs to make 4 jumps of 1 unit in the x-direction and 4 jumps of 1 unit in the y-direction."
+        }
+      ]
+    }
+  ],
+  "2018-II-09": [
+    {
+      "num_steps": 4,
+      "errors": [
+        {
+          "type": "E1",
+          "start_step": 1,
+          "span": "The octagon is a rectangle with dimensions $23 \\times 27$."
+        },
+        {
+          "type": "E2",
+          "start_step": 2,
+          "span": "The area of each triangle is $\\frac{1}{7}$ of the area of the octagon"
+        },
+        {
+          "type": "E2",
+          "start_step": 3,
+          "span": "The area of the convex polygon is the area of the octagon minus the area of the seven triangles"
+        }
+      ]
+    }
+  ],
+  "2018-II-10": [
+    {
+      "num_steps": 8,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 3,
+          "span": "If $f(x) = y$ where $y \\neq x$, then $f(f(x)) = f(y) = y$, which also satisfies the condition."
+        },
+        {
+          "type": "E2",
+          "start_step": 6,
+          "span": "There are 5 elements in the domain, and for each element, there are 4 choices (excluding the element itself). So, initially, there are $5 \\times 4 = 20$ choices."
+        }
+      ]
+    }
+  ],
+  "2018-II-11": [
+    {
+      "num_steps": 11,
+      "errors": [
+        {
+          "type": "E1",
+          "start_step": 3,
+          "span": "For the first term, it can be any of $1, 2, 3, 4, 5$."
+        },
+        {
+          "type": "E2",
+          "start_step": 5,
+          "span": "For the second term, $a_2 > a_1$."
+        },
+        {
+          "type": "E6",
+          "start_step": 10,
+          "span": "$4 \\times 3 \\times 2 \\times 1 \\times 24 = 288$"
+        }
+      ]
+    }
+  ],
+  "2018-II-12": [
+    {
+      "num_steps": 7,
+      "errors": [
+        {
+          "type": "E6",
+          "start_step": 4,
+          "span": "We know that \\(x + y = 2BPC + 2APD\\)"
+        },
+        {
+          "type": "E2",
+          "start_step": 6,
+          "span": "\\(2(BPC + APD) = 2 \times 14\\)"
+        }
+      ]
+    }
+  ],
+  "2018-II-13": [
+    {
+      "num_steps": 7,
+      "errors": [
+        {
+          "type": "E5",
+          "start_step": 2,
+          "span": "Step 2: Calculate the probability of rolling 1, 2, and 3 in that specific order on the first three rolls."
+        }
+      ]
+    }
+  ],
+  "2018-II-14": [
+    {
+      "num_steps": 8,
+      "errors": [
+        {
+          "type": "E1",
+          "start_step": 1,
+          "span": "AX is the angle bisector of $\\angle BAC$ because it is tangent to the incircle at $X$"
+        },
+        {
+          "type": "E2",
+          "start_step": 2,
+          "span": "Since $PQ$ is tangent to $\\omega$ at $Y$, $PQ$ is parallel to $AX$."
+        },
+        {
+          "type": "E2",
+          "start_step": 3,
+          "span": "By the angle bisector theorem, we have $\\frac{AP}{PB} = \\frac{AQ}{QC}$."
+        },
+        {
+          "type": "E6",
+          "start_step": 4,
+          "span": "$QC = \\frac{3}{4} \\cdot AC$"
+        }
+      ]
+    }
+  ],
+  "2018-II-15": [
+    {
+      "num_steps": 101,
+      "errors": [
+        {
+          "type": "E1",
+          "start_step": 4,
+          "span": "Let's start with $f(1) = 1$.\n- Then, $f(2) = 2$."
+        },
+        {
+          "type": "E2",
+          "start_step": 9,
+          "span": "Since $f(5)$ must satisfy $|f(5) - 0| \\leq |f(5) - 12| \\leq 3|f(5) - 0|$, we find $f(5) = 6$."
+        },
+        {
+          "type": "E2",
+          "start_step": 15,
+          "span": "$|4 - 6| = 2$ and $|f(4) - f(6)| = |4 - 12| = 8$."
+        },
+        {
+          "type": "E3",
+          "start_step": 17,
+          "span": "Step 17: Confirm the conditions for $x = 5$ and $x = 6$."
+        },
+        {
+          "type": "E5",
+          "start_step": 101,
+          "span": "ANSWER: 120"
+        }
+      ]
+    }
+  ]
+}

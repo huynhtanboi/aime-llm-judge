@@ -1,0 +1,502 @@
+[
+  {
+    "num_steps": 4,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 1,
+        "span": "$$17_b = 1 \\cdot b^2 + 7 \\cdot b$$"
+      },
+      {
+        "type": "E5",
+        "start_step": 4,
+        "span": "Since $n$ is a positive integer, possible values for $n$ are $\\{1, 2\\}$."
+      }
+    ]
+  },
+  {
+    "num_steps": 21,
+    "errors": [
+      {
+        "type": "E6",
+        "start_step": 12,
+        "span": "\\vec{AE} = \\frac{16}{28}\\vec{AB} = \\frac{4}{7}\\vec{AB}"
+      },
+      {
+        "type": "E2",
+        "start_step": 20,
+        "span": "Let's trace the perimeter: $A \\to F \\to G \\to E \\to D \\to M \\to C \\to B \\to N \\to A$."
+      },
+      {
+        "type": "E5",
+        "start_step": 21,
+        "span": "Since $F$ is reflection of something? No, M is ref(D,F), so"
+      }
+    ]
+  },
+  {
+    "num_steps": 6,
+    "errors": [
+      {
+        "type": "E6",
+        "start_step": 4,
+        "span": "$$ N_2 = \\frac{9!}{5! \\cdot 3! \\cdot 1!} = \\binom{9}{5, 3, 1} = \\binom{9}{4} \\times \\binom{5}{3} = \\frac{9 \\cdot 8 \\cdot 7 \\cdot 6}{24} \\times (10) $$"
+      }
+    ]
+  },
+  {
+    "num_steps": 3,
+    "errors": [
+      {
+        "type": "E6",
+        "start_step": 3,
+        "span": "Count = \\frac{99}{3} - 1 + 1 = 32"
+      },
+      {
+        "type": "E3",
+        "start_step": 3,
+        "span": "Let's use the standard formula: Number of multiples of $k$ in $[-M, M] = \\lfloor M/k \\rfloor + (-\\lceil -M/k \\rceil)$. Actually simpler: Total integers from 0 to $2N+1$ is $403/3$? No. Total numbers is 201."
+      },
+      {
+        "type": "E5",
+        "start_step": 3,
+        "span": "So there are 67 solutions in Case A? Let's verify with small numbers."
+      }
+    ]
+  },
+  {
+    "num_steps": 4,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 1,
+        "span": "The condition is $(d_7 + d_5 + d_3 + d_1) = (d_6 + d_4 + d_2)$"
+      }
+    ]
+  },
+  {
+    "num_steps": 6,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 2,
+        "span": "$$r + s = 2\\rho$$"
+      },
+      {
+        "type": "E2",
+        "start_step": 4,
+        "span": "Thus, the height $h$ of the trapezoid is exactly the radius $\\rho$."
+      },
+      {
+        "type": "E2",
+        "start_step": 6,
+        "span": "For a trapezoid, this means Top Base + Leg = Bottom Base + Leg $\\implies$ Top Base = Bottom Base."
+      },
+      {
+        "type": "E5",
+        "start_step": 6,
+        "span": "So it IS tangent"
+      }
+    ]
+  },
+  {
+    "num_steps": 2,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 1,
+        "span": "probability that the last word listed in the alphabetical list of six two-letter words ends with 'G'"
+      },
+      {
+        "type": "E6",
+        "start_step": 1,
+        "span": "$C > J$"
+      },
+      {
+        "type": "E5",
+        "start_step": 2,
+        "span": "Let's check the example again carefully. Example result: $AB$, $CJ$, $DG$, $EK$, $FL$"
+      }
+    ]
+  },
+  {
+    "num_steps": 4,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 3,
+        "span": "Equation (1): $|25+20i-z|=5 \\implies |z-( -25-20i )|=5$."
+      },
+      {
+        "type": "E6",
+        "start_step": 3,
+        "span": "$(x+25)^2 + (y+20)^2 = 25^2$"
+      },
+      {
+        "type": "E5",
+        "start_step": 4,
+        "span": "Center B: Real part $-k$, Imaginary part $3$. ($B = -ki + 3i$? No, that would be written"
+      }
+    ]
+  },
+  {
+    "num_steps": 3,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 1,
+        "span": "The image of the parabola is given by substituting $u'$ and $v'$ into the original equation:"
+      },
+      {
+        "type": "E6",
+        "start_step": 3,
+        "span": "$$ Y - \\frac{\\sqrt{3}}{2}X = \\frac{(X + \\sqrt{3}Y)^2}{4} - 4 $$"
+      },
+      {
+        "type": "E5",
+        "start_step": 3,
+        "span": "$$ 16Y - 8\\sqrt{3}X = 2(X+\\sqrt{3}Y)^2 - 32 $$"
+      }
+    ]
+  },
+  {
+    "num_steps": 36,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 1,
+        "span": "with numbers $1$ through $27$, such that each row contains distinct numbers and each column also contains distinct numbers (forming a Latin Square)"
+      },
+      {
+        "type": "E5",
+        "start_step": 36,
+        "span": "how many such grids exist with $R=3, C"
+      }
+    ]
+  },
+  {
+    "num_steps": 1,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 1,
+        "span": "In these intervals, $f(x)=x$."
+      }
+    ]
+  },
+  {
+    "num_steps": 1,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 1,
+        "span": "$$x - yz < x + 75 - z \\quad (\\text{since } y+z = 75-x)$$"
+      },
+      {
+        "type": "E5",
+        "start_step": 1,
+        "span": "Let's try a different strategy: Assume there is an equilateral triangle inscribed in the circle centered at origin with radius $\\sqrt{75}$"
+      }
+    ]
+  },
+  {
+    "num_steps": 42,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 2,
+        "span": "$$N = n_{\\text{initial}} + n_{\\text{new}} = 4 + 25 = 29.$$"
+      },
+      {
+        "type": "E2",
+        "start_step": 5,
+        "span": "The number of intersection points inside the disk is $\\binom{k}{4}$ because each set of 4 lines forms a unique convex quadrilateral with one interior vertex (intersection)."
+      },
+      {
+        "type": "E3",
+        "start_step": 25,
+        "span": "The expected number of intersection points inside is **$\\binom{n}{4}$**."
+      },
+      {
+        "type": "E5",
+        "start_step": 41,
+        "span": "So, for every subset of 4 segments chosen from the $n$ total segments:"
+      }
+    ]
+  },
+  {
+    "num_steps": 1,
+    "errors": [
+      {
+        "type": "E3",
+        "start_step": 1,
+        "span": "Let's try extending sides such that they form a straight line representing the path through vertices with angles equal to their interior/exterior values relative to the chain direction."
+      }
+    ]
+  },
+  {
+    "num_steps": 3,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 1,
+        "span": "Let $x = a/3, y = b/3, z = c/3$. Since $a, b, c \\ge 1$, we have $x, y, z$ are positive integers."
+      },
+      {
+        "type": "E2",
+        "start_step": 2,
+        "span": "So Total Count $= 3 \\times (\\text{number of solutions to } x^3+y^3+z^3 \\equiv 0 \\pmod{81})$."
+      },
+      {
+        "type": "E5",
+        "start_step": 3,
+        "span": "This is nontrivial."
+      }
+    ]
+  },
+  {
+    "num_steps": 49,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 18,
+        "span": "Since order is ..., E, F, then $x_E < 0$ and $x_F=0 \\implies x_E = -31$."
+      },
+      {
+        "type": "E5",
+        "start_step": 49,
+        "span": "Let's assume standard orientation: Right to Left decreasing coordinates? Or just define"
+      }
+    ]
+  },
+  {
+    "num_steps": 4,
+    "errors": [
+      {
+        "type": "E6",
+        "start_step": 1,
+        "span": "Coefficients of the cubic polynomial are 1, 0 (for $n^2$), 3 (for $n$), and 27."
+      },
+      {
+        "type": "E6",
+        "start_step": 3,
+        "span": "Product: $P = 3(6)(9+9) = 3(6)(18) = 30 \\times 18 = 540$."
+      },
+      {
+        "type": "E6",
+        "start_step": 4,
+        "span": "Quotient coeffs: 1, 1, 7. So $Q(n) = n^2 - 2n + 7$."
+      }
+    ]
+  },
+  {
+    "num_steps": 1,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 1,
+        "span": "There are $4$ rows (indexed $i=0, 1$) and $3$ columns (indexed $j=0, 1, 2$). The total number of edges is $4 + 6 = 10$."
+      },
+      {
+        "type": "E5",
+        "start_step": 1,
+        "span": "Let's assume the question implies a specific"
+      }
+    ]
+  },
+  {
+    "num_steps": 79,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 26,
+        "span": "the denominator in the problem is $\\log_{k+1} (5^{(k+1)^2 - 4})$"
+      },
+      {
+        "type": "E5",
+        "start_step": 79,
+        "span": "Numerator: $\\prod_{j=5}^{64} j$."
+      }
+    ]
+  },
+  {
+    "num_steps": 3,
+    "errors": [
+      {
+        "type": "E6",
+        "start_step": 2,
+        "span": "\\angle DFE = 60^\\circ, and \\angle FED = 36^\\circ."
+      },
+      {
+        "type": "E5",
+        "start_step": 3,
+        "span": "Let's use vectors/angles:"
+      }
+    ]
+  },
+  {
+    "num_steps": 1,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 1,
+        "span": "Given that radius $\\rho = \\frac{BC}{2} = 7.5$"
+      },
+      {
+        "type": "E5",
+        "start_step": 1,
+        "span": "Often"
+      }
+    ]
+  },
+  {
+    "num_steps": 2,
+    "errors": [
+      {
+        "type": "E6",
+        "start_step": 2,
+        "span": "there are $16$ possible subsets (including $\\emptyset$)."
+      },
+      {
+        "type": "E2",
+        "start_step": 2,
+        "span": "Are these conditions independent? Yes."
+      },
+      {
+        "type": "E6",
+        "start_step": 2,
+        "span": "Nonempty: {1}, {3}. Count = 2."
+      },
+      {
+        "type": "E2",
+        "start_step": 2,
+        "span": "Bad count = $2 + 2 - 1$ (empty set is counted twice) = 3?"
+      },
+      {
+        "type": "E5",
+        "start_step": 2,
+        "span": "Wait, empty set has"
+      }
+    ]
+  },
+  {
+    "num_steps": 64,
+    "errors": [
+      {
+        "type": "E6",
+        "start_step": 8,
+        "span": "The remainder after taking these is $(N \\% (25+10))$"
+      },
+      {
+        "type": "E5",
+        "start_step": 64,
+        "span": "Let $N = q \\cdot 25 + r$, where $r < 25$. Greedy takes $q$ coins of 25"
+      }
+    ]
+  },
+  {
+    "num_steps": 3,
+    "errors": [
+      {
+        "type": "E6",
+        "start_step": 3,
+        "span": "So $x_m^{(k)} = \\frac{-(-1)^m \\arcsin(k/7) + m'\\pi}{5}$."
+      },
+      {
+        "type": "E2",
+        "start_step": 3,
+        "span": "based on the length of the interval relative to the period $\\pi$."
+      },
+      {
+        "type": "E5",
+        "start_step": 3,
+        "span": "Let's"
+      }
+    ]
+  },
+  {
+    "num_steps": 42,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 1,
+        "span": "such that no two chosen chairs are adjacent"
+      }
+    ]
+  },
+  {
+    "num_steps": 3,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 1,
+        "span": "We are looking for the number of perfect matchings in the complete graph $K_n$ (where vertices represent polygon vertices and edges have equal length)."
+      },
+      {
+        "type": "E5",
+        "start_step": 3,
+        "span": "But crucially, can a perfect matching consist"
+      }
+    ]
+  },
+  {
+    "num_steps": 1,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 1,
+        "span": "Then $\\theta = 360^\\circ - (\\sum_{j=2}^{9} \\alpha_j + \\alpha_2)$."
+      },
+      {
+        "type": "E6",
+        "start_step": 1,
+        "span": "$\\sin^2 \\theta + (\\frac{5}{13})^2 = 1 \\implies \\sin \\theta = \\sqrt{\\frac{168}{169}} = \\frac{2\\sqrt{42}}{13}$."
+      },
+      {
+        "type": "E1",
+        "start_step": 1,
+        "span": "Segment $A_1 A_k$ (part of perimeter)."
+      },
+      {
+        "type": "E5",
+        "start_step": 1,
+        "span": "If the"
+      }
+    ]
+  },
+  {
+    "num_steps": 1,
+    "errors": [
+      {
+        "type": "E5",
+        "start_step": 1,
+        "span": "This implies the value of $x$ modulo 1/1000? No, it means find integer $M = m/n$, then compute $(m+n)\\%1"
+      }
+    ]
+  },
+  {
+    "num_steps": 1,
+    "errors": [
+      {
+        "type": "E5",
+        "start_step": 1,
+        "span": "So L is"
+      }
+    ]
+  },
+  {
+    "num_steps": 3,
+    "errors": [
+      {
+        "type": "E6",
+        "start_step": 3,
+        "span": "At $x=0$: Numerator $\\approx (-18)(-72)(-98)(k) = -k(18 \\cdot 72 \\cdot 98)$."
+      },
+      {
+        "type": "E3",
+        "start_step": 3,
+        "span": "Let's re-evaluate the whole function behavior with correct limits."
+      }
+    ]
+  }
+]

@@ -1,0 +1,465 @@
+[
+  {
+    "problem_idx": "2024-II-4",
+    "num_steps": 18,
+    "errors": [
+      {
+        "type": "E6",
+        "start_step": 4,
+        "span": "\\frac{x \\cdot y \\cdot z}{y \\cdot x \\cdot z} = 1"
+      },
+      {
+        "type": "E2",
+        "start_step": 12,
+        "span": "4 \\log_2 x + 3 \\log_2 y + 2 \\log_2 z = (3 - 1) \\log_2 x + (2 - 1) \\log_2 y + (1 - 1) \\log_2 z"
+      }
+    ]
+  },
+  {
+    "problem_idx": "2024-II-12",
+    "num_steps": 8,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 3,
+        "span": "A segment \\( \\overline{PQ} \\) of unit length with \\( P \\) on the \\( x \\)-axis and \\( Q \\) on the \\( y \\)-axis can be parameterized as:\n\\[ P(t, 0), \\quad Q(0, t) \\]"
+      },
+      {
+        "type": "E2",
+        "start_step": 5,
+        "span": "This occurs at the intersection of the perpendicular bisector of \\( AB \\) with line \\( AB \\)."
+      }
+    ]
+  },
+  {
+    "problem_idx": "2024-I-4",
+    "num_steps": 4,
+    "errors": []
+  },
+  {
+    "problem_idx": "2024-I-3",
+    "num_steps": 5,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 1,
+        "span": "If \\( n = 2, 3 \\), Alice can take all tokens and win."
+      }
+    ]
+  },
+  {
+    "problem_idx": "2024-I-8",
+    "num_steps": 10,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 1,
+        "span": "The centers of these circles form a regular octagon."
+      }
+    ]
+  },
+  {
+    "problem_idx": "2024-I-12",
+    "num_steps": 10,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 1,
+        "span": "f(x) = \\left| x - \\frac{1}{2} \\right|."
+      },
+      {
+        "type": "E2",
+        "start_step": 2,
+        "span": "g(x) = \\left| x - \\frac{1}{4} \\right|."
+      },
+      {
+        "type": "E2",
+        "start_step": 10,
+        "span": "For each value of $x$ in $[0, 1)$, there is exactly one corresponding $y$ that satisfies the equation due to the symmetry and periodicity."
+      },
+      {
+        "type": "E2",
+        "start_step": 10,
+        "span": "Thus, the number of intersections is:\n\\[ \\boxed{6} \\]"
+      }
+    ]
+  },
+  {
+    "problem_idx": "2024-I-11",
+    "num_steps": 6,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 2,
+        "span": "Case \\(k = 1\\): One blue vertex must be in a position that was originally red. This cannot happen since we only have one blue and eight positions."
+      }
+    ]
+  },
+  {
+    "problem_idx": "2024-II-11",
+    "num_steps": 7,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 6,
+        "span": "By comparing terms and solving, we find that the only feasible solution is when \\(a = b = c = 100\\)."
+      },
+      {
+        "type": "E6",
+        "start_step": 6,
+        "span": "3 \\cdot 100^4 = 3 \\cdot 100000000 = 6,000,000"
+      }
+    ]
+  },
+  {
+    "problem_idx": "2024-I-2",
+    "num_steps": 11,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 10,
+        "span": "By inspection, we find that:\n\\[ a = b = 2 \\]"
+      },
+      {
+        "type": "E4",
+        "start_step": 11,
+        "span": "we conclude:\n\\[ xy = 100 \\]"
+      }
+    ]
+  },
+  {
+    "problem_idx": "2024-II-6",
+    "num_steps": 8,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 2,
+        "span": "choosing any nonempty subset of the elements in \\( A \\) that are less than or equal to \\( a_i \\). The number of such subsets is given by \\( 2^{i-1} - 1 \\)"
+      },
+      {
+        "type": "E4",
+        "start_step": 7,
+        "span": "it's clear that \\( k = 11 \\) is the correct integer solution"
+      },
+      {
+        "type": "E2",
+        "start_step": 8,
+        "span": "the sum of these elements is simply the number of elements in \\( A \\)"
+      }
+    ]
+  },
+  {
+    "problem_idx": "2024-I-7",
+    "num_steps": 9,
+    "errors": [
+      {
+        "type": "E6",
+        "start_step": 7,
+        "span": "- 36i(\\sin\\theta - i\\cos\\theta)"
+      }
+    ]
+  },
+  {
+    "problem_idx": "2024-II-3",
+    "num_steps": 7,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 2,
+        "span": "(10a + b) + (10d + e) + (10c + f) = 99"
+      },
+      {
+        "type": "E2",
+        "start_step": 3,
+        "span": "b + e + c + f = 9"
+      },
+      {
+        "type": "E2",
+        "start_step": 6,
+        "span": "The number of pairs \\((a, d)\\) is:\n\\[ \\binom{10}{2} = 45 \\]"
+      }
+    ]
+  },
+  {
+    "problem_idx": "2024-I-1",
+    "num_steps": 7,
+    "errors": []
+  },
+  {
+    "problem_idx": "2024-II-7",
+    "num_steps": 7,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 2,
+        "span": "1000a + 100b + 10c + d - (999a) = a + 100b + 10c + d \\equiv 0 \\pmod{7}"
+      }
+    ]
+  },
+  {
+    "problem_idx": "2024-I-6",
+    "num_steps": 9,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 4,
+        "span": "We need to place four direction changes in the 15 possible positions between the 16 steps. This is equivalent to choosing 4 out of these 15 positions, which can be done in \\(\\binom{15}{4}\\) ways."
+      }
+    ]
+  },
+  {
+    "problem_idx": "2024-I-13",
+    "num_steps": 5,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 2,
+        "span": "-1 is a fourth power residue modulo p if and only if the order of -1 in the multiplicative group \\(\\mathbb{Z}_p^*\\) divides 4."
+      },
+      {
+        "type": "E2",
+        "start_step": 3,
+        "span": "6^4 = 1296 \\equiv -1 \\pmod{13} \\quad (\\text{since } 1296 \\div 13 = 99 \\text{ remainder } 9)"
+      }
+    ]
+  },
+  {
+    "problem_idx": "2024-I-15",
+    "num_steps": 9,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 2,
+        "span": "Since the volume is 23 (which is a prime number), one of the dimensions must be 1."
+      }
+    ]
+  },
+  {
+    "problem_idx": "2024-II-15",
+    "num_steps": 4,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 1,
+        "span": "Since there are 6 pairs of opposite sides in a dodecagon (each pair consists of two parallel sides), the number of such rectangles is:"
+      },
+      {
+        "type": "E2",
+        "start_step": 2,
+        "span": "Using diagonals of length 4: We need to choose 2 out of these 6 diagonals, which form a rectangle. The number of ways to do this is:"
+      }
+    ]
+  },
+  {
+    "problem_idx": "2024-II-10",
+    "num_steps": 7,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 3,
+        "span": "we can use the fact that in a right triangle with hypotenuse as one of the sides, the product of the segments of the hypotenuse equals the square of the altitude to the hypotenuse. In this case, \\(AI\\) is the altitude from \\(A\\) to \\(OI\\)."
+      },
+      {
+        "type": "E2",
+        "start_step": 4,
+        "span": "AI^2 = R(R - r) = 13(13 - 6) = 13 \\cdot 7 = 91."
+      },
+      {
+        "type": "E2",
+        "start_step": 6,
+        "span": "for a right angle at \\(A\\) (which is implied by the perpendicularity condition)"
+      },
+      {
+        "type": "E2",
+        "start_step": 6,
+        "span": "AB \\cdot AC = 4R^2 - 4r^2."
+      }
+    ]
+  },
+  {
+    "problem_idx": "2024-II-9",
+    "num_steps": 8,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 2,
+        "span": "the problem reduces to finding the number of binary strings of length 5."
+      }
+    ]
+  },
+  {
+    "problem_idx": "2024-II-14",
+    "num_steps": 105,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 1,
+        "span": "n = ab + b^1a + 0 \\cdot b^2 = a \\cdot b + b \\cdot a = (a+b)b"
+      }
+    ]
+  },
+  {
+    "problem_idx": "2024-II-5",
+    "num_steps": 9,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 1,
+        "span": "as a shape that can be inscribed in a larger equilateral triangle when its sides are extended."
+      }
+    ]
+  },
+  {
+    "problem_idx": "2024-I-9",
+    "num_steps": 5,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 2,
+        "span": "Similarly, for point B = (-x_1, -y_1):"
+      },
+      {
+        "type": "E2",
+        "start_step": 5,
+        "span": "The maximum distance between points on the hyperbola that form a rhombus with diagonals intersecting at the origin is when the points are at the vertices of the asymptotes, which gives:"
+      },
+      {
+        "type": "E6",
+        "start_step": 5,
+        "span": "40 + 32 = 72 \\times 2 = 160"
+      }
+    ]
+  },
+  {
+    "problem_idx": "2024-II-2",
+    "num_steps": 10,
+    "errors": [
+      {
+        "type": "E6",
+        "start_step": 6,
+        "span": "which sums to 20"
+      },
+      {
+        "type": "E2",
+        "start_step": 7,
+        "span": "the median is 4, which does not appear in the list"
+      },
+      {
+        "type": "E6",
+        "start_step": 9,
+        "span": "= 257"
+      }
+    ]
+  },
+  {
+    "problem_idx": "2024-II-1",
+    "num_steps": 4,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 2,
+        "span": "Since every resident owns a bag of candy hearts, the total number of residents is 900. Therefore:\n\\[ |D \\cup G \\cup S| = 900. \\]"
+      },
+      {
+        "type": "E2",
+        "start_step": 3,
+        "span": "letting \\( y = |D \\cap G \\cap S| - x \\) (the number of residents owning exactly three items), we get:\n\\[ 195 + 367 + 562 - (437 + 3x) + x = 900. \\]"
+      }
+    ]
+  },
+  {
+    "problem_idx": "2024-I-10",
+    "num_steps": 8,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 1,
+        "span": "the fact that $D$ lies on the polar line of $A$ with respect to $\\omega$"
+      },
+      {
+        "type": "E2",
+        "start_step": 3,
+        "span": "By the Power of a Point theorem, for point $A$ with respect to circle $\\omega$, we know that $AB \\cdot AC = AP \\cdot AD$."
+      },
+      {
+        "type": "E6",
+        "start_step": 5,
+        "span": "R = \\frac{90}{24\\sqrt{14}}"
+      },
+      {
+        "type": "E2",
+        "start_step": 6,
+        "span": "AP = \\frac{AB \\cdot AC}{BC} = \\frac{5 \\cdot 10}{9} = \\frac{50}{9}"
+      }
+    ]
+  },
+  {
+    "problem_idx": "2024-II-8",
+    "num_steps": 4,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 2,
+        "span": "The distance from the center of the sphere to the center of the torus (which we'll call the major radius of the torus plus the radius of the sphere minus the minor radius of the torus) is 11 - 3 = 8."
+      },
+      {
+        "type": "E4",
+        "start_step": 4,
+        "span": "m = 132, \\quad n = 59"
+      }
+    ]
+  },
+  {
+    "problem_idx": "2024-I-14",
+    "num_steps": 5,
+    "errors": [
+      {
+        "type": "E6",
+        "start_step": 1,
+        "span": "1 & 41 & 0 & 80 & 89 \\\\ 1 & 80 & 80 & 0 & 41 \\\\ 1 & 89 & 89 & 41 & 0"
+      },
+      {
+        "type": "E2",
+        "start_step": 1,
+        "span": "288 V^2 = -567 \\implies V^2 = \\frac{567}{288}"
+      },
+      {
+        "type": "E5",
+        "start_step": 2,
+        "span": "Similarly, we can find the areas of triangles \\( ABD \\), \\( BCD \\), and \\( CAD \\). Summing these areas gives us the total surface area \\( S \\)."
+      }
+    ]
+  },
+  {
+    "problem_idx": "2024-I-5",
+    "num_steps": 8,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 4,
+        "span": "we can infer that point D is directly below or above point C"
+      },
+      {
+        "type": "E2",
+        "start_step": 8,
+        "span": "|CE| = 107 + 16 - 17 = 106"
+      }
+    ]
+  },
+  {
+    "problem_idx": "2024-II-13",
+    "num_steps": 11,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 3,
+        "span": "P(2) = (2-1)(2-\\omega)(2-\\omega^2)\\cdots(2-\\omega^{12}) = 1."
+      },
+      {
+        "type": "E2",
+        "start_step": 5,
+        "span": "The roots of \\( R(x) \\) are exactly the same as those of \\( P(x) \\), but shifted by a constant term."
+      }
+    ]
+  }
+]

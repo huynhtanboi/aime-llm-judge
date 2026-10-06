@@ -1,0 +1,340 @@
+[
+  {
+    "num_steps": 9,
+    "errors": []
+  },
+  {
+    "num_steps": 6,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 5,
+        "span": "The maximum part in a composition of 6 into positive integers is at most 5"
+      },
+      {
+        "type": "E5",
+        "start_step": 6,
+        "span": "Step 6: Sum the totals from each subcase.\n$x=9$: 2\n$x=7$:"
+      }
+    ]
+  },
+  {
+    "num_steps": 8,
+    "errors": []
+  },
+  {
+    "num_steps": 11,
+    "errors": []
+  },
+  {
+    "num_steps": 10,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 3,
+        "span": "That implies distance $AB' = |BA'| = 1"
+      }
+    ]
+  },
+  {
+    "num_steps": 12,
+    "errors": []
+  },
+  {
+    "num_steps": 7,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 1,
+        "span": "returns to its original position after exactly 6 applications"
+      },
+      {
+        "type": "E6",
+        "start_step": 4,
+        "span": "$\frac{n!}{\\prod (k_i \\cdot m_k!)}$"
+      },
+      {
+        "type": "E6",
+        "start_step": 5,
+        "span": "Here lengths are 2 (mult 2) and 1 (mult 4)."
+      }
+    ]
+  },
+  {
+    "num_steps": 10,
+    "errors": []
+  },
+  {
+    "num_steps": 3,
+    "errors": [
+      {
+        "type": "E5",
+        "start_step": 3,
+        "span": "Condition B: Faces showing sticker 2 AND faces showing sticker 4 exist."
+      }
+    ]
+  },
+  {
+    "num_steps": 3,
+    "errors": [
+      {
+        "type": "E6",
+        "start_step": 3,
+        "span": "$2(A+B+C) = 720^\\circ$"
+      },
+      {
+        "type": "E5",
+        "start_step": 3,
+        "span": "Let's assume the condition: **Rotate so that $C'A' \\perp BC$**."
+      }
+    ]
+  },
+  {
+    "num_steps": 42,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 21,
+        "span": "Thus, for any specific $k \\le 32$, it is optimal to choose all vertices from one partition class (say Black) if possible?"
+      },
+      {
+        "type": "E2",
+        "start_step": 36,
+        "span": "For $k > 32$: Let $j = k - 32$. We must include all Black cells (since there are only 32)."
+      },
+      {
+        "type": "E5",
+        "start_step": 42,
+        "span": "No, we choose which ones to put in $S$."
+      }
+    ]
+  },
+  {
+    "num_steps": 7,
+    "errors": [
+      {
+        "type": "E5",
+        "start_step": 7,
+        "span": "We can absorb constants into coefficients, so let the"
+      }
+    ]
+  },
+  {
+    "num_steps": 5,
+    "errors": [
+      {
+        "type": "E6",
+        "start_step": 3,
+        "span": "$10000 = 19 \times 503 + 487$"
+      },
+      {
+        "type": "E5",
+        "start_step": 5,
+        "span": "This looks like $\\sum"
+      }
+    ]
+  },
+  {
+    "num_steps": 3,
+    "errors": [
+      {
+        "type": "E5",
+        "start_step": 3,
+        "span": "Equation: $S_d = 2"
+      }
+    ]
+  },
+  {
+    "num_steps": 3,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 3,
+        "span": "Thus, any valid partition must consist entirely of loops where either $a=2$ or $b=2$."
+      },
+      {
+        "type": "E5",
+        "start_step": 3,
+        "span": "But wait, simply summing areas isn't enough; they must fit geometrically without overlap."
+      }
+    ]
+  },
+  {
+    "num_steps": 6,
+    "errors": []
+  },
+  {
+    "num_steps": 1,
+    "errors": [
+      {
+        "type": "E5",
+        "start_step": 1,
+        "span": "Suppose path: $(x,0) \\uparrow"
+      }
+    ]
+  },
+  {
+    "num_steps": 4,
+    "errors": [
+      {
+        "type": "E5",
+        "start_step": 4,
+        "span": "If"
+      }
+    ]
+  },
+  {
+    "num_steps": 6,
+    "errors": [
+      {
+        "type": "E6",
+        "start_step": 3,
+        "span": "Total two digits $10 \u00d7 10 = 100$ (from 10 to 99)."
+      }
+    ]
+  },
+  {
+    "num_steps": 12,
+    "errors": []
+  },
+  {
+    "num_steps": 4,
+    "errors": [
+      {
+        "type": "E5",
+        "start_step": 4,
+        "span": "Are there"
+      }
+    ]
+  },
+  {
+    "num_steps": 6,
+    "errors": [
+      {
+        "type": "E5",
+        "start_step": 6,
+        "span": "So total sum:\n$$ S = \\sum_{n=4}^{\\infty} [2^n - 2(n+1"
+      }
+    ]
+  },
+  {
+    "num_steps": 4,
+    "errors": [
+      {
+        "type": "E6",
+        "start_step": 2,
+        "span": "Area $= \\frac{y}{8}\\sqrt{4x^2-y^2}$."
+      },
+      {
+        "type": "E5",
+        "start_step": 4,
+        "span": "k=.7: .02*2.4=.048 exactly! So k=7/10 satisfies."
+      }
+    ]
+  },
+  {
+    "num_steps": 8,
+    "errors": [
+      {
+        "type": "E5",
+        "start_step": 4,
+        "span": "Since the tail sum is clearly much less than 1 (it's on the order of $10^{-98}$ or smaller), it does not affect the integer part."
+      }
+    ]
+  },
+  {
+    "num_steps": 8,
+    "errors": [
+      {
+        "type": "E6",
+        "start_step": 3,
+        "span": "$BE = \\frac{64 x^2}{289 \\cdot 200} = \\frac{32 x^2}{17 \\cdot 289}$"
+      }
+    ]
+  },
+  {
+    "num_steps": 5,
+    "errors": [
+      {
+        "type": "E5",
+        "start_step": 4,
+        "span": "Thus, the condition \"exactly seven different possible values\" implies that exactly one of the sums is zero"
+      },
+      {
+        "type": "E6",
+        "start_step": 5,
+        "span": "r_1^2 + r_2^2 + r_3^2 - 2r_1 r_2 - 2r_1 r_3 + 2r_2 r_3 = 0?"
+      },
+      {
+        "type": "E2",
+        "start_step": 5,
+        "span": "$(A-B)^2 = C \\implies A+B-2\\sqrt{AB} = C$"
+      }
+    ]
+  },
+  {
+    "num_steps": 2,
+    "errors": [
+      {
+        "type": "E5",
+        "start_step": 2,
+        "span": "Now we need to determine lengths of remaining edges $BD$ and check the other two faces."
+      },
+      {
+        "type": "E4",
+        "start_step": 2,
+        "span": "Known: $AB=10$, $CD=1"
+      }
+    ]
+  },
+  {
+    "num_steps": 4,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 3,
+        "span": "Total sets $T = 2 \\times 2 = 4$."
+      },
+      {
+        "type": "E2",
+        "start_step": 3,
+        "span": "Thus, for a contiguous block of integers present in $S$, there is exactly **one** way to assign partners that satisfy the disjointness constraint relative to $S$."
+      },
+      {
+        "type": "E5",
+        "start_step": 4,
+        "span": "Case"
+      }
+    ]
+  },
+  {
+    "num_steps": 6,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 5,
+        "span": "every time we do a valid subtraction ($O-E$), the result is still positive"
+      },
+      {
+        "type": "E5",
+        "start_step": 6,
+        "span": "We need to form $R_2$ from $a_1, a_2."
+      }
+    ]
+  },
+  {
+    "num_steps": 4,
+    "errors": [
+      {
+        "type": "E6",
+        "start_step": 4,
+        "span": "Max value is when all are 2 ($8^7$ huge), min when mixed."
+      },
+      {
+        "type": "E5",
+        "start_step": 4,
+        "span": "We need to check Condition 2 for these 21 tuples. Are they all valid? Or only some?"
+      }
+    ]
+  }
+]

@@ -1,0 +1,303 @@
+{
+  "2018-I-01": [
+    {
+      "num_steps": 5,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 3,
+          "span": "Each distinct value of $u$ produces a distinct pair $(u, v)$, which in turn produces a distinct product $b = uv$."
+        }
+      ]
+    }
+  ],
+  "2018-I-02": [
+    {
+      "num_steps": 7,
+      "errors": [
+        {
+          "type": "E1",
+          "start_step": 1,
+          "span": "Since they appear as digits in bases 14, 15, and 6, they must satisfy $0 \\le a, b, c < 6$ (since the smallest base is 6)."
+        }
+      ]
+    }
+  ],
+  "2018-I-03": [
+    {
+      "num_steps": 44,
+      "errors": []
+    }
+  ],
+  "2018-I-04": [
+    {
+      "num_steps": 6,
+      "errors": []
+    }
+  ],
+  "2018-I-05": [
+    {
+      "num_steps": 5,
+      "errors": []
+    }
+  ],
+  "2018-I-06": [
+    {
+      "num_steps": 41,
+      "errors": []
+    }
+  ],
+  "2018-I-07": [
+    {
+      "num_steps": 20,
+      "errors": [
+        {
+          "type": "E6",
+          "start_step": 4,
+          "span": "d(4,2)=2"
+        },
+        {
+          "type": "E2",
+          "start_step": 4,
+          "span": "Possible values of $\\sqrt{4+y_i^2}$: $\\sqrt{5}, \\sqrt{7}, \\sqrt{8}$."
+        }
+      ]
+    }
+  ],
+  "2018-I-08": [
+    {
+      "num_steps": 8,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 5,
+          "span": "The distance from the center to $AB$ and $DE$ is at least $h_1/2 = 4.5\\sqrt{3} > 3.5\\sqrt{3}$ (radius)."
+        }
+      ]
+    }
+  ],
+  "2018-I-09": [
+    {
+      "num_steps": 2,
+      "errors": [
+        {
+          "type": "E1",
+          "start_step": 1,
+          "span": "The pairs summing to 16 are: $(1, 15), (2, 14), (3, 13), (4, 12), (5, 11), (6, 10)$."
+        },
+        {
+          "type": "E2",
+          "start_step": 2,
+          "span": "So only the case with 2 A-pairs and 1 B-pair exists."
+        },
+        {
+          "type": "E5",
+          "start_step": 2,
+          "span": "It seems for all triplets, no $x$ creates a disjoint pair."
+        }
+      ]
+    }
+  ],
+  "2018-I-10": [
+    {
+      "num_steps": 12,
+      "errors": [
+        {
+          "type": "E6",
+          "start_step": 3,
+          "span": "$\\binom{14}{9} = \\binom{14}{5} = 4004$."
+        }
+      ]
+    }
+  ],
+  "2018-I-11": [
+    {
+      "num_steps": 7,
+      "errors": []
+    }
+  ],
+  "2018-I-12": [
+    {
+      "num_steps": 8,
+      "errors": []
+    }
+  ],
+  "2018-I-13": [
+    {
+      "num_steps": 4,
+      "errors": [
+        {
+          "type": "E5",
+          "start_step": 3,
+          "span": "The function likely has a minimum at the altitude due to the symmetry in the product of ratios."
+        }
+      ]
+    }
+  ],
+  "2018-I-14": [
+    {
+      "num_steps": 5,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 3,
+          "span": "Due to the symmetry of the heptagon with respect to the axis passing through $S$ (0) and $E$ (4), the vertices are symmetric pairs:"
+        }
+      ]
+    }
+  ],
+  "2018-I-15": [
+    {
+      "num_steps": 90,
+      "errors": []
+    }
+  ],
+  "2018-II-01": [
+    {
+      "num_steps": 8,
+      "errors": []
+    }
+  ],
+  "2018-II-02": [
+    {
+      "num_steps": 5,
+      "errors": [
+        {
+          "type": "E6",
+          "start_step": 3,
+          "span": "the sequence will repeat with a period of $12 - 0 = 12$"
+        }
+      ]
+    }
+  ],
+  "2018-II-03": [
+    {
+      "num_steps": 10,
+      "errors": []
+    }
+  ],
+  "2018-II-04": [
+    {
+      "num_steps": 15,
+      "errors": [
+        {
+          "type": "E6",
+          "start_step": 3,
+          "span": "$\frac{\\sqrt{2}/2 - 3\\sqrt{2}/2}{-3\\sqrt{2}/2 - \\sqrt{2}/2} = \frac{-\\sqrt{2}}{-2\\sqrt{2}} = 0.5$?"
+        }
+      ]
+    }
+  ],
+  "2018-II-05": [
+    {
+      "num_steps": 7,
+      "errors": []
+    }
+  ],
+  "2018-II-06": [
+    {
+      "num_steps": 15,
+      "errors": []
+    }
+  ],
+  "2018-II-07": [
+    {
+      "num_steps": 5,
+      "errors": []
+    }
+  ],
+  "2018-II-08": [
+    {
+      "num_steps": 17,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 1,
+          "span": "The number of distinct sequences of jumps to reach $(4,4)$ is the product of the number of ways to reach $x=4$ from $x=0$ and the number of ways to reach $y=4$ from $y=0$."
+        }
+      ]
+    }
+  ],
+  "2018-II-09": [
+    {
+      "num_steps": 5,
+      "errors": [
+        {
+          "type": "E1",
+          "start_step": 2,
+          "span": "7. $\\triangle JGA$ (Vertices: $J, G, A$)"
+        }
+      ]
+    }
+  ],
+  "2018-II-10": [
+    {
+      "num_steps": 3,
+      "errors": []
+    }
+  ],
+  "2018-II-11": [
+    {
+      "num_steps": 101,
+      "errors": []
+    }
+  ],
+  "2018-II-12": [
+    {
+      "num_steps": 7,
+      "errors": [
+        {
+          "type": "E6",
+          "start_step": 1,
+          "span": "$AD^2 = v^2 + y^2 - 2vy \\cos \\theta = 180 - (-40) = 220$"
+        }
+      ]
+    }
+  ],
+  "2018-II-13": [
+    {
+      "num_steps": 6,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 1,
+          "span": "Let $p_k$ be the probability that the total number of rolls is odd given that we are currently in state $k$"
+        }
+      ]
+    }
+  ],
+  "2018-II-14": [
+    {
+      "num_steps": 4,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 3,
+          "span": "The line $AX$ intersects the circle at $Y=X$."
+        },
+        {
+          "type": "E2",
+          "start_step": 3,
+          "span": "So the relation is $AP \\cdot AQ = AB \\cdot AC$."
+        }
+      ]
+    }
+  ],
+  "2018-II-15": [
+    {
+      "num_steps": 4,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 2,
+          "span": "This implies that the sequence must be strictly monotonic."
+        },
+        {
+          "type": "E2",
+          "start_step": 2,
+          "span": "If $k=1$, we have one negative term $n_1$.\nSum = $3 \\times 5 + n_1 = 15 + n_1 = 12 \\implies n_1 = -3$."
+        }
+      ]
+    }
+  ]
+}

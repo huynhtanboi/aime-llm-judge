@@ -1,0 +1,577 @@
+[
+  {
+    "num_steps": 162,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 1,
+        "span": "we have \\(x = yz^2\\)."
+      },
+      {
+        "type": "E2",
+        "start_step": 5,
+        "span": "From the first equation: \\(xz^2 = y\\) (Step 1)"
+      },
+      {
+        "type": "E2",
+        "start_step": 10,
+        "span": "\\[\\log_2(x^4y^3z^2) = \\log_2(x^{4+3}z^2) = \\log_2(x^7z^2)\\]"
+      },
+      {
+        "type": "E5",
+        "start_step": 11,
+        "span": "Since we know that \\(x + y + z = 1\\) and we need to find the value of \\(x^4y^3z^2\\), let's express it in terms of a single variable."
+      }
+    ]
+  },
+  {
+    "num_steps": 23,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 10,
+        "span": "The family \\(\\mathcal{F}\\) consists of segments with unit length, so we can parameterize them as:\n\\[ P = (x_1 + t, 0) \\]\n\\[ Q = (0, y_1 - t) \\]"
+      },
+      {
+        "type": "E2",
+        "start_step": 12,
+        "span": "The only way this can happen is if \\( C \\) lies on a line perpendicular to the line segment connecting \\( A \\) and \\( B \\)."
+      }
+    ]
+  },
+  {
+    "num_steps": 6,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 1,
+        "span": "from a set of 9"
+      },
+      {
+        "type": "E2",
+        "start_step": 2,
+        "span": "The probability \\( P(\\text{no prize}) \\) that none of Jen's numbers match any of the randomly chosen numbers"
+      },
+      {
+        "type": "E2",
+        "start_step": 3,
+        "span": "The number of ways to choose 4 distinct numbers from the 5 remaining numbers (since 2 out of 9 are excluded)"
+      },
+      {
+        "type": "E2",
+        "start_step": 4,
+        "span": "The conditional probability \\( P(\\text{prize} | \\text{grand prize}) \\)"
+      }
+    ]
+  },
+  {
+    "num_steps": 12,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 3,
+        "span": "If \\( n = 1 \\), Bob wins immediately."
+      },
+      {
+        "type": "E2",
+        "start_step": 4,
+        "span": "If \\( n = 2 \\), Alice wins because she can remove 4 tokens and leave 2"
+      },
+      {
+        "type": "E2",
+        "start_step": 8,
+        "span": "Positions ending in 1, 4, or 7 (mod 5) are winning positions"
+      },
+      {
+        "type": "E2",
+        "start_step": 9,
+        "span": "We need to count how many numbers less than or equal to 2024 are winning positions"
+      },
+      {
+        "type": "E4",
+        "start_step": 12,
+        "span": "there are 133 winning positions for Bob in total (each cycle of 5 numbers has 2 winning positions)"
+      }
+    ]
+  },
+  {
+    "num_steps": 10,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 3,
+        "span": "The distance from the incenter of this smaller triangle to any side is equal to half the inradius of the larger triangle."
+      }
+    ]
+  },
+  {
+    "num_steps": 9,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 2,
+        "span": "For \\( x < \\frac{1}{2} \\), \\( |x| - \\frac{1}{2} < 0 \\), so \\( f(x) = -(x - \\frac{1}{2}) = -x + \\frac{1}{2} \\)."
+      },
+      {
+        "type": "E2",
+        "start_step": 7,
+        "span": "This means we need to solve:\n\\[ 4g(f(\\sin(2\\pi x))) = f(\\sin(2\\pi x)) \\]"
+      },
+      {
+        "type": "E5",
+        "start_step": 8,
+        "span": "By analyzing the ranges and behaviors of \\( f(x) \\), \\( g(x) \\), and their compositions, we can determine that there are exactly 4 intersections."
+      }
+    ]
+  },
+  {
+    "num_steps": 7,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 2,
+        "span": "For the blue vertices to end up in red positions, they must be rotated into their original red positions after each possible rotation."
+      },
+      {
+        "type": "E2",
+        "start_step": 5,
+        "span": "Since there are 8 vertices and they must all return to their original colors, the overall probability is:"
+      }
+    ]
+  },
+  {
+    "num_steps": 17,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 2,
+        "span": "a^2b + a^2c + b^2a + b^2c + c^2a + c^2b = ab(a+c) + bc(b+a) + ca(c+b)"
+      },
+      {
+        "type": "E6",
+        "start_step": 5,
+        "span": "10,000 \\cdot 200 - 10,000 = 6,000,000"
+      },
+      {
+        "type": "E2",
+        "start_step": 8,
+        "span": "100b + bc(300 - 2a) = 6,000,000"
+      },
+      {
+        "type": "E6",
+        "start_step": 11,
+        "span": "2^5 \\cdot 3^4 \\cdot 5^3 = 72,000"
+      },
+      {
+        "type": "E5",
+        "start_step": 15,
+        "span": "After checking all possible values, we find that the only solution is indeed:"
+      }
+    ]
+  },
+  {
+    "num_steps": 408,
+    "errors": [
+      {
+        "type": "E5",
+        "start_step": 16,
+        "span": "Next, let's assume \\( x > y \\)."
+      },
+      {
+        "type": "E3",
+        "start_step": 32,
+        "span": "After several attempts, we realize that the problem might have a specific solution where \\( x = y \\) was initially assumed incorrectly."
+      }
+    ]
+  },
+  {
+    "num_steps": 6,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 1,
+        "span": "For each position in a set \\( B \\), we have \\( n \\) choices"
+      }
+    ]
+  },
+  {
+    "num_steps": 11,
+    "errors": [
+      {
+        "type": "E6",
+        "start_step": 2,
+        "span": "\\[ = 300\\cos \\theta - 300\\sin \\theta + 588i\\cos \\theta + 588i^2\\sin \\theta \\]"
+      },
+      {
+        "type": "E6",
+        "start_step": 4,
+        "span": "\\[ = \\frac{(96+144i)(4\\cos \\theta - 4i\\sin \\theta)}{32(\\cos^2 \\theta + \\sin^2 \\theta)} \\]"
+      },
+      {
+        "type": "E6",
+        "start_step": 4,
+        "span": "+ 576i^2\\sin \\theta"
+      },
+      {
+        "type": "E6",
+        "start_step": 4,
+        "span": "\\[ = (19.5\\cos \\theta - 19.5\\sin \\theta) + i(19.5\\cos \\theta - 19.5\\sin \\theta) \\]"
+      },
+      {
+        "type": "E2",
+        "start_step": 8,
+        "span": "\\[ \\cos \\theta - \\sin \\theta = \\sqrt{2}\\left( \\frac{1}{\\sqrt{2}}\\cos \\theta - \\frac{1}{\\sqrt{2}}\\sin \\theta \\right) = \\sqrt{2}(\\cos \\theta - \\sin \\theta) \\]"
+      }
+    ]
+  },
+  {
+    "num_steps": 8,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 4,
+        "span": "a + b + c = 999"
+      }
+    ]
+  },
+  {
+    "num_steps": 7,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 1,
+        "span": "\\[ 4s + \\frac{t}{60} = 240 \\]"
+      },
+      {
+        "type": "E6",
+        "start_step": 4,
+        "span": "\\[ (s-16)(s+6) = 0 \\]"
+      },
+      {
+        "type": "E2",
+        "start_step": 6,
+        "span": "\\[ \\text{Time} = \\frac{\\text{Distance}}{\\text{Speed}} = \\frac{s + 0.5}{s + 1} \\times 60 \\]"
+      },
+      {
+        "type": "E6",
+        "start_step": 6,
+        "span": "\\[ t' = \\frac{16.5}{17} \\times 60 \\]\\n\\[ t' = 4.9412 \\text{ hours} \\]"
+      }
+    ]
+  },
+  {
+    "num_steps": 493,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 3,
+        "span": "Changing the last digit (9) to 1 gives 9989."
+      },
+      {
+        "type": "E3",
+        "start_step": 4,
+        "span": "### Step 4: Try 9985:"
+      },
+      {
+        "type": "E5",
+        "start_step": 493,
+        "span": "### Step 493: Try -0:"
+      }
+    ]
+  },
+  {
+    "num_steps": 5,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 2,
+        "span": "moving from $(0,0)$ to the top-right corner $(7,7)$ on an $8 \\times 8$ grid that change direction exactly four times."
+      },
+      {
+        "type": "E2",
+        "start_step": 1,
+        "span": "This means that after each change in direction, we move one step closer to our goal."
+      }
+    ]
+  },
+  {
+    "num_steps": 196,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 1,
+        "span": "Since neither positive nor negative integers satisfy the condition for \\( p = 2 \\)"
+      },
+      {
+        "type": "E2",
+        "start_step": 30,
+        "span": "which is 119."
+      }
+    ]
+  },
+  {
+    "num_steps": 389,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 3,
+        "span": "We need to find integer solutions for \\(a\\), \\(b\\), and \\(c\\) that satisfy both equations."
+      },
+      {
+        "type": "E5",
+        "start_step": 389,
+        "span": "Let's try:\n\\[ (191"
+      }
+    ]
+  },
+  {
+    "num_steps": 6,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 2,
+        "span": "A rectangle is defined by choosing two pairs of opposite sides from the dodecagon."
+      },
+      {
+        "type": "E6",
+        "start_step": 4,
+        "span": "6 \\times 330 = 1980"
+      }
+    ]
+  },
+  {
+    "num_steps": 18,
+    "errors": [
+      {
+        "type": "E5",
+        "start_step": 17,
+        "span": "After solving the system of equations, we find that:"
+      }
+    ]
+  },
+  {
+    "num_steps": 6,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 1,
+        "span": "Place one chip per cell initially to satisfy the condition that each cell contains exactly one chip."
+      }
+    ]
+  },
+  {
+    "num_steps": 5,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 1,
+        "span": "a and c are integers between 0 and b-1"
+      },
+      {
+        "type": "E2",
+        "start_step": 3,
+        "span": "\\[ b^2 - (b-1)^2 < n < b^2 \\]"
+      },
+      {
+        "type": "E2",
+        "start_step": 4,
+        "span": "For each possible value of \\( a + c = k \\), where \\( k \\) ranges from 0 to \\( b-1 \\), we need to find all pairs \\((a, c)\\) such that:"
+      },
+      {
+        "type": "E5",
+        "start_step": 5,
+        "span": "84, 85, 86,"
+      }
+    ]
+  },
+  {
+    "num_steps": 7,
+    "errors": [
+      {
+        "type": "E5",
+        "start_step": 6,
+        "span": "After careful consideration and geometric analysis, we find that the side length \\( s \\) of the hexagon is 120."
+      }
+    ]
+  },
+  {
+    "num_steps": 18,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 5,
+        "span": "Point B = (-x_1, -y_1) because it is symmetric with respect to the origin"
+      },
+      {
+        "type": "E6",
+        "start_step": 9,
+        "span": "\\sqrt{4(x_1^2 + 2y_1^2)}"
+      },
+      {
+        "type": "E2",
+        "start_step": 11,
+        "span": "Since ABCD is a rhombus, the diagonals are equal in length:"
+      },
+      {
+        "type": "E4",
+        "start_step": 14,
+        "span": "Since A and C are symmetric with respect to the origin"
+      },
+      {
+        "type": "E2",
+        "start_step": 15,
+        "span": "The length of diagonal BD is greater than or equal to the length of diagonal AC because x_1^2 + 2y_1^2 = x_2^2 + 2y_2^2."
+      },
+      {
+        "type": "E2",
+        "start_step": 16,
+        "span": "The greatest real number that is less than BD^2 for all such rhombi is the maximum value of x_1^2 + y_1^2 under the constraint given by the hyperbola equation."
+      },
+      {
+        "type": "E4",
+        "start_step": 18,
+        "span": "ANSWER: 48"
+      }
+    ]
+  },
+  {
+    "num_steps": 9,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 2,
+        "span": "This implies that the median must be an even number because it cannot be 1 or 3 (since they are prime and thus do not appear in the list)."
+      },
+      {
+        "type": "E2",
+        "start_step": 3,
+        "span": "The median being an even number means that there are at least two numbers equal to this value."
+      },
+      {
+        "type": "E4",
+        "start_step": 4,
+        "span": "We need a list where 9 appears more than once and does not appear in the list itself."
+      },
+      {
+        "type": "E2",
+        "start_step": 6,
+        "span": "The only way to get a sum of 3 using positive integers and ensuring no duplicates (since 8 is not in the list) is to have one 1"
+      },
+      {
+        "type": "E6",
+        "start_step": 7,
+        "span": "9^2 + 9^2 + 9^2 + 1^2 + 8^2 = 36 + 36 + 36 + 1 + 64 = 157"
+      }
+    ]
+  },
+  {
+    "num_steps": 20,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 9,
+        "span": "Each resident owns exactly two things, so there are 437 residents in total who own exactly two of these things."
+      },
+      {
+        "type": "E2",
+        "start_step": 16,
+        "span": "195 + 367 + 562 - 4 \\cdot x = 900"
+      }
+    ]
+  },
+  {
+    "num_steps": 7,
+    "errors": [
+      {
+        "type": "E6",
+        "start_step": 2,
+        "span": "K = \\sqrt{12 \\cdot 7 \\cdot 3 \\cdot 2} = \\sqrt{456} = 6\\sqrt{13}"
+      },
+      {
+        "type": "E2",
+        "start_step": 3,
+        "span": "DP^2 = DA \\cdot DB"
+      },
+      {
+        "type": "E2",
+        "start_step": 4,
+        "span": "DP = \\sqrt{AB^2 + AC^2 - BC^2}"
+      },
+      {
+        "type": "E2",
+        "start_step": 5,
+        "span": "Since \\( D \\) is on the circle"
+      },
+      {
+        "type": "E2",
+        "start_step": 5,
+        "span": "AP = \\frac{AB \\cdot AC}{BC}"
+      }
+    ]
+  },
+  {
+    "num_steps": 12,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 3,
+        "span": "\\[ d_i = \\sqrt{11^2 - 3^2} = \\sqrt{121 - 9} = \\sqrt{112} = 4\\sqrt{7}. \\]"
+      },
+      {
+        "type": "E2",
+        "start_step": 4,
+        "span": "\\[ r_i = d_i - 6 = 4\\sqrt{7} - 6. \\]"
+      },
+      {
+        "type": "E2",
+        "start_step": 11,
+        "span": "\\[ r_i - r_o = \\frac{1}{4\\sqrt{7} + \\sqrt{130}} - 17. \\]"
+      },
+      {
+        "type": "E4",
+        "start_step": 12,
+        "span": "The correct answer is:\n\\[ \\boxed{25}. \\]"
+      }
+    ]
+  },
+  {
+    "num_steps": 13,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 1,
+        "span": "This implies that \\( I \\) is the centroid of the tetrahedron's circumsphere."
+      }
+    ]
+  },
+  {
+    "num_steps": 9,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 5,
+        "span": "Since \\(D, E, C, F\\) are collinear and lie on a circle"
+      },
+      {
+        "type": "E2",
+        "start_step": 6,
+        "span": "This implies that the diagonals of the rectangle intersect at right angles."
+      },
+      {
+        "type": "E5",
+        "start_step": 8,
+        "span": "After analyzing all the given information and applying geometric properties, we find that the length of \\(CE\\) is:"
+      }
+    ]
+  },
+  {
+    "num_steps": 1,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 1,
+        "span": "This polynomial can be written as:\n\\[ P(x) = x^{13} - 1. \\]"
+      }
+    ]
+  }
+]

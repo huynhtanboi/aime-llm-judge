@@ -1,0 +1,352 @@
+[
+  {
+    "num_steps": 9,
+    "errors": []
+  },
+  {
+    "num_steps": 8,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 4,
+        "span": "Since these are collinear on line $AC$, and order is $A, F, G, C$:"
+      },
+      {
+        "type": "E5",
+        "start_step": 8,
+        "span": "Triangle ABC has vertices $("
+      }
+    ]
+  },
+  {
+    "num_steps": 6,
+    "errors": [
+      {
+        "type": "E6",
+        "start_step": 4,
+        "span": "Calculation: $9 \\times 8 \\times 7 / (2 \\times 1) = 504$."
+      }
+    ]
+  },
+  {
+    "num_steps": 7,
+    "errors": []
+  },
+  {
+    "num_steps": 7,
+    "errors": [
+      {
+        "type": "E5",
+        "start_step": 7,
+        "span": "Since the condition for divisibility by 11 is satisfied if and"
+      }
+    ]
+  },
+  {
+    "num_steps": 8,
+    "errors": []
+  },
+  {
+    "num_steps": 23,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 4,
+        "span": "Since all letters distinct, strictly greater is impossible if we assume unique max."
+      },
+      {
+        "type": "E5",
+        "start_step": 23,
+        "span": "We need ALL mins to be $\\le 7$ EXCEPT possibly some that equal 7? No, we specifically want the MAXIMUM min to be exactly 7 (so G is in it) OR max min <"
+      }
+    ]
+  },
+  {
+    "num_steps": 11,
+    "errors": []
+  },
+  {
+    "num_steps": 10,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 5,
+        "span": "$y' = -x(-\\frac{\\sqrt{3}}{2}) + y(\\frac{1}{2}) = \\frac{\\sqrt{3}}{2}x + \\frac{1}{2}y$"
+      },
+      {
+        "type": "E5",
+        "start_step": 10,
+        "span": "If $u=-4/3$:"
+      }
+    ]
+  },
+  {
+    "num_steps": 2,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 1,
+        "span": "each row contains distinct numbers (which is automatically satisfied if we just permute rows)"
+      },
+      {
+        "type": "E5",
+        "start_step": 2,
+        "span": "No, we need to ensure that for any row $r$, the values in Block"
+      }
+    ]
+  },
+  {
+    "num_steps": 2,
+    "errors": [
+      {
+        "type": "E6",
+        "start_step": 2,
+        "span": "The intervals are $[0, 4), [4, 8), [8, 12), \\dots$ and also the partial one starting at -1? No, we start from 0."
+      },
+      {
+        "type": "E5",
+        "start_step": 2,
+        "span": "Branch 1: Local coordinate in $[0, 1)$. (Since input must be"
+      }
+    ]
+  },
+  {
+    "num_steps": 3,
+    "errors": [
+      {
+        "type": "E5",
+        "start_step": 3,
+        "span": "Let's test a point to see which side of each line we are on."
+      }
+    ]
+  },
+  {
+    "num_steps": 7,
+    "errors": [
+      {
+        "type": "E5",
+        "start_step": 7,
+        "span": "Case 1: the two lines connect the same pair of quadrants (e.g."
+      }
+    ]
+  },
+  {
+    "num_steps": 10,
+    "errors": [
+      {
+        "type": "E6",
+        "start_step": 4,
+        "span": "$AD^2 = 676 + 169 - 676 = 169$"
+      },
+      {
+        "type": "E5",
+        "start_step": 10,
+        "span": "Let's assume the minimum occurs at vertex $A$."
+      },
+      {
+        "type": "E6",
+        "start_step": 10,
+        "span": "$\\sin\\beta = 14 * (\\sqrt{3}/2) / (7\\sqrt{3}) = 7/2$? Impossible."
+      }
+    ]
+  },
+  {
+    "num_steps": 3,
+    "errors": [
+      {
+        "type": "E5",
+        "start_step": 3,
+        "span": "Divide by $3^{3x}$: $(u^3+v^3) + 3^{3(z-x)} w^3 \\equiv 0 \\pmod{3^{7-3x}}$."
+      }
+    ]
+  },
+  {
+    "num_steps": 10,
+    "errors": []
+  },
+  {
+    "num_steps": 7,
+    "errors": [
+      {
+        "type": "E6",
+        "start_step": 6,
+        "span": "product term $3(14)(12^2)$"
+      }
+    ]
+  },
+  {
+    "num_steps": 6,
+    "errors": [
+      {
+        "type": "E5",
+        "start_step": 6,
+        "span": "Let's list the 16 cases or group them."
+      }
+    ]
+  },
+  {
+    "num_steps": 2,
+    "errors": [
+      {
+        "type": "E6",
+        "start_step": 1,
+        "span": "So $T_k = \\frac{(k-1)(k+1)}{(k-2)(k+2)} \\cdot \\log_{\\ln k} (\\text{wait, } \\frac{\\ln(k+1)}{\\ln k})$."
+      }
+    ]
+  },
+  {
+    "num_steps": 2,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 2,
+        "span": "which means it is similar to $\\triangle CBA$ (note the order)"
+      },
+      {
+        "type": "E2",
+        "start_step": 2,
+        "span": "Actually, $\\triangle DEF \\cong \\triangle FBD \\cong \\triangle DCE \\cong \\triangle EAF$"
+      },
+      {
+        "type": "E2",
+        "start_step": 2,
+        "span": "Angle at $F$ (on side $AB$): Since $FE \\parallel BC$, angle $\\angle EFB = \\angle ACB = 36^\\circ$."
+      },
+      {
+        "type": "E5",
+        "start_step": 2,
+        "span": "We need arc measures on the Nine-Point Circle."
+      }
+    ]
+  },
+  {
+    "num_steps": 3,
+    "errors": [
+      {
+        "type": "E5",
+        "start_step": 3,
+        "span": "If rectangle spans from $-v$ to $+v$, then dist(D, Top) = $|12 - v|$ and dist(D, Bottom) = $|1"
+      }
+    ]
+  },
+  {
+    "num_steps": 6,
+    "errors": [
+      {
+        "type": "E5",
+        "start_step": 6,
+        "span": "Step 6: Calculate the probability and simplify the fraction."
+      }
+    ]
+  },
+  {
+    "num_steps": 3,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 2,
+        "span": "adding a 25-cent coin always increases both the greedy sum and the optimal sum by exactly 1"
+      },
+      {
+        "type": "E5",
+        "start_step": 2,
+        "span": "The most likely competitor is using $k-1$ or even $k-2$ 25-coins?"
+      },
+      {
+        "type": "E5",
+        "start_step": 3,
+        "span": "Let's iterate:"
+      }
+    ]
+  },
+  {
+    "num_steps": 6,
+    "errors": [
+      {
+        "type": "E6",
+        "start_step": 2,
+        "span": "so $-1 \\leq k \\leq 7$"
+      }
+    ]
+  },
+  {
+    "num_steps": 4,
+    "errors": [
+      {
+        "type": "E5",
+        "start_step": 4,
+        "span": "Max density is roughly"
+      }
+    ]
+  },
+  {
+    "num_steps": 3,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 3,
+        "span": "there exists a specific integer $d$ ($1 \\le d < 12$"
+      },
+      {
+        "type": "E2",
+        "start_step": 3,
+        "span": "there are exactly 12 edges available in the entire graph of that specific length, and we need to select 12 segments (a perfect matching), then we MUST select ALL available edges."
+      },
+      {
+        "type": "E5",
+        "start_step": 3,
+        "span": "Let's re-calculate for $n=24$."
+      }
+    ]
+  },
+  {
+    "num_steps": 4,
+    "errors": [
+      {
+        "type": "E5",
+        "start_step": 4,
+        "span": "How many such chords are there?"
+      }
+    ]
+  },
+  {
+    "num_steps": 3,
+    "errors": [
+      {
+        "type": "E5",
+        "start_step": 3,
+        "span": "Let's assume the standard behavior for such recurrences in competitions: they often cycle with period 3 or 5."
+      },
+      {
+        "type": "E2",
+        "start_step": 3,
+        "span": "which is effectively $x_1$ (since $x_6=x_1$)."
+      }
+    ]
+  },
+  {
+    "num_steps": 6,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 6,
+        "span": "Area($BKLC$) = Area($\\triangle ABC$) - Area($\\triangle ABK$) - Area($\\triangle ACL$)."
+      },
+      {
+        "type": "E5",
+        "start_step": 6,
+        "span": "Ray AK is at angle"
+      }
+    ]
+  },
+  {
+    "num_steps": 5,
+    "errors": [
+      {
+        "type": "E5",
+        "start_step": 5,
+        "span": "Step 5: Use symmetry or specific relations between roots and $k$."
+      }
+    ]
+  }
+]

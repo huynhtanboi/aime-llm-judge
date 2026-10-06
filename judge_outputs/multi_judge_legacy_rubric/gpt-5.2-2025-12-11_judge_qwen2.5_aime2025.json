@@ -1,0 +1,92 @@
+[
+  {
+    "problem_idx": "1",
+    "final_answer_correct": true,
+    "num_steps": 9,
+    "errors": []
+  },
+  {
+    "problem_idx": "2",
+    "final_answer_correct": false,
+    "num_steps": 6,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 2,
+        "span": "- Point \\(A\\) is at \\((100, 100)\\).\n- Point \\(D\\) is at \\((95, 80)\\).\n- Point \\(E\\) is at \\((87.5, 50)\\).\n- Point \\(F\\) is at \\((130, 80)\\).\n- Point \\(G\\) is at \\((175, 50)\\)."
+      }
+    ]
+  },
+  {
+    "problem_idx": "3",
+    "final_answer_correct": false,
+    "num_steps": 5,
+    "errors": [
+      {
+        "type": "E6",
+        "start_step": 2,
+        "span": "- If \\(s = 1\\):\n  - \\(v + c = 8\\)\n  - Possible pairs \\((v, c)\\) are \\((2, 6), (3, 5)\\)"
+      }
+    ]
+  },
+  {
+    "problem_idx": "4",
+    "final_answer_correct": false,
+    "num_steps": 5,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 4,
+        "span": "Thus, there are \\( 66 - (-66) + 1 = 133 \\) integer solutions for \\( x \\), and each corresponds to a unique \\( y \\)."
+      }
+    ]
+  },
+  {
+    "problem_idx": "5",
+    "final_answer_correct": false,
+    "num_steps": 7,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 3,
+        "span": "For each case, we need to count the number of valid pairs \\((S_1, S_2)\\) and then multiply by \\(P(7, 4) = 840\\) (the number of ways to arrange 4 digits in odd positions)."
+      }
+    ]
+  },
+  {
+    "problem_idx": "6",
+    "final_answer_correct": false,
+    "num_steps": 15,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 6,
+        "span": "The height of these triangles is equal to the radius of the inscribed circle, which is 3."
+      }
+    ]
+  },
+  {
+    "problem_idx": "7",
+    "final_answer_correct": false,
+    "num_steps": 10,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 7,
+        "span": "The probability that any given arrangement of these pairs results in no word being lexicographically greater than 'GX' is \\(\\frac{5!}{11 \\choose 2} = \\frac{60}{55} = \\frac{12}{11}\\)"
+      }
+    ]
+  },
+  {
+    "problem_idx": "8",
+    "final_answer_correct": false,
+    "num_steps": 10,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 2,
+        "span": "\\[\n|(x + yi) - (4 + ki)| = |(x + yi) - (0 + 3i)|\n\\]"
+      }
+    ]
+  }
+]

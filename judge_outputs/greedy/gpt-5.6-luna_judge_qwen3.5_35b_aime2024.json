@@ -1,0 +1,263 @@
+[
+  {
+    "num_steps": 11,
+    "errors": []
+  },
+  {
+    "num_steps": 3,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 3,
+        "span": "Points strictly inside the astroid ($x^{2/3}+y^{2/3} < 1$) are covered by infinitely many segments."
+      },
+      {
+        "type": "E5",
+        "start_step": 3,
+        "span": "So, if $\\overline{AB}$ intersects the astroid tangentially at $C$, and stays otherwise inside or outside?"
+      }
+    ]
+  },
+  {
+    "num_steps": 8,
+    "errors": []
+  },
+  {
+    "num_steps": 5,
+    "errors": [
+      {
+        "type": "E5",
+        "start_step": 3,
+        "span": "The pattern holds: The losing positions are exactly those where $n \\pmod 5 \\in \\{0, 2\\}$."
+      }
+    ]
+  },
+  {
+    "num_steps": 41,
+    "errors": [
+      {
+        "type": "E3",
+        "start_step": 30,
+        "span": "Let's try this specific configuration which fits AIME problems well:"
+      },
+      {
+        "type": "E5",
+        "start_step": 41,
+        "span": "But then Circle 2 must touch Circle 1 and Side $L_2$."
+      }
+    ]
+  },
+  {
+    "num_steps": 2,
+    "errors": [
+      {
+        "type": "E5",
+        "start_step": 2,
+        "span": "What about cases where neither argument to $f$ is an integer or half-integer?"
+      }
+    ]
+  },
+  {
+    "num_steps": 100,
+    "errors": [
+      {
+        "type": "E5",
+        "start_step": 100,
+        "span": "We need to count how many subsets of size 4 have a \"complete\" difference set (covering all non-zero shifts)."
+      }
+    ]
+  },
+  {
+    "num_steps": 67,
+    "errors": [
+      {
+        "type": "E4",
+        "start_step": 67,
+        "span": "Answer should be an integer between 0 and 999. 60"
+      }
+    ]
+  },
+  {
+    "num_steps": 5,
+    "errors": [
+      {
+        "type": "E6",
+        "start_step": 5,
+        "span": "Then $\\ln 25 = u + (10/u)x$?"
+      }
+    ]
+  },
+  {
+    "num_steps": 7,
+    "errors": []
+  },
+  {
+    "num_steps": 3,
+    "errors": []
+  },
+  {
+    "num_steps": 8,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 4,
+        "span": "If no carry out ($c_2=0$), then $10 S_1 + S_2 + c_1/10 = 9.99$?"
+      }
+    ]
+  },
+  {
+    "num_steps": 11,
+    "errors": []
+  },
+  {
+    "num_steps": 48,
+    "errors": [
+      {
+        "type": "E5",
+        "start_step": 48,
+        "span": "$R(1) = 2\\cdot6 + 5\\cdot2 + 6\\cdot3 + 0\\cdot1 = 12+10+18=40 \\equiv"
+      }
+    ]
+  },
+  {
+    "num_steps": 6,
+    "errors": []
+  },
+  {
+    "num_steps": 4,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 2,
+        "span": "$n^4+1$ is odd for any integer $n$"
+      },
+      {
+        "type": "E2",
+        "start_step": 4,
+        "span": "No, degree 4 polynomial has at most 4 roots mod"
+      }
+    ]
+  },
+  {
+    "num_steps": 83,
+    "errors": []
+  },
+  {
+    "num_steps": 4,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 4,
+        "span": "The set of all possible directions for chords in a regular 12-gon consists of lines with angles $0^\\circ, 30^\\circ, 60^\\circ, \\dots$."
+      },
+      {
+        "type": "E5",
+        "start_step": 4,
+        "span": "Let's check perpendicularity. Two chords are perpendicular if their normals differ by $90^\\circ$ (or odd multiple of $\\pi"
+      }
+    ]
+  },
+  {
+    "num_steps": 10,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 10,
+        "span": "So $abc/s = 4r R$? No."
+      },
+      {
+        "type": "E5",
+        "start_step": 10,
+        "span": "$\\frac{abc}{s}"
+      }
+    ]
+  },
+  {
+    "num_steps": 2,
+    "errors": [
+      {
+        "type": "E5",
+        "start_step": 2,
+        "span": "Let's assume a symmetric structure where:"
+      }
+    ]
+  },
+  {
+    "num_steps": 71,
+    "errors": [
+      {
+        "type": "E5",
+        "start_step": 71,
+        "span": "Let's calculate the smallest few for $m=210$:"
+      }
+    ]
+  },
+  {
+    "num_steps": 2,
+    "errors": [
+      {
+        "type": "E5",
+        "start_step": 2,
+        "span": "From $\\triangle PBC$:"
+      }
+    ]
+  },
+  {
+    "num_steps": 6,
+    "errors": []
+  },
+  {
+    "num_steps": 4,
+    "errors": [
+      {
+        "type": "E5",
+        "start_step": 4,
+        "span": "Let's test small even values of $n$."
+      }
+    ]
+  },
+  {
+    "num_steps": 12,
+    "errors": []
+  },
+  {
+    "judge_error": "judge call failed after 3 attempts: no verdict JSON object found in judge response"
+  },
+  {
+    "num_steps": 2,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 2,
+        "span": "By symmetry, this is on the outer equator ($z=h$, $\\rho=9$)."
+      },
+      {
+        "type": "E3",
+        "start_step": 2,
+        "span": "The closest points will be on the inner ring ($\\rho=3$) at $z=h$."
+      }
+    ]
+  },
+  {
+    "judge_error": "judge call failed after 3 attempts: no verdict JSON object found in judge response"
+  },
+  {
+    "num_steps": 4,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 3,
+        "span": "Let's assume both heights are positive (same side)."
+      },
+      {
+        "type": "E5",
+        "start_step": 4,
+        "span": "Let's assume a standard configuration where rectangles are placed side-by-side or overlapping in a specific way such that D, E, C, F appear in some order"
+      }
+    ]
+  },
+  {
+    "num_steps": 8,
+    "errors": []
+  }
+]

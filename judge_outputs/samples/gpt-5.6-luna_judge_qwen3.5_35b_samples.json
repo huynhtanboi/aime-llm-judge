@@ -1,0 +1,4850 @@
+{
+  "2025-I-01": [
+    {
+      "num_steps": 9,
+      "errors": []
+    },
+    {
+      "num_steps": 8,
+      "errors": []
+    },
+    {
+      "num_steps": 7,
+      "errors": []
+    },
+    {
+      "num_steps": 10,
+      "errors": []
+    },
+    {
+      "num_steps": 10,
+      "errors": []
+    },
+    {
+      "num_steps": 9,
+      "errors": []
+    },
+    {
+      "num_steps": 8,
+      "errors": []
+    },
+    {
+      "num_steps": 10,
+      "errors": []
+    }
+  ],
+  "2025-I-02": [
+    {
+      "num_steps": 10,
+      "errors": [
+        {
+          "type": "E6",
+          "start_step": 5,
+          "span": "$S = \\frac{1}{2} bc (\\mathbf{u} \\times \\mathbf{v})$"
+        }
+      ]
+    },
+    {
+      "num_steps": 10,
+      "errors": []
+    },
+    {
+      "num_steps": 8,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 2,
+          "span": "Since the ratios are consistent, the quadrilateral $DEGF$ is a trapezoid with parallel bases $DE$ and $FG$."
+        }
+      ]
+    },
+    {
+      "num_steps": 9,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 2,
+          "span": "Since the ratios of corresponding sides are equal, $DE \\parallel FG$."
+        },
+        {
+          "type": "E6",
+          "start_step": 5,
+          "span": "$-\frac{5}{7} (-2K) = \frac{10}{7} (2K)$"
+        }
+      ]
+    },
+    {
+      "num_steps": 5,
+      "errors": [
+        {
+          "type": "E1",
+          "start_step": 2,
+          "span": "Since $\\angle DAE = \\angle FAG$ (common angle at $A$), and the including sides are proportional ($AD/AF = AE/AG = 4/13$), we have $\\triangle ADE \\sim \\triangle AFG$."
+        },
+        {
+          "type": "E6",
+          "start_step": 5,
+          "span": "Numerator: $49 \\times 13 \\times 512 = 326,528$."
+        }
+      ]
+    },
+    {
+      "num_steps": 12,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 2,
+          "span": "Since the ratios are equal, $\\triangle ADE \\sim \\triangle AFG$"
+        }
+      ]
+    },
+    {
+      "num_steps": 10,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 2,
+          "span": "The area of $\\triangle ADE = \\frac{1}{2} AD \\cdot AE \\sin \\alpha$"
+        },
+        {
+          "type": "E2",
+          "start_step": 4,
+          "span": "Area($AFNBCEM$) = Area($\\triangle AFN$) + Area($\\triangle ANB$) + Area($\\triangle NBC$) + Area($\\triangle BCE$) + Area($\\triangle CEM$) + Area($\\triangle EMA$)."
+        }
+      ]
+    },
+    {
+      "num_steps": 6,
+      "errors": [
+        {
+          "type": "E5",
+          "start_step": 5,
+          "span": "The polygon seems to be simple (non-self-intersecting) if we trace the boundary carefully, or at least the signed area calculation is robust for the \"algebraic\" area."
+        }
+      ]
+    }
+  ],
+  "2025-I-03": [
+    {
+      "num_steps": 6,
+      "errors": []
+    },
+    {
+      "num_steps": 6,
+      "errors": []
+    },
+    {
+      "num_steps": 7,
+      "errors": []
+    },
+    {
+      "num_steps": 7,
+      "errors": []
+    },
+    {
+      "num_steps": 7,
+      "errors": []
+    },
+    {
+      "num_steps": 7,
+      "errors": []
+    },
+    {
+      "num_steps": 6,
+      "errors": []
+    },
+    {
+      "num_steps": 7,
+      "errors": []
+    }
+  ],
+  "2025-I-04": [
+    {
+      "num_steps": 8,
+      "errors": []
+    },
+    {
+      "num_steps": 9,
+      "errors": []
+    },
+    {
+      "num_steps": 7,
+      "errors": []
+    },
+    {
+      "num_steps": 9,
+      "errors": [
+        {
+          "type": "E6",
+          "start_step": 5,
+          "span": "The more restrictive condition is on $x$, so $k$ must be an integer such that $-33.33 \\le k \\le 33.33$."
+        }
+      ]
+    },
+    {
+      "num_steps": 8,
+      "errors": []
+    },
+    {
+      "num_steps": 7,
+      "errors": []
+    },
+    {
+      "num_steps": 8,
+      "errors": []
+    },
+    {
+      "num_steps": 7,
+      "errors": []
+    }
+  ],
+  "2025-I-05": [
+    {
+      "num_steps": 9,
+      "errors": []
+    },
+    {
+      "num_steps": 9,
+      "errors": []
+    },
+    {
+      "num_steps": 8,
+      "errors": []
+    },
+    {
+      "num_steps": 11,
+      "errors": []
+    },
+    {
+      "num_steps": 10,
+      "errors": []
+    },
+    {
+      "num_steps": 5,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 4,
+          "span": "The number of ways to choose the set $E$ is the coefficient of $x^{18}$ in the expansion of $\\prod_{k=1}^8 (1+x^k)$ divided by appropriate factors"
+        }
+      ]
+    },
+    {
+      "num_steps": 7,
+      "errors": []
+    },
+    {
+      "num_steps": 9,
+      "errors": []
+    }
+  ],
+  "2025-I-06": [
+    {
+      "num_steps": 8,
+      "errors": []
+    },
+    {
+      "num_steps": 8,
+      "errors": [
+        {
+          "type": "E6",
+          "start_step": 8,
+          "span": "x^2 - 24x + \\frac{576-432}{2} = 0"
+        }
+      ]
+    },
+    {
+      "num_steps": 5,
+      "errors": []
+    },
+    {
+      "num_steps": 6,
+      "errors": []
+    },
+    {
+      "num_steps": 7,
+      "errors": []
+    },
+    {
+      "num_steps": 8,
+      "errors": []
+    },
+    {
+      "num_steps": 6,
+      "errors": []
+    },
+    {
+      "num_steps": 8,
+      "errors": []
+    }
+  ],
+  "2025-I-07": [
+    {
+      "num_steps": 5,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 5,
+          "span": "Thus, the condition \"last word contains $G$\" is equivalent to \"$\\max(U) \\le G$\"."
+        },
+        {
+          "type": "E5",
+          "start_step": 5,
+          "span": "Let's re-calculate $N=6, k=4 (m=3)$."
+        }
+      ]
+    },
+    {
+      "num_steps": 3,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 3,
+          "span": "which is not the last word (since a < k)."
+        },
+        {
+          "type": "E5",
+          "start_step": 3,
+          "span": "The remaining letter is $r \\in \\{A, \\dots, G\\}$"
+        }
+      ]
+    },
+    {
+      "num_steps": 3,
+      "errors": [
+        {
+          "type": "E6",
+          "start_step": 3,
+          "span": "So there are $\\binom{7}{6} = 7$ possible sets for $A$."
+        },
+        {
+          "type": "E5",
+          "start_step": 3,
+          "span": "For a fixed set $"
+        }
+      ]
+    },
+    {
+      "num_steps": 3,
+      "errors": [
+        {
+          "type": "E6",
+          "start_step": 3,
+          "span": "Used: $G$, partner $Y$ (large), 4 other large, 4 small. Total 10 letters.\nRemaining: 1 small letter."
+        }
+      ]
+    },
+    {
+      "num_steps": 5,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 5,
+          "span": "This implies that for each $Y \\in \\{H, I, J, K, L\\}$, it must be paired with a letter $Z$ such that $Z > Y$."
+        },
+        {
+          "type": "E5",
+          "start_step": 5,
+          "span": "The last word contains $G$ if and only if:"
+        }
+      ]
+    },
+    {
+      "num_steps": 12,
+      "errors": []
+    },
+    {
+      "num_steps": 4,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 4,
+          "span": "$m^*=4$: $\\{4, 5\\}$ (yes), $\\{4, 6\\}$ (no). 3 cases."
+        },
+        {
+          "type": "E5",
+          "start_step": 4,
+          "span": "Total for 4: $3 + 2 = 5$."
+        }
+      ]
+    },
+    {
+      "num_steps": 4,
+      "errors": []
+    }
+  ],
+  "2025-I-08": [
+    {
+      "num_steps": 16,
+      "errors": [
+        {
+          "type": "E6",
+          "start_step": 2,
+          "span": "$(x-(k+4))^2 + y^2 = x^2 + (y-k-3)^2$"
+        }
+      ]
+    },
+    {
+      "num_steps": 8,
+      "errors": []
+    },
+    {
+      "num_steps": 7,
+      "errors": []
+    },
+    {
+      "num_steps": 12,
+      "errors": [
+        {
+          "type": "E1",
+          "start_step": 1,
+          "span": "The center is $C_1 = -25-20i$ and the radius is $r=5$."
+        }
+      ]
+    },
+    {
+      "num_steps": 7,
+      "errors": [
+        {
+          "type": "E6",
+          "start_step": 2,
+          "span": "The midpoint of $A$ and $B$ is $\\frac{(4+k) + (3i+k)}{2} = \\frac{8+2k}{2} + \\frac{3i}{2} = 4+k + 1.5i$."
+        }
+      ]
+    },
+    {
+      "num_steps": 6,
+      "errors": []
+    },
+    {
+      "num_steps": 8,
+      "errors": [
+        {
+          "type": "E6",
+          "start_step": 2,
+          "span": "\\frac{(4+k) + (3i+k)}{2} = \\frac{8+2k}{2}"
+        },
+        {
+          "type": "E6",
+          "start_step": 2,
+          "span": "$(x-(4+k))^2 + y^2 = x^2 + (y-3)^2$"
+        }
+      ]
+    },
+    {
+      "num_steps": 7,
+      "errors": []
+    }
+  ],
+  "2025-I-09": [
+    {
+      "num_steps": 8,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 2,
+          "span": "The roots must be of the form $x = u + v\\sqrt{3}$ or similar"
+        }
+      ]
+    },
+    {
+      "num_steps": 7,
+      "errors": [
+        {
+          "type": "E6",
+          "start_step": 6,
+          "span": "x_2 \\approx -2.95"
+        },
+        {
+          "type": "E6",
+          "start_step": 6,
+          "span": "x_4 \\approx -1.50"
+        }
+      ]
+    },
+    {
+      "num_steps": 6,
+      "errors": [
+        {
+          "type": "E6",
+          "start_step": 6,
+          "span": "$= 3 - 6 + 3 + 6 + 2 - 16 = 0$."
+        },
+        {
+          "type": "E5",
+          "start_step": 6,
+          "span": "We need to find the roots of this quartic."
+        }
+      ]
+    },
+    {
+      "num_steps": 7,
+      "errors": []
+    },
+    {
+      "num_steps": 8,
+      "errors": [
+        {
+          "type": "E1",
+          "start_step": 2,
+          "span": "Alternatively, we can say that if we rotate the point $(x, y)$ by $60^\\circ$ to get $(x', y')$, then $(x', y')$ must satisfy the equation of the original parabola"
+        }
+      ]
+    },
+    {
+      "num_steps": 4,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 4,
+          "span": "Assume $r \\neq 0$ and $\\cos(\\theta-30^\\circ) \\neq 0$."
+        },
+        {
+          "type": "E2",
+          "start_step": 4,
+          "span": "This is the one in the fourth quadrant."
+        }
+      ]
+    },
+    {
+      "num_steps": 9,
+      "errors": []
+    },
+    {
+      "num_steps": 5,
+      "errors": [
+        {
+          "type": "E5",
+          "start_step": 5,
+          "span": "Let's check for rational roots. Factors of 96: 1, 2, 3, 4, 6, 8, 12, 16, 24, 32"
+        },
+        {
+          "type": "E6",
+          "start_step": 5,
+          "span": "(AD + BC + BD?) No."
+        }
+      ]
+    }
+  ],
+  "2025-I-10": [
+    {
+      "num_steps": 4,
+      "errors": [
+        {
+          "type": "E5",
+          "start_step": 4,
+          "span": "Calculate the sum:\n$2 \\times 16 + 3 \\times"
+        }
+      ]
+    },
+    {
+      "num_steps": 3,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 3,
+          "span": "The set of numbers in columns 4-6 ($S_{i,2}$) and columns 7-9 ($S_{i,3}$) must be the complement of $S_{i,1}$ in $\\{1, \\dots, 9\\}."
+        },
+        {
+          "type": "E1",
+          "start_step": 3,
+          "span": "This means that for each number $k$, it appears in exactly one block $b_k \\in \\{1,2,3\\}$ and exactly one row $r_k \\in \\{1,2,3\\}."
+        },
+        {
+          "type": "E5",
+          "start_step": 3,
+          "span": "W ="
+        }
+      ]
+    },
+    {
+      "num_steps": 10,
+      "errors": []
+    },
+    {
+      "num_steps": 6,
+      "errors": []
+    },
+    {
+      "num_steps": 4,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 3,
+          "span": "Note that $y_1, y_2, y_3$ are disjoint sets of size 6."
+        }
+      ]
+    },
+    {
+      "num_steps": 9,
+      "errors": []
+    },
+    {
+      "num_steps": 7,
+      "errors": []
+    },
+    {
+      "num_steps": 10,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 3,
+          "span": "For row $i$, the numbers in Block 2 for row $i$ must be $U \\setminus S_i$."
+        }
+      ]
+    }
+  ],
+  "2025-I-11": [
+    {
+      "num_steps": 5,
+      "errors": [
+        {
+          "type": "E1",
+          "start_step": 2,
+          "span": "Since $x \\ge 0$, we only need to consider intersections where $f(x) \\ge 0$."
+        },
+        {
+          "type": "E2",
+          "start_step": 5,
+          "span": "So $m \\equiv \\pm 1 \\pmod{272}$."
+        },
+        {
+          "type": "E5",
+          "start_step": 5,
+          "span": "Usually, in such AIME problems, the terms inside the square roots are perfect"
+        }
+      ]
+    },
+    {
+      "num_steps": 3,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 2,
+          "span": "Since $x = 34y^2 \\ge 0$, we only consider intersections where $f(x) \\ge 0$"
+        },
+        {
+          "type": "E2",
+          "start_step": 2,
+          "span": "Since $f(x)$ has range $[-1, 1]$, we must have $34y^2 \\le 1$"
+        },
+        {
+          "type": "E6",
+          "start_step": 3,
+          "span": "x = 34 (\frac{1+\\sqrt{273}}{68})^2 = \frac{274 + 2\\sqrt{273}}{68} = \frac{137 + \\sqrt{273}}{34}"
+        },
+        {
+          "type": "E6",
+          "start_step": 3,
+          "span": "x = 8k + \frac{1 \\pm \\sqrt{D_1}}{34}"
+        },
+        {
+          "type": "E5",
+          "start_step": 3,
+          "span": "x \\approx"
+        }
+      ]
+    },
+    {
+      "num_steps": 4,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 3,
+          "span": "$x = 34 y_-^2 = x_+ \\approx 1.77$"
+        }
+      ]
+    },
+    {
+      "num_steps": 1,
+      "errors": [
+        {
+          "type": "E1",
+          "start_step": 1,
+          "span": "Since \\(x \\ge 0\\) for all real \\(y\\), we only need to consider intersections where \\(f(x) \\ge 0\\)."
+        },
+        {
+          "type": "E5",
+          "start_step": 1,
+          "span": "It seems the sum is just a sum of square roots.\nBut the problem states the form"
+        }
+      ]
+    },
+    {
+      "num_steps": 1,
+      "errors": [
+        {
+          "type": "E6",
+          "start_step": 1,
+          "span": "y = \\frac{-1 \\pm \\sqrt{1 + 136(4k+2)}}{68} = \\frac{-1 \\pm \\sqrt{544k + 545}}{68}"
+        }
+      ]
+    },
+    {
+      "num_steps": 4,
+      "errors": [
+        {
+          "type": "E1",
+          "start_step": 1,
+          "span": "Since $x \\ge 0$ for all real $y$, we only need to consider intersections where $f(x) \\ge 0$."
+        },
+        {
+          "type": "E6",
+          "start_step": 4,
+          "span": "$\\sqrt{549}, \\sqrt{823}$"
+        }
+      ]
+    },
+    {
+      "num_steps": 2,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 2,
+          "span": "Since $x \\ge 0$, we only consider intersections where $f(x) \\ge 0$"
+        },
+        {
+          "type": "E2",
+          "start_step": 2,
+          "span": "We know 0 \\le x \\le 1 because $f(x) \\in [-1, 1]$ and $x=34y^2 \\ge 0."
+        },
+        {
+          "type": "E5",
+          "start_step": 2,
+          "span": "Wait, $x$ must be <"
+        }
+      ]
+    },
+    {
+      "num_steps": 1,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 1,
+          "span": "The condition $f(x) \\ge 0$ implies $x \\in [0, 2]$."
+        },
+        {
+          "type": "E2",
+          "start_step": 1,
+          "span": "Since $y \\ge 0$, we take the positive root: $y = \\frac{1 + \\sqrt{1 + 544k}}{68}$."
+        },
+        {
+          "type": "E5",
+          "start_step": 1,
+          "span": "So $\\sum_{k=0}^7 y_{k,4} + \\sum_{k=1}^"
+        }
+      ]
+    }
+  ],
+  "2025-I-12": [
+    {
+      "num_steps": 5,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 4,
+          "span": "third part of the cycle, which would be $z - xy < x - yz$"
+        },
+        {
+          "type": "E5",
+          "start_step": 5,
+          "span": "So only 3 regions exist"
+        }
+      ]
+    },
+    {
+      "num_steps": 3,
+      "errors": [
+        {
+          "type": "E6",
+          "start_step": 1,
+          "span": "$(y-z)(1 - x) < 0$"
+        },
+        {
+          "type": "E2",
+          "start_step": 2,
+          "span": "Since $z > -1$, then $y > 75$."
+        }
+      ]
+    },
+    {
+      "num_steps": 4,
+      "errors": []
+    },
+    {
+      "num_steps": 1,
+      "errors": [
+        {
+          "type": "E5",
+          "start_step": 1,
+          "span": "Are there regions where two variables are $< -1$? We checked that and found no solution."
+        },
+        {
+          "type": "E2",
+          "start_step": 1,
+          "span": "By symmetry, Regions C and D exist."
+        },
+        {
+          "type": "E5",
+          "start_step": 1,
+          "span": "A_{plane} = A_{proj} / \\"
+        }
+      ]
+    },
+    {
+      "num_steps": 3,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 2,
+          "span": "This forms a triangle with vertices $(-1, -1, 77)$, $(77, -1, -1)$, $(-1, 77, -1)$."
+        },
+        {
+          "type": "E6",
+          "start_step": 2,
+          "span": "Then $x-y < 0 \\implies x < y$ and $y-z > 0 \\implies y > z$."
+        },
+        {
+          "type": "E5",
+          "start_step": 3,
+          "span": "**Step 3: Calculate the area of the triangle.**"
+        }
+      ]
+    },
+    {
+      "num_steps": 1,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 1,
+          "span": "$y-x > 0 \\implies z+1 < 0 \\implies z < -1$"
+        },
+        {
+          "type": "E2",
+          "start_step": 1,
+          "span": "Side $c = P_2 P_3$. So angle at $P_1$ is $90^\\circ$?"
+        }
+      ]
+    },
+    {
+      "num_steps": 3,
+      "errors": [
+        {
+          "type": "E4",
+          "start_step": 3,
+          "span": "If one combination is empty, then there are only 2 regions?"
+        }
+      ]
+    },
+    {
+      "num_steps": 7,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 2,
+          "span": "- Region I: $x > y$ and $x+y < 76$.\n- Region II: $x < y$ and $x+y > 76$."
+        }
+      ]
+    }
+  ],
+  "2025-I-13": [
+    {
+      "num_steps": 3,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 3,
+          "span": "- 2-2-0-0: Choose 2 quadrants for the pairs: $\\binom{4}{2} = 6$. Assign points to these quadrants (2 in each): $\\binom{4}{2} = 6$. Total $6 \\times 6 = 36$."
+        },
+        {
+          "type": "E2",
+          "start_step": 3,
+          "span": "Chord 1: $(a_1, c)$. Chord 2: $(a_2, b)$. Intersect? Yes."
+        },
+        {
+          "type": "E5",
+          "start_step": 3,
+          "span": "What if Chord 1 is $(a"
+        }
+      ]
+    },
+    {
+      "num_steps": 4,
+      "errors": [
+        {
+          "type": "E1",
+          "start_step": 1,
+          "span": "There are $k=27$ new line segments to be drawn"
+        },
+        {
+          "type": "E2",
+          "start_step": 3,
+          "span": "$E[R] = 4 + 27 + \\sum_{1 \\le i < j \\le 29} P(L_i \\text{ intersects } L_j)$"
+        },
+        {
+          "type": "E5",
+          "start_step": 4,
+          "span": "If $T_1=\\{1,3\\}$ (Opposite). $T_2$ adjacent."
+        }
+      ]
+    },
+    {
+      "num_steps": 5,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 3,
+          "span": "Probability of intersection = 0."
+        }
+      ]
+    },
+    {
+      "num_steps": 6,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 6,
+          "span": "Since both endpoints are in the same arcs, the chords do NOT intersect."
+        },
+        {
+          "type": "E5",
+          "start_step": 6,
+          "span": "The set of points is \\(\\{u_1, u_2\\}\\) and \\(\\{v_1, v_2\\}\\)."
+        }
+      ]
+    },
+    {
+      "num_steps": 6,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 6,
+          "span": "Case 2: Endpoints in opposite quadrants (e.g., Q1 and Q3). The chord must cross both axes? No."
+        },
+        {
+          "type": "E5",
+          "start_step": 6,
+          "span": "Let's assume p = 1/3 for the random chords."
+        }
+      ]
+    },
+    {
+      "num_steps": 7,
+      "errors": [
+        {
+          "type": "E6",
+          "start_step": 4,
+          "span": "for a fixed A pair, how many B pairs share a quadrant? (1,2) shares with (1,3) [Q1], (2,3) [Q2], (4,1) [Q1]."
+        }
+      ]
+    },
+    {
+      "num_steps": 3,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 3,
+          "span": "If $x_2 < x_1$: Sequence $z, x_2, x_1, y$. C1: $(x_2, y)$. C2: $(x_1, z)$."
+        },
+        {
+          "type": "E5",
+          "start_step": 3,
+          "span": "Let X, Y be endpoints of"
+        }
+      ]
+    },
+    {
+      "num_steps": 7,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 5,
+          "span": "The chords do not intersect (they are nested or parallel).\n   Probability of intersection = 0."
+        }
+      ]
+    }
+  ],
+  "2025-I-14": [
+    {
+      "num_steps": 3,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 3,
+          "span": "(or the angles between adjacent vertices are all $\\ge 120^{\\circ}$)"
+        },
+        {
+          "type": "E5",
+          "start_step": 3,
+          "span": "This seems complicated."
+        }
+      ]
+    },
+    {
+      "num_steps": 3,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 3,
+          "span": "For a convex polygon, if all angles are less than $120^{\\circ}$, the Fermat point is the point such that the segments connecting it to the vertices make $120^{\\circ}$ angles with each other."
+        },
+        {
+          "type": "E6",
+          "start_step": 3,
+          "span": "D = (13\\sqrt{3} \\cdot \\frac{1}{7}, 13\\sqrt{3} \\cdot \\frac{4\\sqrt{3}}{7}) = (\\frac{13\\sqrt{3}}{7}, \\frac{52}{7})"
+        },
+        {
+          "type": "E5",
+          "start_step": 3,
+          "span": "The solution involves realizing that the optimal point $X$ lies on the segment $CD$"
+        }
+      ]
+    },
+    {
+      "num_steps": 25,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 1,
+          "span": "For 5 points, if there is a point $P$ such that $\\angle APB = \\angle BPC = \\dots = 120^\\circ$, then $P$ is the minimum."
+        },
+        {
+          "type": "E5",
+          "start_step": 25,
+          "span": "If $B, C, D$ are collinear, $BD=31$."
+        }
+      ]
+    },
+    {
+      "num_steps": 100,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 32,
+          "span": "So $\\angle CDE = 30^{\\circ} + 90^{\\circ} = 120^{\\circ}$."
+        },
+        {
+          "type": "E3",
+          "start_step": 91,
+          "span": "Let's re-evaluate the orientation."
+        },
+        {
+          "type": "E5",
+          "start_step": 100,
+          "span": "The problem says $ABCDE"
+        }
+      ]
+    },
+    {
+      "num_steps": 2,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 2,
+          "span": "However, if the minimum is at a vertex, the value is sum of integers."
+        },
+        {
+          "type": "E2",
+          "start_step": 2,
+          "span": "If $D$ is the minimizer, then $\\sum u_i = 0$."
+        },
+        {
+          "type": "E5",
+          "start_step": 2,
+          "span": "If the minimum is at \\(A\\), sum is \\(0 + 14 + 7\\sqrt"
+        }
+      ]
+    },
+    {
+      "num_steps": 3,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 3,
+          "span": "The minimum on the segment $CD$ would be at the point closest to the Fermat point of $A, B, E$, which is $A$."
+        },
+        {
+          "type": "E5",
+          "start_step": 3,
+          "span": "Actually, the minimum of the sum of distances to vertices of this convex pentagon is known to be the distance between two points constructed by rotating the pentagon."
+        }
+      ]
+    },
+    {
+      "num_steps": 2,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 2,
+          "span": "For a convex polygon with an even number of vertices, the minimum is at the intersection of diagonals."
+        },
+        {
+          "type": "E2",
+          "start_step": 2,
+          "span": "the angle $\\angle BAE$ of the pentagon at vertex $A$.\nWe know $\\angle BAC = 30^{\\circ}$ and $\\angle DAE = 30^{\\circ}$.\nWhat about $\\angle CAD$?\nLet's calculate $CD^2$ using coordinates or vector addition."
+        },
+        {
+          "type": "E2",
+          "start_step": 2,
+          "span": "If one vertex is \"inside\" the convex hull of the others, the minimum is at that vertex."
+        },
+        {
+          "type": "E5",
+          "start_step": 2,
+          "span": "Need $BD$.\nIn $\\triangle ABD$, $AB=14, AD=13\\sqrt{3}, \\angle BAD = 30 + \\arccos(1/7)$."
+        }
+      ]
+    },
+    {
+      "num_steps": 2,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 2,
+          "span": "Thus $AX+BX = AX+B'X$."
+        },
+        {
+          "type": "E6",
+          "start_step": 2,
+          "span": "= 625 + (336)(13/14) = 625"
+        },
+        {
+          "type": "E5",
+          "start_step": 2,
+          "span": "This is getting messy."
+        }
+      ]
+    }
+  ],
+  "2025-I-15": [
+    {
+      "num_steps": 123,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 65,
+          "span": "$v_3(\text{sum}) = 3m + v_3(u_a^3 + u_b^3)$."
+        },
+        {
+          "type": "E6",
+          "start_step": 112,
+          "span": "Total pairs $(A,B)$: $162 \\times 3 = 486$ pairs."
+        },
+        {
+          "type": "E5",
+          "start_step": 123,
+          "span": "Subcase $m=1, z=2$:"
+        }
+      ]
+    },
+    {
+      "num_steps": 2,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 2,
+          "span": "$v_3(a^3+b^3+c^3) = v_3(a^3+b^3)$."
+        },
+        {
+          "type": "E5",
+          "start_step": 2,
+          "span": "Let's assume the number of solutions in Case B3 is small or zero."
+        }
+      ]
+    },
+    {
+      "num_steps": 2,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 2,
+          "span": "Need $m_a^3 + m_b^3 \\equiv 0 \\pmod{3^{7-3}} = \\pmod{81}$."
+        },
+        {
+          "type": "E5",
+          "start_step": 2,
+          "span": "If only one is 0: $S = u + \\dots$ where others are divisible by 27.\n$v_3(S"
+        }
+      ]
+    },
+    {
+      "num_steps": 2,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 2,
+          "span": "So in all cases where cancellation occurs, the third term must have valuation $\\ge 7$"
+        },
+        {
+          "type": "E5",
+          "start_step": 2,
+          "span": "Start $27k-"
+        }
+      ]
+    },
+    {
+      "num_steps": 4,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 3,
+          "span": "Let $u=v=2$, $w > 2$."
+        },
+        {
+          "type": "E2",
+          "start_step": 4,
+          "span": "Need $(a')^3 + (b')^3 \\equiv 0 \\pmod{3^7}$."
+        },
+        {
+          "type": "E5",
+          "start_step": 4,
+          "span": "Multiples of 3: 243."
+        }
+      ]
+    },
+    {
+      "num_steps": 4,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 2,
+          "span": "Therefore, \\(a, b, c\\) must all be divisible by 3."
+        },
+        {
+          "type": "E2",
+          "start_step": 4,
+          "span": "As derived, we need \\(v_3(a^3+b^3) \\ge 7\\) and \\(v_3(c^3) \\ge 7\\)."
+        },
+        {
+          "type": "E5",
+          "start_step": 4,
+          "span": "Actually, if \\(v_3(x+y)=3\\), then \\(x+y = 27k\\) where \\(3 \nmid k\\)."
+        }
+      ]
+    },
+    {
+      "num_steps": 186,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 169,
+          "span": "For each $c$, there are 3 values of $b$ such that $b^3 \\equiv -c^3 \\pmod{3^{k+1}}?"
+        },
+        {
+          "type": "E2",
+          "start_step": 178,
+          "span": "So for any unit $R$, there are exactly 3 solutions for $b."
+        },
+        {
+          "type": "E5",
+          "start_step": 186,
+          "span": "$b^3+c^3 = -27x"
+        }
+      ]
+    },
+    {
+      "num_steps": 3,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 3,
+          "span": "As analyzed before, $v_3(x^3+y^3)$ is either 0 or 1."
+        }
+      ]
+    }
+  ],
+  "2025-II-01": [
+    {
+      "num_steps": 6,
+      "errors": []
+    },
+    {
+      "num_steps": 4,
+      "errors": []
+    },
+    {
+      "num_steps": 4,
+      "errors": []
+    },
+    {
+      "num_steps": 5,
+      "errors": []
+    },
+    {
+      "num_steps": 6,
+      "errors": []
+    },
+    {
+      "num_steps": 3,
+      "errors": []
+    },
+    {
+      "num_steps": 6,
+      "errors": []
+    },
+    {
+      "num_steps": 4,
+      "errors": []
+    }
+  ],
+  "2025-II-02": [
+    {
+      "num_steps": 8,
+      "errors": []
+    },
+    {
+      "num_steps": 10,
+      "errors": []
+    },
+    {
+      "num_steps": 9,
+      "errors": []
+    },
+    {
+      "num_steps": 8,
+      "errors": [
+        {
+          "type": "E6",
+          "start_step": 7,
+          "span": "$1378 = 39 \times 35.33$"
+        }
+      ]
+    },
+    {
+      "num_steps": 10,
+      "errors": []
+    },
+    {
+      "num_steps": 10,
+      "errors": []
+    },
+    {
+      "num_steps": 8,
+      "errors": []
+    },
+    {
+      "num_steps": 8,
+      "errors": []
+    }
+  ],
+  "2025-II-03": [
+    {
+      "num_steps": 5,
+      "errors": [
+        {
+          "type": "E6",
+          "start_step": 5,
+          "span": "- {R, B}: R=R, B=R, T=B, L=B. (Right=B)."
+        },
+        {
+          "type": "E3",
+          "start_step": 5,
+          "span": "Re-check TL=H1 (Top, Bottom Red)."
+        },
+        {
+          "type": "E5",
+          "start_step": 5,
+          "span": "This means the two cases (TL=H1 and TL=V"
+        }
+      ]
+    },
+    {
+      "num_steps": 4,
+      "errors": []
+    },
+    {
+      "num_steps": 3,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 3,
+          "span": "Also $R_{12}=0$ (since $L,R$ are Blue in $\\{T,B\\}$). So $R_{12}=0$. This is the Right edge of $Q_{12}$. It is shared with $L_{22}$."
+        }
+      ]
+    },
+    {
+      "num_steps": 7,
+      "errors": []
+    },
+    {
+      "num_steps": 17,
+      "errors": []
+    },
+    {
+      "num_steps": 14,
+      "errors": []
+    },
+    {
+      "num_steps": 4,
+      "errors": []
+    },
+    {
+      "num_steps": 5,
+      "errors": []
+    }
+  ],
+  "2025-II-04": [
+    {
+      "num_steps": 9,
+      "errors": []
+    },
+    {
+      "num_steps": 10,
+      "errors": []
+    },
+    {
+      "num_steps": 8,
+      "errors": []
+    },
+    {
+      "num_steps": 9,
+      "errors": []
+    },
+    {
+      "num_steps": 7,
+      "errors": [
+        {
+          "type": "E6",
+          "start_step": 5,
+          "span": "$$ R_1 = \\frac{3}{2} \\cdot \\frac{4}{3} \\cdot \\frac{5}{4} \\cdots \\frac{62}{61} \\cdot \\frac{63}{62} $$"
+        }
+      ]
+    },
+    {
+      "num_steps": 10,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 5,
+          "span": "This is a telescoping product where the numerator of each term cancels with the denominator of the previous term."
+        },
+        {
+          "type": "E6",
+          "start_step": 6,
+          "span": "Terms: $\\frac{3}{2}, \\frac{4}{3}, \\frac{5}{4}, \\dots, \\frac{62}{61}, \\frac{63}{62}$."
+        }
+      ]
+    },
+    {
+      "num_steps": 8,
+      "errors": [
+        {
+          "type": "E6",
+          "start_step": 5,
+          "span": "Terms are $\\frac{3}{2}, \\frac{4}{3}, \\frac{5}{4}, \\dots, \\frac{62}{61}, \\frac{63}{62}$."
+        }
+      ]
+    },
+    {
+      "num_steps": 9,
+      "errors": [
+        {
+          "type": "E6",
+          "start_step": 6,
+          "span": "- Integer 5 to 61: Num (2), Denom (2) -> Cancel"
+        }
+      ]
+    }
+  ],
+  "2025-II-05": [
+    {
+      "num_steps": 6,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 4,
+          "span": "Note: \"minor arc\". All calculated arcs are minor (less than 180)."
+        }
+      ]
+    },
+    {
+      "num_steps": 6,
+      "errors": []
+    },
+    {
+      "num_steps": 7,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 7,
+          "span": "So $\\angle HEJ = \\angle AEF - \\angle AEJ = 36 - 12 = 24^\\circ$."
+        },
+        {
+          "type": "E5",
+          "start_step": 7,
+          "span": "Let's re-evaluate $\\angle FEG$."
+        }
+      ]
+    },
+    {
+      "num_steps": 7,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 5,
+          "span": "Thus \\angle FHA = \\angle FAH = \\angle A = 84^\\circ."
+        },
+        {
+          "type": "E2",
+          "start_step": 7,
+          "span": "$\\angle GFD = \\angle BFD$."
+        },
+        {
+          "type": "E2",
+          "start_step": 7,
+          "span": "$\\angle EDH = \\angle EDC$."
+        },
+        {
+          "type": "E2",
+          "start_step": 7,
+          "span": "$\\angle JEF = \\angle AEF$."
+        },
+        {
+          "type": "E3",
+          "start_step": 7,
+          "span": "Let's re-evaluate the arc measures."
+        },
+        {
+          "type": "E5",
+          "start_step": 7,
+          "span": "This implies that some of the \"minor arcs\" I calculated are actually major arcs, or I identified the wrong subtended arc."
+        }
+      ]
+    },
+    {
+      "num_steps": 3,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 3,
+          "span": "The angle $\\angle H_A H_B H_C = 180 - 2C$."
+        },
+        {
+          "type": "E2",
+          "start_step": 3,
+          "span": "Between $F$ and $G$ ($H_C$ and $H_A$)."
+        },
+        {
+          "type": "E5",
+          "start_step": 3,
+          "span": "So $\\wideparen{FG} = 120^\\circ$."
+        }
+      ]
+    },
+    {
+      "num_steps": 6,
+      "errors": [
+        {
+          "type": "E6",
+          "start_step": 6,
+          "span": "Angle $\\angle AFH_b = 180 - 2(84) = 12^\\circ$."
+        },
+        {
+          "type": "E6",
+          "start_step": 6,
+          "span": "We found $\\angle F D C = 36^\\circ$. So $\\angle F D B = 180 - 36 = 144^\\circ$."
+        },
+        {
+          "type": "E3",
+          "start_step": 6,
+          "span": "Maybe $G$ is on $DC$? If $G$ is on $DC$, then ray $DG$ is same as ray $DC$. Angle $\\angle F D C = 36^\\circ$. Then inscribed angle is $36^\\circ$. Arc $F G$ (not containing $D$) = $72^\\circ$. This fits! Let's re-check the position of $H_a$."
+        },
+        {
+          "type": "E5",
+          "start_step": 6,
+          "span": "The inscribed angle theorem: The angle subtended by an arc at a point on the circumference is half the"
+        }
+      ]
+    },
+    {
+      "num_steps": 4,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 4,
+          "span": "In $<triangle CJB$, $F$ is midpoint of hypotenuse $AB$."
+        },
+        {
+          "type": "E2",
+          "start_step": 4,
+          "span": "This is a major arc if we consider the whole circle"
+        },
+        {
+          "type": "E5",
+          "start_step": 4,
+          "span": "If order is $E, J,"
+        }
+      ]
+    },
+    {
+      "num_steps": 3,
+      "errors": []
+    }
+  ],
+  "2025-II-06": [
+    {
+      "num_steps": 10,
+      "errors": []
+    },
+    {
+      "num_steps": 7,
+      "errors": []
+    },
+    {
+      "num_steps": 8,
+      "errors": []
+    },
+    {
+      "num_steps": 13,
+      "errors": [
+        {
+          "type": "E1",
+          "start_step": 1,
+          "span": "Then the center $A$ is at $(15-9, 0) = (6, 0)$."
+        }
+      ]
+    },
+    {
+      "num_steps": 11,
+      "errors": []
+    },
+    {
+      "num_steps": 8,
+      "errors": []
+    },
+    {
+      "num_steps": 11,
+      "errors": []
+    },
+    {
+      "num_steps": 6,
+      "errors": [
+        {
+          "type": "E6",
+          "start_step": 3,
+          "span": "y_F = h/2 < y_H = -h/2"
+        }
+      ]
+    }
+  ],
+  "2025-II-07": [
+    {
+      "num_steps": 8,
+      "errors": []
+    },
+    {
+      "num_steps": 9,
+      "errors": [
+        {
+          "type": "E1",
+          "start_step": 3,
+          "span": "The problem specifies that $B$ is a nonempty set."
+        }
+      ]
+    },
+    {
+      "num_steps": 14,
+      "errors": []
+    },
+    {
+      "num_steps": 12,
+      "errors": []
+    },
+    {
+      "num_steps": 13,
+      "errors": [
+        {
+          "type": "E1",
+          "start_step": 3,
+          "span": "The number of nonempty subsets is $2^{15} - 1$."
+        }
+      ]
+    },
+    {
+      "num_steps": 12,
+      "errors": []
+    },
+    {
+      "num_steps": 14,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 3,
+          "span": "The problem specifies that $B$ is a nonempty set. The number of nonempty subsets is $2^{15} - 1$."
+        }
+      ]
+    },
+    {
+      "num_steps": 10,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 8,
+          "span": "The sample space is the set of all **nonempty** subsets of $A$."
+        }
+      ]
+    }
+  ],
+  "2025-II-08": [
+    {
+      "num_steps": 5,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 2,
+          "span": "For any $N$, let $r = N \\pmod{25}$. If $r \\in [5, 9]$ or $r \\in [15, 19]$, the greedy algorithm fails (it uses one more 25 than optimal)."
+        },
+        {
+          "type": "E5",
+          "start_step": 2,
+          "span": "So we never need to remove two 25s. The only failure mode is removing one 25."
+        }
+      ]
+    },
+    {
+      "num_steps": 2,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 1,
+          "span": "replacing three $10$s with one $25$ reduces count by 2"
+        },
+        {
+          "type": "E6",
+          "start_step": 2,
+          "span": "Max tens $b =7+x$."
+        },
+        {
+          "type": "E5",
+          "start_step": 2,
+          "span": "So replacing one 25 is the only candidate for improvement."
+        }
+      ]
+    },
+    {
+      "num_steps": 9,
+      "errors": [
+        {
+          "type": "E6",
+          "start_step": 1,
+          "span": "f(25+r) = \\lfloor (25+r)/10 \\rfloor + ((25+r) \\pmod{10}) = (2+q) + b'"
+        },
+        {
+          "type": "E6",
+          "start_step": 1,
+          "span": "f(50+r) = q+5+b'"
+        },
+        {
+          "type": "E2",
+          "start_step": 1,
+          "span": "So the analysis holds: Greedy fails iff $r \\pmod{10} \\in \\{5, 6, 7, 8, 9\\}$."
+        }
+      ]
+    },
+    {
+      "num_steps": 2,
+      "errors": [
+        {
+          "type": "E5",
+          "start_step": 1,
+          "span": "Generally, $f(25k+r)$ grows roughly as $2.5k + r/10$, while $c(r)$ is small."
+        },
+        {
+          "type": "E2",
+          "start_step": 2,
+          "span": "The greedy algorithm succeeds for $N$ if and only if the remainder $N \\pmod{25}$ is in the set of successful remainders"
+        }
+      ]
+    },
+    {
+      "num_steps": 3,
+      "errors": [
+        {
+          "type": "E5",
+          "start_step": 3,
+          "span": "So reducing by 2 or more $25$s never helps because the cost to make $50$ with $\\{1, 10\\}$ is $5+5=10$ coins (five $10$s), whereas two $25$s are 2 coins."
+        }
+      ]
+    },
+    {
+      "num_steps": 3,
+      "errors": [
+        {
+          "type": "E5",
+          "start_step": 1,
+          "span": "Replacing three? Even worse."
+        }
+      ]
+    },
+    {
+      "num_steps": 8,
+      "errors": [
+        {
+          "type": "E5",
+          "start_step": 4,
+          "span": "So the only potential failure comes from reducing the number of 25s by exactly 1."
+        },
+        {
+          "type": "E6",
+          "start_step": 5,
+          "span": "$\\lfloor V/10 \\rfloor = 3$."
+        },
+        {
+          "type": "E2",
+          "start_step": 6,
+          "span": "Alternative uses: $(q-1)$ (25s) + $3$ (10s) + $(r-5)$ (1s)."
+        }
+      ]
+    },
+    {
+      "num_steps": 3,
+      "errors": [
+        {
+          "type": "E6",
+          "start_step": 2,
+          "span": "Greedy: 1 quarter, 1 ten."
+        },
+        {
+          "type": "E6",
+          "start_step": 2,
+          "span": "If $s \\ge 5$: $M' = 10(r+3) + (s-5)$. $C_{alt}' = r+3+s-5 = r+s-2$."
+        },
+        {
+          "type": "E5",
+          "start_step": 2,
+          "span": "Thus, the only possible failure mode is $q \\ge 1$ and $s \\ge 5$."
+        },
+        {
+          "type": "E6",
+          "start_step": 3,
+          "span": "Total bad remainders: $5+5+5 = 15$."
+        },
+        {
+          "type": "E2",
+          "start_step": 3,
+          "span": "Total count = $39 \\times 15$."
+        }
+      ]
+    }
+  ],
+  "2025-II-09": [
+    {
+      "num_steps": 6,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 3,
+          "span": "Total solutions = $5 \\times 1 = 5$."
+        },
+        {
+          "type": "E2",
+          "start_step": 3,
+          "span": "one in $(0, \\pi)$ and one in $(\\pi, 2\\pi)$"
+        }
+      ]
+    },
+    {
+      "num_steps": 7,
+      "errors": [
+        {
+          "type": "E6",
+          "start_step": 2,
+          "span": "Total solutions for $k=0$ is $5$."
+        }
+      ]
+    },
+    {
+      "num_steps": 8,
+      "errors": [
+        {
+          "type": "E6",
+          "start_step": 3,
+          "span": "Since there are 5 periods, the total number of solutions is $2 \\times 5 = 10$."
+        }
+      ]
+    },
+    {
+      "num_steps": 5,
+      "errors": []
+    },
+    {
+      "num_steps": 10,
+      "errors": []
+    },
+    {
+      "num_steps": 7,
+      "errors": []
+    },
+    {
+      "num_steps": 5,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 3,
+          "span": "Since |k| \\le 6 (as $k \\in \\{-6, \\dots, -1, 1, \\dots, 6\\}$),"
+        }
+      ]
+    },
+    {
+      "num_steps": 6,
+      "errors": []
+    }
+  ],
+  "2025-II-10": [
+    {
+      "num_steps": 7,
+      "errors": []
+    },
+    {
+      "num_steps": 7,
+      "errors": []
+    },
+    {
+      "num_steps": 7,
+      "errors": []
+    },
+    {
+      "num_steps": 9,
+      "errors": []
+    },
+    {
+      "num_steps": 5,
+      "errors": [
+        {
+          "type": "E6",
+          "start_step": 4,
+          "span": "$B'_2 = A_1(old)=4$"
+        }
+      ]
+    },
+    {
+      "num_steps": 4,
+      "errors": [
+        {
+          "type": "E5",
+          "start_step": 4,
+          "span": "Row 15: [1, 15, 105"
+        }
+      ]
+    },
+    {
+      "num_steps": 7,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 4,
+          "span": "We need total length 16. So $x_0 + x_4 = 5$."
+        }
+      ]
+    },
+    {
+      "num_steps": 10,
+      "errors": [
+        {
+          "type": "E6",
+          "start_step": 5,
+          "span": "17, 13, 11 remain."
+        },
+        {
+          "type": "E6",
+          "start_step": 5,
+          "span": "$15/5=3, 14/7=2, 12/6=2, 10/2=5, 9/3=3, 8/4=2$."
+        },
+        {
+          "type": "E2",
+          "start_step": 8,
+          "span": "2, 0, 2 -> 11 Z 0 11 (Chairs: 1,2,4,6)."
+        },
+        {
+          "type": "E2",
+          "start_step": 8,
+          "span": "Invalid: {1,2,3}, {2,3,4}, {3,4,5}, {4,5,6}. (4 sets)."
+        }
+      ]
+    }
+  ],
+  "2025-II-11": [
+    {
+      "num_steps": 14,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 2,
+          "span": "if the cycle length is even, there are exactly 2 ways to match the vertices in that cycle using edges of the cycle (alternating edges)."
+        }
+      ]
+    },
+    {
+      "num_steps": 8,
+      "errors": []
+    },
+    {
+      "num_steps": 8,
+      "errors": []
+    },
+    {
+      "num_steps": 3,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 2,
+          "span": "For the edges to form a perfect matching (a set of disjoint edges covering all vertices), each connected component must be a single edge (a cycle of length 2)."
+        }
+      ]
+    },
+    {
+      "num_steps": 12,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 2,
+          "span": "Since 0 is already paired with $k$, $k$ must be paired with $2k$."
+        }
+      ]
+    },
+    {
+      "num_steps": 8,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 5,
+          "span": "In a cycle of even length, there are exactly 2 ways to match the vertices in that cycle."
+        }
+      ]
+    },
+    {
+      "num_steps": 6,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 3,
+          "span": "For a perfect matching to exist using only edges of length $k$, the graph must be a collection of disjoint edges (cycles of length 2)."
+        }
+      ]
+    },
+    {
+      "num_steps": 14,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 3,
+          "span": "Since $L$ is even, each cycle has exactly 2 perfect matchings (alternating edges)."
+        }
+      ]
+    }
+  ],
+  "2025-II-12": [
+    {
+      "num_steps": 9,
+      "errors": []
+    },
+    {
+      "num_steps": 11,
+      "errors": []
+    },
+    {
+      "num_steps": 8,
+      "errors": []
+    },
+    {
+      "num_steps": 6,
+      "errors": []
+    },
+    {
+      "num_steps": 7,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 5,
+          "span": "Since all $\\theta_i$ are positive and sum to $< 360^\\circ$, they don't overlap."
+        }
+      ]
+    },
+    {
+      "num_steps": 9,
+      "errors": []
+    },
+    {
+      "num_steps": 11,
+      "errors": []
+    },
+    {
+      "num_steps": 8,
+      "errors": []
+    }
+  ],
+  "2025-II-13": [
+    {
+      "num_steps": 1,
+      "errors": [
+        {
+          "type": "E5",
+          "start_step": 1,
+          "span": "So it seems they remain relatively prime."
+        },
+        {
+          "type": "E5",
+          "start_step": 1,
+          "span": "Let's try to calculate $x_k$ for $k=1, 2, 3$ and see if they match a specific form."
+        }
+      ]
+    },
+    {
+      "num_steps": 1,
+      "errors": [
+        {
+          "type": "E5",
+          "start_step": 1,
+          "span": "So it seems $g_k = 3$ for all $k$."
+        },
+        {
+          "type": "E5",
+          "start_step": 1,
+          "span": "We need $A_4 = 157 k$ and $B_4 = 275 k$."
+        }
+      ]
+    },
+    {
+      "num_steps": 1,
+      "errors": [
+        {
+          "type": "E5",
+          "start_step": 1,
+          "span": "And we observed $v_{k+1} = v_k \times u_k$?"
+        }
+      ]
+    },
+    {
+      "num_steps": 1,
+      "errors": [
+        {
+          "type": "E5",
+          "start_step": 1,
+          "span": "Hypothesis: $q_{k+1} = p_k q_k$."
+        }
+      ]
+    },
+    {
+      "num_steps": 3,
+      "errors": [
+        {
+          "type": "E6",
+          "start_step": 3,
+          "span": "3 a_{k+2} a_{k+1} = a_{k+1}^2 + a_k^2 - a_k a_{k+1}"
+        },
+        {
+          "type": "E5",
+          "start_step": 3,
+          "span": "This is getting too large to guess a pattern manually."
+        }
+      ]
+    },
+    {
+      "num_steps": 1,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 1,
+          "span": "So the substitution works."
+        },
+        {
+          "type": "E5",
+          "start_step": 1,
+          "span": "Numerator: $\\cos(\\cos - \\sqrt{3}\\sin) = 2\\cos \\cos(30"
+        }
+      ]
+    },
+    {
+      "num_steps": 1,
+      "errors": [
+        {
+          "type": "E6",
+          "start_step": 1,
+          "span": "a_3 = 57099, b_3 = 116625."
+        },
+        {
+          "type": "E5",
+          "start_step": 1,
+          "span": "So $g_k = 3^{2^{k-1}-1}$."
+        }
+      ]
+    },
+    {
+      "num_steps": 2,
+      "errors": [
+        {
+          "type": "E5",
+          "start_step": 2,
+          "span": "Let's reconsider the problem. Maybe I made a calculation error in $x_3$."
+        }
+      ]
+    }
+  ],
+  "2025-II-14": [
+    {
+      "num_steps": 3,
+      "errors": [
+        {
+          "type": "E6",
+          "start_step": 3,
+          "span": "$u^2 - v^2 + 196 - v^2 + 196 - u^2 + v^2 - 2u\\sqrt{196-v^2} - 2v\\sqrt{196-u^2} = 196$"
+        },
+        {
+          "type": "E6",
+          "start_step": 3,
+          "span": "If $\\theta=\\phi=15^\\circ$, $S = 2 \\cdot 14 \\cos 15 \\sin 15 = 14 \\sin 30 = 7$."
+        }
+      ]
+    },
+    {
+      "num_steps": 12,
+      "errors": [
+        {
+          "type": "E5",
+          "start_step": 3,
+          "span": "Thus, $(90^\\circ - \\beta) - \\alpha = 60^\\circ$ (assuming $L$ is \"above\" $K$ in terms of angle from x-axis, which makes sense as $C$ is on y-axis and $B$ on x-axis)."
+        }
+      ]
+    },
+    {
+      "num_steps": 8,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 7,
+          "span": "$\\sin \\delta = \\frac{23}{98}$ (since $\\delta$ is small positive or negative, square root is positive)."
+        },
+        {
+          "type": "E6",
+          "start_step": 7,
+          "span": "$b-c = 28(\\cos \\beta - \\cos \\alpha) = 28 (-2 \\sin(\\frac{\\alpha+\\beta}{2}) \\sin(\\frac{\\beta-\\alpha}{2})) = -56 \\sin(15^\\circ) \\sin(-\\delta) = 56 \\sin(15^\\circ) \\sin(\\delta)$"
+        }
+      ]
+    },
+    {
+      "num_steps": 1,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 1,
+          "span": "Then $K=(7, y), L=(-7, y)$."
+        },
+        {
+          "type": "E5",
+          "start_step": 1,
+          "span": "The quadrilateral $BKLC$ has vertices $B, K, L"
+        }
+      ]
+    },
+    {
+      "num_steps": 2,
+      "errors": [
+        {
+          "type": "E6",
+          "start_step": 2,
+          "span": "Area($\\triangle AKL$) = $98\\sqrt{3}$."
+        },
+        {
+          "type": "E6",
+          "start_step": 2,
+          "span": "Area($\\triangle ABC$) = $uv$."
+        },
+        {
+          "type": "E2",
+          "start_step": 2,
+          "span": "We found earlier that $u y_K + v x_L = 98$."
+        },
+        {
+          "type": "E5",
+          "start_step": 2,
+          "span": "From $\\sin(\\alpha+\\beta) = \\sin(30^\\circ) = 1/2$"
+        }
+      ]
+    },
+    {
+      "num_steps": 3,
+      "errors": [
+        {
+          "type": "E1",
+          "start_step": 2,
+          "span": "let's assume symmetry"
+        },
+        {
+          "type": "E2",
+          "start_step": 3,
+          "span": "If we sum Area($\\triangle BKL$) and Area($\\triangle KLC$), we get the area."
+        },
+        {
+          "type": "E5",
+          "start_step": 3,
+          "span": "If Area($BKLC$) = Area($\\triangle B'LC$) = $49\\sqrt{3}$, then $n=49$. If it is twice that, $n=98$."
+        }
+      ]
+    },
+    {
+      "num_steps": 7,
+      "errors": [
+        {
+          "type": "E5",
+          "start_step": 2,
+          "span": "it is likely that the rays are ordered $AB, AK, AL, AC$."
+        }
+      ]
+    },
+    {
+      "num_steps": 2,
+      "errors": [
+        {
+          "type": "E6",
+          "start_step": 2,
+          "span": "$S = \frac{165}{49\\sqrt{3}} = \frac{55\\sqrt{3}}{49}$"
+        }
+      ]
+    }
+  ],
+  "2025-II-15": [
+    {
+      "num_steps": 3,
+      "errors": [
+        {
+          "type": "E6",
+          "start_step": 3,
+          "span": "As $x \\to \\infty$, $f(x) \\approx x \\to +\\infty$."
+        },
+        {
+          "type": "E2",
+          "start_step": 3,
+          "span": "The number of such $k$ is 3. This suggests that for each pair of roots among $\\{18, 72, 98\\}$, there might be a specific $k$?"
+        },
+        {
+          "type": "E5",
+          "start_step": 3,
+          "span": "The condition for two equal minima is that $k$ satisfies:"
+        }
+      ]
+    },
+    {
+      "num_steps": 3,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 3,
+          "span": "So the equation is:\n$$ \\sum_{r \\in \\{a,b,c,k\\}} \\frac{r}{x(x-r)} = 0 $$"
+        },
+        {
+          "type": "E2",
+          "start_step": 3,
+          "span": "The other roots of $R(x)$ must be either negative or complex"
+        },
+        {
+          "type": "E5",
+          "start_step": 3,
+          "span": "it is highly probable that this is the condition."
+        }
+      ]
+    },
+    {
+      "num_steps": 4,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 2,
+          "span": "\\sum_{i=1}^4 \\prod_{j \\neq i} (x - r_j) \\cdot r_i = -3 \\prod_{i=1}^4 (x - r_i) / x"
+        },
+        {
+          "type": "E5",
+          "start_step": 4,
+          "span": "$(188+k)^2 -"
+        }
+      ]
+    },
+    {
+      "num_steps": 2,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 2,
+          "span": "Since $f(x) \to \\infty$ as $x \to 0^+$ and $x \to \\infty$, and there are vertical asymptotes at $a,b,c,k$ (if positive), the function goes to $\\pm \\infty$ near these points."
+        },
+        {
+          "type": "E5",
+          "start_step": 2,
+          "span": "Let's assume the three values are the roots of a cubic equation related to the condition."
+        }
+      ]
+    },
+    {
+      "num_steps": 1,
+      "errors": [
+        {
+          "type": "E5",
+          "start_step": 1,
+          "span": "Let's assume they are distinct."
+        },
+        {
+          "type": "E2",
+          "start_step": 1,
+          "span": "The 4th root must be in $(0, r_1)$ or $(r_4, \\infty)$."
+        },
+        {
+          "type": "E2",
+          "start_step": 1,
+          "span": "Let's assume the condition is indeed $r_1 r_4 = r_2 r_3$."
+        }
+      ]
+    },
+    {
+      "num_steps": 2,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 2,
+          "span": "Between any two consecutive singularities (roots of the denominator), the function $F(x)$ is strictly decreasing."
+        },
+        {
+          "type": "E2",
+          "start_step": 2,
+          "span": "This happens when the roots are symmetric with respect to some point $c$."
+        },
+        {
+          "type": "E5",
+          "start_step": 2,
+          "span": "Let's assume the three values are the solutions to the three equations:"
+        }
+      ]
+    },
+    {
+      "num_steps": 2,
+      "errors": [
+        {
+          "type": "E6",
+          "start_step": 2,
+          "span": "$f(x) \u2248 x$"
+        },
+        {
+          "type": "E2",
+          "start_step": 2,
+          "span": "The degree of the derivative numerator is 4. So there are exactly 4 critical points (counting multiplicity)."
+        },
+        {
+          "type": "E2",
+          "start_step": 2,
+          "span": "This implies that the 4th critical point is a **double root** (tangency)."
+        },
+        {
+          "type": "E5",
+          "start_step": 2,
+          "span": "There is a known result for this type of problem."
+        }
+      ]
+    },
+    {
+      "num_steps": 4,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 2,
+          "span": "since $f \to +\\infty$ at boundaries or infinity"
+        },
+        {
+          "type": "E5",
+          "start_step": 4,
+          "span": "The condition derived ensures the depths are equal."
+        }
+      ]
+    }
+  ],
+  "2026-I-01": [
+    {
+      "num_steps": 11,
+      "errors": []
+    },
+    {
+      "num_steps": 10,
+      "errors": []
+    },
+    {
+      "num_steps": 10,
+      "errors": []
+    },
+    {
+      "num_steps": 13,
+      "errors": []
+    },
+    {
+      "num_steps": 12,
+      "errors": []
+    },
+    {
+      "num_steps": 11,
+      "errors": []
+    },
+    {
+      "num_steps": 10,
+      "errors": []
+    },
+    {
+      "num_steps": 10,
+      "errors": []
+    }
+  ],
+  "2026-I-02": [
+    {
+      "num_steps": 6,
+      "errors": []
+    },
+    {
+      "num_steps": 16,
+      "errors": []
+    },
+    {
+      "num_steps": 5,
+      "errors": [
+        {
+          "type": "E6",
+          "start_step": 4,
+          "span": "Largest case: $m=1, k=6 \u001a 111111111$"
+        }
+      ]
+    },
+    {
+      "num_steps": 6,
+      "errors": []
+    },
+    {
+      "num_steps": 5,
+      "errors": []
+    },
+    {
+      "num_steps": 5,
+      "errors": [
+        {
+          "type": "E6",
+          "start_step": 1,
+          "span": "\\(d_i = d_{n-1+i}\\)"
+        }
+      ]
+    },
+    {
+      "num_steps": 4,
+      "errors": []
+    },
+    {
+      "num_steps": 6,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 3,
+          "span": "So $k$ can range from $1$ to $6$."
+        }
+      ]
+    }
+  ],
+  "2026-I-03": [
+    {
+      "num_steps": 8,
+      "errors": []
+    },
+    {
+      "num_steps": 7,
+      "errors": []
+    },
+    {
+      "num_steps": 8,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 3,
+          "span": "The point on the smaller sphere farthest from the origin lies on the line segment connecting the origin $O$ and the center $C$ of the small sphere."
+        }
+      ]
+    },
+    {
+      "num_steps": 10,
+      "errors": []
+    },
+    {
+      "num_steps": 8,
+      "errors": []
+    },
+    {
+      "num_steps": 11,
+      "errors": []
+    },
+    {
+      "num_steps": 8,
+      "errors": []
+    },
+    {
+      "num_steps": 8,
+      "errors": []
+    }
+  ],
+  "2026-I-04": [
+    {
+      "num_steps": 6,
+      "errors": [
+        {
+          "type": "E6",
+          "start_step": 4,
+          "span": "There are 25 primes in the range $[2, 101]$."
+        }
+      ]
+    },
+    {
+      "num_steps": 7,
+      "errors": [
+        {
+          "type": "E6",
+          "start_step": 5,
+          "span": "Primes: 2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 61, 67, 71, 73, 79, 83, 89, 97."
+        }
+      ]
+    },
+    {
+      "num_steps": 7,
+      "errors": [
+        {
+          "type": "E6",
+          "start_step": 3,
+          "span": "1+2+2=3"
+        }
+      ]
+    },
+    {
+      "num_steps": 10,
+      "errors": [
+        {
+          "type": "E6",
+          "start_step": 6,
+          "span": "Total primes = 25."
+        }
+      ]
+    },
+    {
+      "num_steps": 7,
+      "errors": [
+        {
+          "type": "E6",
+          "start_step": 2,
+          "span": "Also, since $a$ and $b$ are positive integers, $N = a+b+ab \\ge 1+2+2 = 3$."
+        },
+        {
+          "type": "E6",
+          "start_step": 6,
+          "span": "Total composite numbers in $[6, 101]$ is 74"
+        }
+      ]
+    },
+    {
+      "num_steps": 6,
+      "errors": [
+        {
+          "type": "E6",
+          "start_step": 5,
+          "span": "Count: There are 25 primes $\\le 101$."
+        }
+      ]
+    },
+    {
+      "num_steps": 7,
+      "errors": []
+    },
+    {
+      "num_steps": 8,
+      "errors": []
+    }
+  ],
+  "2026-I-05": [
+    {
+      "num_steps": 8,
+      "errors": []
+    },
+    {
+      "num_steps": 11,
+      "errors": []
+    },
+    {
+      "num_steps": 10,
+      "errors": []
+    },
+    {
+      "num_steps": 8,
+      "errors": []
+    },
+    {
+      "num_steps": 8,
+      "errors": []
+    },
+    {
+      "num_steps": 9,
+      "errors": []
+    },
+    {
+      "num_steps": 10,
+      "errors": []
+    },
+    {
+      "num_steps": 9,
+      "errors": []
+    }
+  ],
+  "2026-I-06": [
+    {
+      "num_steps": 7,
+      "errors": []
+    },
+    {
+      "num_steps": 8,
+      "errors": []
+    },
+    {
+      "num_steps": 9,
+      "errors": []
+    },
+    {
+      "num_steps": 9,
+      "errors": []
+    },
+    {
+      "num_steps": 8,
+      "errors": []
+    },
+    {
+      "num_steps": 7,
+      "errors": []
+    },
+    {
+      "num_steps": 9,
+      "errors": []
+    },
+    {
+      "num_steps": 11,
+      "errors": []
+    }
+  ],
+  "2026-I-07": [
+    {
+      "num_steps": 5,
+      "errors": []
+    },
+    {
+      "num_steps": 6,
+      "errors": [
+        {
+          "type": "E5",
+          "start_step": 3,
+          "span": "We list all integer solutions:"
+        }
+      ]
+    },
+    {
+      "num_steps": 7,
+      "errors": [
+        {
+          "type": "E5",
+          "start_step": 4,
+          "span": "The possible partitions of 6 using parts from \\{1, 2, 3\\, 6\\} are:"
+        }
+      ]
+    },
+    {
+      "num_steps": 8,
+      "errors": []
+    },
+    {
+      "num_steps": 7,
+      "errors": []
+    },
+    {
+      "num_steps": 7,
+      "errors": [
+        {
+          "type": "E5",
+          "start_step": 4,
+          "span": "Step 4: Enumerate all possible partitions of 6 into parts from the set \\{1, 2, 3, 6\\}. We list the combinations $(n_6, n_3, n_2, n_1)$ that satisfy the equation:\n- Case 1: One cycle of length 6. ($n_6=1$, others 0). Sum = 6.\n- Case 2: Two cycles of length 3. ($n_3=2$, others 0). Sum = 6.\n- Case 3: One cycle of length 3 and one cycle of length 2 and one cycle of length 1. ($n_3=1, n_2=1, n_1=1$). Sum = 3+2+1=6.\n- Case 4: Three cycles of length 2. ($n_2=3$, others 0). Sum = 6.\n- Case 5: Two cycles of length 2 and two cycles of length 1. ($n_2=2, n_1=2$). Sum = 4+2=6.\n- Case 6: One cycle of length 2 and four cycles of length 1. ($n_2=1, n_1=4$). Sum = 2+4=6.\n- Case 7: Six cycles of length 1. ($n_1=6$, others 0). Sum = 6."
+        }
+      ]
+    },
+    {
+      "num_steps": 49,
+      "errors": [
+        {
+          "type": "E6",
+          "start_step": 3,
+          "span": "I missed this in the initial quick list."
+        },
+        {
+          "type": "E6",
+          "start_step": 13,
+          "span": "(1/3+1/3)x^5"
+        }
+      ]
+    },
+    {
+      "num_steps": 6,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 3,
+          "span": "The possible partitions are:"
+        }
+      ]
+    }
+  ],
+  "2026-I-08": [
+    {
+      "num_steps": 9,
+      "errors": []
+    },
+    {
+      "num_steps": 6,
+      "errors": []
+    },
+    {
+      "num_steps": 7,
+      "errors": []
+    },
+    {
+      "num_steps": 7,
+      "errors": []
+    },
+    {
+      "num_steps": 7,
+      "errors": []
+    },
+    {
+      "num_steps": 7,
+      "errors": []
+    },
+    {
+      "num_steps": 5,
+      "errors": []
+    },
+    {
+      "num_steps": 7,
+      "errors": []
+    }
+  ],
+  "2026-I-09": [
+    {
+      "num_steps": 4,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 4,
+          "span": "So $p = \\frac{9}{20}$. "
+        }
+      ]
+    },
+    {
+      "num_steps": 3,
+      "errors": [
+        {
+          "type": "E5",
+          "start_step": 3,
+          "span": "Simplify fraction:\nDivide by 10: $648"
+        }
+      ]
+    },
+    {
+      "num_steps": 5,
+      "errors": [
+        {
+          "type": "E6",
+          "start_step": 5,
+          "span": "Choose 3 values for $\\{x_4, x_5, x_6\\}$ from the remaining 4 faces (excluding $v$)."
+        },
+        {
+          "type": "E5",
+          "start_step": 5,
+          "span": "Choose $x_4, x_6$ distinct from $v$ and each other: $5 \\times 4"
+        }
+      ]
+    },
+    {
+      "num_steps": 5,
+      "errors": []
+    },
+    {
+      "num_steps": 6,
+      "errors": []
+    },
+    {
+      "num_steps": 1,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 1,
+          "span": "- Face $x$ ($r_2$) appears exactly once (at index 2)."
+        },
+        {
+          "type": "E5",
+          "start_step": 1,
+          "span": "- $v$: 2 choices."
+        }
+      ]
+    },
+    {
+      "num_steps": 4,
+      "errors": []
+    },
+    {
+      "num_steps": 8,
+      "errors": []
+    }
+  ],
+  "2026-I-10": [
+    {
+      "num_steps": 2,
+      "errors": [
+        {
+          "type": "E6",
+          "start_step": 2,
+          "span": "So CW order: $A(0), B(106), C(119)$."
+        },
+        {
+          "type": "E5",
+          "start_step": 2,
+          "span": "The differences (CW):\n$A \\to A'$"
+        }
+      ]
+    },
+    {
+      "num_steps": 2,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 2,
+          "span": "direction($AC$) = $\u03b4 + C$ (or similar)."
+        },
+        {
+          "type": "E6",
+          "start_step": 2,
+          "span": "$C' = 2C+2A+C-90 = 360 - B - 90 = 270 - B$."
+        },
+        {
+          "type": "E5",
+          "start_step": 2,
+          "span": "$\\cos(2A+C) = \\cos(180+A-B) ="
+        }
+      ]
+    },
+    {
+      "num_steps": 4,
+      "errors": [
+        {
+          "type": "E5",
+          "start_step": 4,
+          "span": "We just need to calculate the area of these 6 triangles and sum them up."
+        }
+      ]
+    },
+    {
+      "num_steps": 2,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 2,
+          "span": "The area of the hexagon is the sum of the areas of these 6 triangles."
+        },
+        {
+          "type": "E6",
+          "start_step": 2,
+          "span": "Angle of $AC$: $(\\theta_A + \\theta_C)/2 + 90 = (0 + 360-2B)/2 + 90 = 180-B+90 = 270-B \\equiv -B$."
+        },
+        {
+          "type": "E5",
+          "start_step": 2,
+          "span": "Let's assume this interpretation."
+        }
+      ]
+    },
+    {
+      "num_steps": 3,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 3,
+          "span": "We know $\\theta_A - \\theta_B$ corresponds to the arc $AB$, which is $2C$.\nSo $(\\theta_A-\\theta_B)/2 = C$."
+        },
+        {
+          "type": "E2",
+          "start_step": 3,
+          "span": "So $A$ and $B$ are on the same side of line $B'C'$.\nThis violates the condition."
+        },
+        {
+          "type": "E5",
+          "start_step": 3,
+          "span": "$\\theta_4 = C' - B = (C+\\phi) - 0 = C + C -"
+        }
+      ]
+    },
+    {
+      "num_steps": 3,
+      "errors": [
+        {
+          "type": "E5",
+          "start_step": 3,
+          "span": "The rotation angle $\\phi$ must satisfy $\\phi + C = 90^\\circ$ or $\\phi - C = 90^\\circ$ (or negative equivalents)."
+        },
+        {
+          "type": "E6",
+          "start_step": 3,
+          "span": "$\\alpha_2 = 2B - \\phi$."
+        },
+        {
+          "type": "E5",
+          "start_step": 3,
+          "span": "Sum: |\\"
+        }
+      ]
+    },
+    {
+      "num_steps": 3,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 3,
+          "span": "Thus, the angle of the bisector $A+B+\theta$ must be $0^\\circ$ or $180^\\circ$."
+        },
+        {
+          "type": "E6",
+          "start_step": 3,
+          "span": "Then $A'$ is at $(A+2B) + C = 180^\\circ$."
+        },
+        {
+          "type": "E5",
+          "start_step": 3,
+          "span": "The area of the convex hull of two triangles rotated by angle $\\phi$ where one side is perpendicular to the other?"
+        }
+      ]
+    },
+    {
+      "num_steps": 2,
+      "errors": [
+        {
+          "type": "E6",
+          "start_step": 2,
+          "span": "$B' = 3C-90 = 169-90=79$."
+        },
+        {
+          "type": "E5",
+          "start_step": 2,
+          "span": "Diff: $(360-2B) - ("
+        }
+      ]
+    }
+  ],
+  "2026-I-11": [
+    {
+      "num_steps": 16,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 5,
+          "span": "For bipartite graphs, the maximum of $\\sum |a_u - a_v|$ is achieved by such a separation."
+        }
+      ]
+    },
+    {
+      "num_steps": 170,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 90,
+          "span": "Actually, the maximum sum of absolute differences on a graph $G=(V,E)$ with values $1..n$ is $\\sum_{k=1}^{n-1} \\text{max\\_cut}(k)$."
+        }
+      ]
+    },
+    {
+      "num_steps": 180,
+      "errors": [
+        {
+          "type": "E5",
+          "start_step": 21,
+          "span": "To maximize this sum, we should assign the largest possible numbers to one set (say $B$) and the smallest possible numbers to the other set ($W$)."
+        }
+      ]
+    },
+    {
+      "num_steps": 13,
+      "errors": [
+        {
+          "type": "E5",
+          "start_step": 2,
+          "span": "The maximum possible sum is achieved when we partition the vertices into two sets $S_{high}$ and $S_{low}$ such that all edges go between them (which is true for bipartite graphs) and we assign the largest values to one set and smallest to the other."
+        }
+      ]
+    },
+    {
+      "num_steps": 179,
+      "errors": [
+        {
+          "type": "E5",
+          "start_step": 19,
+          "span": "A known result for a bipartite graph (which a grid is) states that the maximum sum of absolute differences is achieved by placing the smallest N/2 numbers on one partition set and the largest N/2 numbers on the other"
+        },
+        {
+          "type": "E2",
+          "start_step": 24,
+          "span": "To maximize \\(M\\), we need to choose the sets \\(S_k\\) such that the cut size is maximized for each \\(k\\)."
+        },
+        {
+          "type": "E6",
+          "start_step": 44,
+          "span": "Total contribution: \\((x-1) d(v)\\)."
+        },
+        {
+          "type": "E6",
+          "start_step": 132,
+          "span": "Contribution: \\(18 \\times 405 = 7290\\)."
+        }
+      ]
+    },
+    {
+      "num_steps": 7,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 2,
+          "span": "The maximum sum is achieved by assigning the smallest numbers to one partition set and the largest numbers to the other, such that every edge connects a small number to a large number."
+        }
+      ]
+    },
+    {
+      "num_steps": 13,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 4,
+          "span": "The maximum possible sum is achieved by this \"bipartite separation\" strategy."
+        }
+      ]
+    },
+    {
+      "num_steps": 9,
+      "errors": [
+        {
+          "type": "E5",
+          "start_step": 4,
+          "span": "To maximize the sum, we should assign the largest 32 numbers ($33$ to $64$) to one set (say $B$) and the smallest 32 numbers ($1$ to $32$) to the other set ($W$)."
+        },
+        {
+          "type": "E4",
+          "start_step": 6,
+          "span": "where $y_k$ is the $k$-th largest value assigned to $B$"
+        }
+      ]
+    }
+  ],
+  "2026-I-12": [
+    {
+      "num_steps": 7,
+      "errors": []
+    },
+    {
+      "num_steps": 9,
+      "errors": [
+        {
+          "type": "E6",
+          "start_step": 5,
+          "span": "Let $k = \frac{1}{\\sqrt{a^2+b^2+c^2}}$. Then $ax_i + by_i + cz_i + d = k R_i$."
+        },
+        {
+          "type": "E2",
+          "start_step": 5,
+          "span": "Since $K$ cannot be zero (otherwise radii would be undefined or all zero), we can divide by $K$:"
+        }
+      ]
+    },
+    {
+      "num_steps": 11,
+      "errors": []
+    },
+    {
+      "num_steps": 10,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 5,
+          "span": "Assuming the plane is above the spheres (so $z_{plane} > z_{center}$), we have $mx_i + ny_i - r_i + k = -r_i \\sqrt{m^2+n^2+1}$."
+        }
+      ]
+    },
+    {
+      "num_steps": 9,
+      "errors": []
+    },
+    {
+      "num_steps": 12,
+      "errors": [
+        {
+          "type": "E5",
+          "start_step": 5,
+          "span": "assuming it's not vertical, which it can't be if it touches spheres of different radii at different heights unless it's horizontal"
+        },
+        {
+          "type": "E2",
+          "start_step": 5,
+          "span": "Since $K \\neq 0$ (otherwise radii would be 0), we can divide by $K$"
+        }
+      ]
+    },
+    {
+      "num_steps": 12,
+      "errors": [
+        {
+          "type": "E6",
+          "start_step": 10,
+          "span": "Then $mx_i + ny_i + (n_{coeff}-1)R_i + c = 0$? No."
+        }
+      ]
+    },
+    {
+      "num_steps": 10,
+      "errors": []
+    }
+  ],
+  "2026-I-13": [
+    {
+      "num_steps": 3,
+      "errors": [
+        {
+          "type": "E6",
+          "start_step": 3,
+          "span": "Let \\(N = A(p-1) + B\\), where \\(0 \\le B < p-1\\).\nHere \\(A = 19\\), \\(B = 443\\)."
+        },
+        {
+          "type": "E2",
+          "start_step": 3,
+          "span": "If \\(x = -1\\), then \\((1+x)^N = 0^N = 0\\) (since \\(N > 0\\)).\nSo for all \\(x \\in \\mathbb{F}_p^*\\), \\((1+x)^N \\equiv (1+x)^B \\pmod p\\)."
+        },
+        {
+          "type": "E5",
+          "start_step": 3,
+          "span": "Sum over \\(x=1,"
+        }
+      ]
+    },
+    {
+      "num_steps": 2,
+      "errors": [
+        {
+          "type": "E6",
+          "start_step": 2,
+          "span": "10,000 = 19 \u00d7 503 + 463"
+        }
+      ]
+    },
+    {
+      "num_steps": 3,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 3,
+          "span": "Thus $S_r = S_{N-r}$."
+        },
+        {
+          "type": "E5",
+          "start_step": 3,
+          "span": "Maybe the answer is 1? Or 0? Or 502?"
+        }
+      ]
+    },
+    {
+      "num_steps": 8,
+      "errors": [
+        {
+          "type": "E6",
+          "start_step": 5,
+          "span": "10000 / 503 = 19 with remainder 463."
+        },
+        {
+          "type": "E6",
+          "start_step": 6,
+          "span": "since \\(p=503 > \binom{462}{r}\\)"
+        }
+      ]
+    },
+    {
+      "num_steps": 7,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 2,
+          "span": "Thus, $S_r \\equiv 0 \\pmod p$ if and only if\n\\[ \\sum_{j=0}^{p-2} \\omega^{-rj} (1 + \\omega^j)^n \\equiv 0 \\pmod p \\]"
+        },
+        {
+          "type": "E6",
+          "start_step": 3,
+          "span": "Note that $10,000 = 19 \times 502 + 482$."
+        },
+        {
+          "type": "E6",
+          "start_step": 4,
+          "span": "$S_r \\equiv -\binom{462}{r} \\pmod p$ for $0 \\le r \\le 462$."
+        }
+      ]
+    },
+    {
+      "num_steps": 3,
+      "errors": [
+        {
+          "type": "E6",
+          "start_step": 2,
+          "span": "10000 = 19 \\times 503 + 483"
+        },
+        {
+          "type": "E5",
+          "start_step": 3,
+          "span": "Let \\(z = y-1\\)"
+        }
+      ]
+    },
+    {
+      "num_steps": 6,
+      "errors": [
+        {
+          "type": "E6",
+          "start_step": 2,
+          "span": "Note that \\(N = 20M\\)."
+        },
+        {
+          "type": "E2",
+          "start_step": 6,
+          "span": "If $r>0$, this is 0."
+        },
+        {
+          "type": "E5",
+          "start_step": 6,
+          "span": "We found earlier that $(1+\\omega^j)^N \\equiv (1+\\omega^j"
+        }
+      ]
+    },
+    {
+      "num_steps": 3,
+      "errors": [
+        {
+          "type": "E6",
+          "start_step": 2,
+          "span": "the exponent \\(i+r-N\\) ranges from \\(-N\\) to \\(N+p-2\\)."
+        }
+      ]
+    }
+  ],
+  "2026-I-14": [
+    {
+      "num_steps": 5,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 1,
+          "span": "In an equiangular pentagon, the diagonals are parallel to the opposite sides."
+        }
+      ]
+    },
+    {
+      "num_steps": 13,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 1,
+          "span": "In an equiangular pentagon, opposite sides are parallel."
+        }
+      ]
+    },
+    {
+      "num_steps": 1,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 1,
+          "span": "Since $\\sqrt{5}$ is irrational, the coefficients must be zero?"
+        },
+        {
+          "type": "E5",
+          "start_step": 1,
+          "span": "Sum of"
+        }
+      ]
+    },
+    {
+      "num_steps": 5,
+      "errors": []
+    },
+    {
+      "num_steps": 6,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 1,
+          "span": "A known property of equiangular pentagons is that opposite sides are parallel if we consider the directions."
+        }
+      ]
+    },
+    {
+      "num_steps": 2,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 1,
+          "span": "In an equiangular pentagon, opposite sides are parallel."
+        },
+        {
+          "type": "E5",
+          "start_step": 2,
+          "span": "P^2 = S_2 (2\\phi - 1) + D_2(4\\phi - 2) - 2S_2(4\\phi -"
+        }
+      ]
+    },
+    {
+      "num_steps": 19,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 1,
+          "span": "In an equiangular pentagon, the diagonals are parallel to the sides."
+        }
+      ]
+    },
+    {
+      "num_steps": 5,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 5,
+          "span": "So the pentagon is not regular. The side lengths are distinct."
+        },
+        {
+          "type": "E5",
+          "start_step": 5,
+          "span": "Let's assume the question is correct and I am missing something."
+        }
+      ]
+    }
+  ],
+  "2026-I-15": [
+    {
+      "num_steps": 2,
+      "errors": [
+        {
+          "type": "E5",
+          "start_step": 2,
+          "span": "It seems the only valid partitions of an $N \u00d7 N$ square into $k$ loops where each loop is a frame are:"
+        },
+        {
+          "type": "E2",
+          "start_step": 2,
+          "span": "The $4 \u00d7 10$ loop occupies rows 1-4 (if placed at top). Remaining is $6 \u00d7 10$."
+        }
+      ]
+    },
+    {
+      "num_steps": 3,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 2,
+          "span": "any partition of a rectangle into rectangular loops must be \"nested\""
+        },
+        {
+          "type": "E5",
+          "start_step": 3,
+          "span": "We established that splitting the grid into two parts (e.g., $10 \\times 5$ and $10 \\times 5$) doesn't seem to yield a full partition with 5 loops because the area constraints don't work out for sub-rectangles."
+        }
+      ]
+    },
+    {
+      "num_steps": 3,
+      "errors": [
+        {
+          "type": "E6",
+          "start_step": 3,
+          "span": "An $8 \\times 6$ loop has area $2(8)+2(6)-4 = 28$."
+        },
+        {
+          "type": "E5",
+          "start_step": 3,
+          "span": "Let's assume the \"concentric squares\" is the only non-solid solution."
+        }
+      ]
+    },
+    {
+      "num_steps": 2,
+      "errors": [
+        {
+          "type": "E6",
+          "start_step": 2,
+          "span": "\\sum_{i=1}^5 (x_i + y_i) = 50"
+        },
+        {
+          "type": "E1",
+          "start_step": 2,
+          "span": "So, the structure must be nested."
+        },
+        {
+          "type": "E5",
+          "start_step": 2,
+          "span": "We need to fit four rectangles of size $2 \\times k_i"
+        }
+      ]
+    },
+    {
+      "num_steps": 2,
+      "errors": [
+        {
+          "type": "E1",
+          "start_step": 2,
+          "span": "The key insight for partitioning a rectangular grid into loops is that the loops must be \"nested\" or arranged in a specific way, but since they are disjoint and cover the whole grid, they likely correspond to a decomposition of the grid into concentric rectangular rings."
+        },
+        {
+          "type": "E2",
+          "start_step": 2,
+          "span": "If m is even, m-2 is even. So we reduce to a smaller rectangle with an even dimension. Eventually we reach a 2 \u00d7 k or k \u00d7 2, which works as one loop."
+        },
+        {
+          "type": "E5",
+          "start_step": 2,
+          "span": "Are there other configurations?"
+        }
+      ]
+    },
+    {
+      "num_steps": 2,
+      "errors": [
+        {
+          "type": "E5",
+          "start_step": 2,
+          "span": "It seems that the only way to partition a rectangle into loops is if the loops are nested concentric squares (or rectangles where the inner ones fit perfectly in the holes)."
+        }
+      ]
+    },
+    {
+      "num_steps": 3,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 3,
+          "span": "The only way to partition a rectangle into cell loops is if one loop forms the outer boundary of the current rectangle, and the remaining inner rectangle is partitioned recursively."
+        },
+        {
+          "type": "E2",
+          "start_step": 3,
+          "span": "Thus, for a partition to exist, every sub-rectangle in the decomposition must have even dimensions."
+        },
+        {
+          "type": "E4",
+          "start_step": 3,
+          "span": "It seems any rectangle with an odd dimension cannot be fully partitioned into loops because the \"oddness\" propagates down to a dimension of 1, which cannot contain a loop."
+        },
+        {
+          "type": "E5",
+          "start_step": 3,
+          "span": "where each rectangle is either:\n1. A single loop (if dimensions are such that it can be one loop? No, a rectangle is a loop only if it's $2 \\times k$ or $k \\times 2$? No, any $a \\times b$ with $a,b \\geq 2$ is a loop shape, but to partition the *"
+        }
+      ]
+    },
+    {
+      "num_steps": 3,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 3,
+          "span": "The outermost loop must be $10 \\times 10$ because if it were smaller"
+        },
+        {
+          "type": "E2",
+          "start_step": 3,
+          "span": "The only way to fill a rectangular region with disjoint loops is if they are nested or if the loops are \"solid\" ($2 \\times k$) and arranged in a grid-like fashion?"
+        },
+        {
+          "type": "E2",
+          "start_step": 3,
+          "span": "In the $8 \\times 10$ region (cols 3-10), can we place four $2 \\times 10$ loops?\n   Yes, rows 1-2, 3-4, 5-6, 7-8."
+        },
+        {
+          "type": "E5",
+          "start_step": 3,
+          "span": "Possible combinations of areas:\n1. $36 + 28 + 20 + 12 + 4 = 100$.\n2. $20 + 20 + 20 + 20 + 20 = 100$."
+        },
+        {
+          "type": "E5",
+          "start_step": 3,
+          "span": "Possible areas: 4, 6"
+        }
+      ]
+    }
+  ],
+  "2026-II-01": [
+    {
+      "num_steps": 7,
+      "errors": []
+    },
+    {
+      "num_steps": 10,
+      "errors": []
+    },
+    {
+      "num_steps": 7,
+      "errors": []
+    },
+    {
+      "num_steps": 7,
+      "errors": []
+    },
+    {
+      "num_steps": 8,
+      "errors": []
+    },
+    {
+      "num_steps": 7,
+      "errors": []
+    },
+    {
+      "num_steps": 7,
+      "errors": []
+    },
+    {
+      "num_steps": 8,
+      "errors": []
+    }
+  ],
+  "2026-II-02": [
+    {
+      "num_steps": 2,
+      "errors": [
+        {
+          "type": "E1",
+          "start_step": 2,
+          "span": "Let $x_j$ be the number of paths ending at $(0, j)$.\nLet $y_j$ be the number of paths ending at $(1, j)$."
+        },
+        {
+          "type": "E5",
+          "start_step": 2,
+          "span": "So the recurrence is:"
+        }
+      ]
+    },
+    {
+      "num_steps": 2,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 2,
+          "span": "Options:\n  - Go $(1, c) \\to (1, c+1)$ directly.\n  - Go $(1, c) \\to (0, c) \\to (0, c+1)$. (Switch down, then right).\n  - Can we go diagonal from $(1, c)$? No, diagonals are only $(0, k) \\to (1, k+1)$."
+        },
+        {
+          "type": "E5",
+          "start_step": 2,
+          "span": "Let's call"
+        }
+      ]
+    },
+    {
+      "num_steps": 1,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 1,
+          "span": "\"never traversing a segment twice\" allows revisiting vertices if there are multiple edges, but here between any two vertices there is at most one edge. So no repeated vertices either."
+        },
+        {
+          "type": "E2",
+          "start_step": 1,
+          "span": "z_{c+1} = y_c"
+        }
+      ]
+    },
+    {
+      "num_steps": 5,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 2,
+          "span": "$a_{x+1} = a_x + b_x$"
+        },
+        {
+          "type": "E3",
+          "start_step": 5,
+          "span": "- Recurrence: $a_n = 2a_{n-1} + a_{n-2}$"
+        }
+      ]
+    },
+    {
+      "num_steps": 7,
+      "errors": [
+        {
+          "type": "E1",
+          "start_step": 1,
+          "span": "- Vertical: $(0, c) \\to (1, c)$ for $c=0, \\dots, 10$."
+        }
+      ]
+    },
+    {
+      "num_steps": 2,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 2,
+          "span": "$v_{i+1} = 2u_i + 2v_i + w_i = 3u_i + 2v_i$"
+        },
+        {
+          "type": "E5",
+          "start_step": 2,
+          "span": "No edge $T_"
+        }
+      ]
+    },
+    {
+      "num_steps": 6,
+      "errors": [
+        {
+          "type": "E1",
+          "start_step": 1,
+          "span": "there are no downward moves allowed (implied by the structure of squares and the diagonal direction)"
+        },
+        {
+          "type": "E5",
+          "start_step": 6,
+          "span": "Looks like $N_n = 2n+1$?"
+        }
+      ]
+    },
+    {
+      "num_steps": 1,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 1,
+          "span": "From $(2, c)$:\n1. Go directly to $(2, c+1)$ (horizontal).\n2. Go vertical to $(1, c)$, then horizontal to $(1, c+1)$ (vertical + horizontal)."
+        },
+        {
+          "type": "E6",
+          "start_step": 1,
+          "span": "$u_{k+1} + v_{k+1} = (u_k + v_k) + (2u_k + v_k) = S_k + 2u_k$."
+        }
+      ]
+    }
+  ],
+  "2026-II-03": [
+    {
+      "num_steps": 5,
+      "errors": [
+        {
+          "type": "E5",
+          "start_step": 2,
+          "span": "Since C must have an x-coordinate between 0 and 20, the direction must be $315^\\circ$ (or $-45^\\circ$)."
+        }
+      ]
+    },
+    {
+      "num_steps": 6,
+      "errors": []
+    },
+    {
+      "num_steps": 10,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 2,
+          "span": "Since $C$ connects to $D$ which is at $x=20$, and $B$ is at $x=0$, $C$ must have $x > 0$."
+        },
+        {
+          "type": "E6",
+          "start_step": 10,
+          "span": "$d = b - 52$"
+        },
+        {
+          "type": "E5",
+          "start_step": 10,
+          "span": "However, usually in such problems with \"nonconvex pentagon\" and specific angles, the configuration is unique up to reflection."
+        }
+      ]
+    },
+    {
+      "num_steps": 10,
+      "errors": [
+        {
+          "type": "E5",
+          "start_step": 2,
+          "span": "Let's try the direction where $BC$ goes down and right."
+        },
+        {
+          "type": "E2",
+          "start_step": 3,
+          "span": "Since there is a right turn at $D$ while the rest are left turns (assuming CCW), the polygon is nonconvex."
+        }
+      ]
+    },
+    {
+      "num_steps": 5,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 2,
+          "span": "If we turn left (counter-clockwise) by $180 - 45 = 135^\\circ$, the direction of $\\vec{BC}$ would be $270 + 135 = 405 \\equiv 45^\\circ$."
+        },
+        {
+          "type": "E5",
+          "start_step": 2,
+          "span": "Thus, only the first configuration (Case 1 with $d=x-8$) is valid."
+        }
+      ]
+    },
+    {
+      "num_steps": 7,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 5,
+          "span": "So $x \\in \\{9, 13, 17, \\dots, 2025\\}$."
+        }
+      ]
+    },
+    {
+      "num_steps": 6,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 2,
+          "span": "So line $CD$ has slope $-1$."
+        },
+        {
+          "type": "E6",
+          "start_step": 5,
+          "span": "Area$= -\\frac{1}{2} S = \\frac{1}{4}(x-y_D)^2 - 10(x+y_D) - 100$."
+        },
+        {
+          "type": "E5",
+          "start_step": 6,
+          "span": "Let's re-evaluate the geometry."
+        }
+      ]
+    },
+    {
+      "num_steps": 9,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 2,
+          "span": "The interior is to the left of $DE$ (since $x < 20$)."
+        }
+      ]
+    }
+  ],
+  "2026-II-04": [
+    {
+      "num_steps": 7,
+      "errors": []
+    },
+    {
+      "num_steps": 10,
+      "errors": []
+    },
+    {
+      "num_steps": 8,
+      "errors": []
+    },
+    {
+      "num_steps": 7,
+      "errors": []
+    },
+    {
+      "num_steps": 7,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 2,
+          "span": "so $b = 9+1=10$"
+        }
+      ]
+    },
+    {
+      "num_steps": 8,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 2,
+          "span": "Since all coefficients $d_i$ are non-negative and at least one is positive (as $n$ is a positive integer), $g(x)$ is a strictly increasing function for $x \\ge 0$."
+        }
+      ]
+    },
+    {
+      "num_steps": 6,
+      "errors": []
+    },
+    {
+      "num_steps": 4,
+      "errors": []
+    }
+  ],
+  "2026-II-05": [
+    {
+      "num_steps": 48,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 12,
+          "span": "$$\\frac{5!}{4!} \\cdot \\frac{(r-4)!}{(r-5)!} = \\frac{3!}{2!} \\cdot \\frac{(b-2)!}{(b-3)!}$$"
+        }
+      ]
+    },
+    {
+      "num_steps": 37,
+      "errors": []
+    },
+    {
+      "num_steps": 66,
+      "errors": []
+    },
+    {
+      "num_steps": 34,
+      "errors": []
+    },
+    {
+      "num_steps": 40,
+      "errors": [
+        {
+          "type": "E6",
+          "start_step": 13,
+          "span": "$$5(r-4) = 3(b-2)$$"
+        }
+      ]
+    },
+    {
+      "num_steps": 57,
+      "errors": []
+    },
+    {
+      "num_steps": 83,
+      "errors": [
+        {
+          "type": "E6",
+          "start_step": 14,
+          "span": "$$\\frac{5!}{4!} \\cdot \\frac{(r-4)!}{(r-5)!} \\cdot \\frac{3!}{2!} \\cdot \\frac{(b-2)!}{(b-3)!} = 1$$"
+        }
+      ]
+    },
+    {
+      "num_steps": 49,
+      "errors": []
+    }
+  ],
+  "2026-II-06": [
+    {
+      "num_steps": 13,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 4,
+          "span": "The circle touches the parabola at exactly one point (the vertex)"
+        }
+      ]
+    },
+    {
+      "num_steps": 5,
+      "errors": []
+    },
+    {
+      "num_steps": 9,
+      "errors": [
+        {
+          "type": "E6",
+          "start_step": 3,
+          "span": "The circle with $r=41$ has points with $y \\ge -2$ (since center is at 39, bottom is -2)"
+        }
+      ]
+    },
+    {
+      "num_steps": 11,
+      "errors": []
+    },
+    {
+      "num_steps": 7,
+      "errors": [
+        {
+          "type": "E6",
+          "start_step": 6,
+          "span": "For $u < -\\sqrt{80}$, $f'(u) > 0$ (increasing)."
+        }
+      ]
+    },
+    {
+      "num_steps": 6,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 3,
+          "span": "Thus, they touch at exactly one point $(4, -2)$ and do not cross."
+        }
+      ]
+    },
+    {
+      "num_steps": 5,
+      "errors": [
+        {
+          "type": "E6",
+          "start_step": 4,
+          "span": "1444 - 2888 + 1525 = 2809 - 2888"
+        }
+      ]
+    },
+    {
+      "num_steps": 6,
+      "errors": []
+    }
+  ],
+  "2026-II-07": [
+    {
+      "num_steps": 16,
+      "errors": []
+    },
+    {
+      "num_steps": 7,
+      "errors": []
+    },
+    {
+      "num_steps": 4,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 2,
+          "span": "Let $Q(i,j)$ be the probability of success given that we are in state $(i,j)$ and we have *not* yet rolled a C.\nThe probability of moving from $(i,j)$ to a next state without rolling a C is $2/3$.\nGiven that a non-C roll occurs, it is A with prob $1/2$ and B with prob $1/2$.\nSo, $Q(i,j) = \\frac{1}{2} Q(i+1, j) + \\frac{1}{2} Q(i, j+1)$"
+        },
+        {
+          "type": "E6",
+          "start_step": 2,
+          "span": "Then from (1,2), roll A (prob 1/3). Total prob for this branch: $3 \\times (1/3)^4 = 3/81 = 1/27$.\nPaths to (2,1): Must have exactly 2 A's and 1 B, ending with A.\nSequences of length 3 with 2 A's, 1 B: AAB, ABA, BAA.\nNumber: $\\binom{3}{1} = 3$.\nThen from (2,1), roll B (prob 1/3). Total prob: $3 \\times (1/3)^4 = 1/27$.\nTotal so far: $2/27$.\n\nNow consider paths that go through more steps.\nWe need to reach (2,2) eventually.\nThis is equivalent to summing over all valid sequences of A's and B's that end exactly when the condition is met.\nLet $N(k)$ be the number of valid sequences of length $k$.\nLength 4: Must have 2 A's and 2 B's. Last roll makes it (2,2).\nSo first 3 rolls must have either (1 A, 2 B) or (2 A, 1 B).\nIf first 3 are (1 A, 2 B): Permutations of ABB: ABB, BAB, BBA. (3 sequences).\nThen roll A. Total 3 sequences of length 4.\nIf first 3 are (2 A, 1 B): Permutations of AAB: AAB, ABA, BAA. (3 sequences).\nThen roll B. Total 3 sequences of length 4.\nTotal length 4: 6 sequences. Prob $6 \\times (1/3)^4 = 6/81 = 2/27$."
+        }
+      ]
+    },
+    {
+      "num_steps": 4,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 4,
+          "span": "$P_{1,2}$: $3 P_{1,2} = P_{2,2} + P_{1,3} = 1 + 1 = 2$"
+        },
+        {
+          "type": "E3",
+          "start_step": 4,
+          "span": "$P_{1,3}$: $3 P_{1,3} = P_{2,3} + P_{1,4} = 1 + 1 = 2$"
+        }
+      ]
+    },
+    {
+      "num_steps": 5,
+      "errors": []
+    },
+    {
+      "num_steps": 6,
+      "errors": [
+        {
+          "type": "E6",
+          "start_step": 6,
+          "span": "$P(k=4) = (2/3)^4 (1/3) x_4 = \\frac{16}{81} \\cdot \\frac{1}{3} \\cdot \\frac{3}{8} = \\frac{2}{27}$"
+        },
+        {
+          "type": "E3",
+          "start_step": 6,
+          "span": "Let's re-calculate the terms in the sum $S_1 - S_2$.\nTerm $k$: $(2/3)^k (1/3) x_k$.\n$k=4$: $(2/3)^4 (1/3) (3/8) = 2/27$"
+        }
+      ]
+    },
+    {
+      "num_steps": 10,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 3,
+          "span": "The number of rolls is 4. Why? Because we need 2 A's and 2 B's."
+        }
+      ]
+    },
+    {
+      "num_steps": 3,
+      "errors": [
+        {
+          "type": "E6",
+          "start_step": 3,
+          "span": "The sequences are: BBBA, BABA, ABBA."
+        },
+        {
+          "type": "E2",
+          "start_step": 3,
+          "span": "The condition is met when we have exactly 2 A's and 2 B's."
+        },
+        {
+          "type": "E6",
+          "start_step": 3,
+          "span": "The number of paths to (1, k) is \\binom{k}{1} = k."
+        },
+        {
+          "type": "E6",
+          "start_step": 3,
+          "span": "= \\frac{x}{(1-x)^2} - \\frac{1}{1-x} = \\frac{2x-1}{(1-x)^2}"
+        }
+      ]
+    }
+  ],
+  "2026-II-08": [
+    {
+      "num_steps": 888,
+      "errors": [
+        {
+          "type": "E3",
+          "start_step": 49,
+          "span": "Let's try $u=125$ again? No."
+        },
+        {
+          "type": "E5",
+          "start_step": 65,
+          "span": "Let's try to find an integer solution for $u$."
+        }
+      ]
+    },
+    {
+      "num_steps": 67,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 29,
+          "span": "Since the sides are integers, $y/x = \\frac{1-2u^2}{u^2}$ must be rational. Let $u = p/q$ in lowest terms."
+        }
+      ]
+    },
+    {
+      "num_steps": 102,
+      "errors": []
+    },
+    {
+      "num_steps": 7,
+      "errors": []
+    },
+    {
+      "num_steps": 12,
+      "errors": []
+    },
+    {
+      "num_steps": 9,
+      "errors": [
+        {
+          "type": "E6",
+          "start_step": 3,
+          "span": "4x^3 + 2x^2 - 2x + (1 - \\frac{6}{125}) = 0"
+        }
+      ]
+    },
+    {
+      "num_steps": 8,
+      "errors": [
+        {
+          "type": "E5",
+          "start_step": 4,
+          "span": "So $u = 7/5$ is a root.\nThus $x = u/2 = 7/10$."
+        }
+      ]
+    },
+    {
+      "num_steps": 119,
+      "errors": [
+        {
+          "type": "E6",
+          "start_step": 67,
+          "span": "$250m^3 + 250m^2 - 250m - 119 = 0$."
+        },
+        {
+          "type": "E5",
+          "start_step": 96,
+          "span": "So $p/q = 7/10$."
+        }
+      ]
+    }
+  ],
+  "2026-II-09": [
+    {
+      "num_steps": 8,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 4,
+          "span": "Even if $d(m)$ were as large as 20 for all subsequent terms (which is false, max $d(m)$ for $m<1000$ is 32), the sum would be roughly $20 \\times 10^{-9} / (1-0.1) \\approx 2 \\times 10^{-8}$, which is negligible."
+        }
+      ]
+    },
+    {
+      "num_steps": 8,
+      "errors": [
+        {
+          "type": "E5",
+          "start_step": 3,
+          "span": "The sum is clearly much less than 1."
+        }
+      ]
+    },
+    {
+      "num_steps": 7,
+      "errors": [
+        {
+          "type": "E5",
+          "start_step": 5,
+          "span": "$R = \frac{2}{10} + \frac{8}{100} + \frac{2}{1000} + \\dots < 0.3$"
+        }
+      ]
+    },
+    {
+      "num_steps": 7,
+      "errors": [
+        {
+          "type": "E5",
+          "start_step": 3,
+          "span": "The sum is clearly less than $0.3$."
+        },
+        {
+          "type": "E2",
+          "start_step": 3,
+          "span": "$d(m) \\le 16$ for all $m \\ge 101$"
+        }
+      ]
+    },
+    {
+      "num_steps": 8,
+      "errors": [
+        {
+          "type": "E5",
+          "start_step": 3,
+          "span": "$R \\approx 0.2 + 0.08 + 0.002 + 0.0008 + \\dots < 0.3$"
+        }
+      ]
+    },
+    {
+      "num_steps": 8,
+      "errors": [
+        {
+          "type": "E5",
+          "start_step": 4,
+          "span": "The remaining terms are extremely small. The sum is definitely less than $1$."
+        },
+        {
+          "type": "E6",
+          "start_step": 4,
+          "span": "m=106, d(106)=4 \\implies 0.00004"
+        },
+        {
+          "type": "E2",
+          "start_step": 5,
+          "span": "corresponds to the sequence $d(1), d(2), \\dots, d(100)$."
+        }
+      ]
+    },
+    {
+      "num_steps": 7,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 4,
+          "span": "F = \\sum_{k=101}^\\infty \\frac{10^{100}}{10^k-1}."
+        },
+        {
+          "type": "E6",
+          "start_step": 4,
+          "span": "d(108)=12, d(109)=2, d(110)=8.\\n\\tSum of first 10 terms:\\n$0.2 + 0.08 + 0.002 + 0.0008 + 0.00008 + 0.000004 + 0.0000002 + 0.0000012 + 0.00000002 + 0.00000008 = 0.282885496$."
+        },
+        {
+          "type": "E6",
+          "start_step": 4,
+          "span": "32 (for 720, but we are at 100+)"
+        }
+      ]
+    },
+    {
+      "num_steps": 8,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 3,
+          "span": "Even if we assume a loose upper bound like \\(d(m) \\le m\\), the sum \\(\\sum_{k=1}^{\\infty} (100+k) 10^{-k}\\) is clearly less than 1."
+        },
+        {
+          "type": "E6",
+          "start_step": 3,
+          "span": "The sum is roughly \\(0.02 + 0.008 + 0.0002 + \\dots \\approx 0.03\\)."
+        },
+        {
+          "type": "E2",
+          "start_step": 4,
+          "span": "For the last three digits (modulo 1000), we only care about terms where \\(10^{100-m} \\ge 10^0 = 1\\), i.e., \\(100-m \\le 2\\)"
+        },
+        {
+          "type": "E5",
+          "start_step": 7,
+          "span": "Sum $\\approx 0.2 + 0.08 + 0.002 + 0.0008 + \\dots < 0.3$."
+        }
+      ]
+    }
+  ],
+  "2026-II-10": [
+    {
+      "num_steps": 6,
+      "errors": []
+    },
+    {
+      "num_steps": 7,
+      "errors": []
+    },
+    {
+      "num_steps": 62,
+      "errors": []
+    },
+    {
+      "num_steps": 58,
+      "errors": []
+    },
+    {
+      "num_steps": 6,
+      "errors": []
+    },
+    {
+      "num_steps": 8,
+      "errors": [
+        {
+          "type": "E6",
+          "start_step": 8,
+          "span": "$AE = 72$, $AF = 81$, $BD = 320$, $CD = 360$"
+        }
+      ]
+    },
+    {
+      "num_steps": 7,
+      "errors": []
+    },
+    {
+      "num_steps": 5,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 4,
+          "span": "Actually, a known property for this specific configuration (tangent at $D$, bisector $AD$) is that $AE = AF$."
+        }
+      ]
+    }
+  ],
+  "2026-II-11": [
+    {
+      "num_steps": 6,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 3,
+          "span": "Since $u,v,w$ are distinct and non-zero, $a,b,c$ are distinct."
+        }
+      ]
+    },
+    {
+      "num_steps": 9,
+      "errors": [
+        {
+          "type": "E6",
+          "start_step": 5,
+          "span": "Product $= ((u^2+v^2-w^2)+2uv)((u^2+v^2-w^2)-2uv) = (u^2+v^2-w^2)^2 - 4u^2v^2."
+        },
+        {
+          "type": "E5",
+          "start_step": 8,
+          "span": "Both values yield distinct roots."
+        }
+      ]
+    },
+    {
+      "num_steps": 7,
+      "errors": [
+        {
+          "type": "E5",
+          "start_step": 7,
+          "span": "Analysis shows the roots are distinct for both cases."
+        }
+      ]
+    },
+    {
+      "num_steps": 3,
+      "errors": [
+        {
+          "type": "E5",
+          "start_step": 1,
+          "span": "Check $P(11/3)$: likely non-zero."
+        }
+      ]
+    },
+    {
+      "num_steps": 153,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 13,
+          "span": "This implies that exactly one of the 8 sign combinations yields a sum of 0."
+        },
+        {
+          "type": "E2",
+          "start_step": 21,
+          "span": "Since $abc = 400 > 0$, either all three $a,b,c$ are positive, or one is positive and two are negative."
+        }
+      ]
+    },
+    {
+      "num_steps": 195,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 37,
+          "span": "In either case, there are exactly 4 possible values for the sum y = \u03b1 + \u03b2 + \u03b3 derived from a specific assignment of square roots."
+        },
+        {
+          "type": "E5",
+          "start_step": 136,
+          "span": "This seems more complex."
+        }
+      ]
+    },
+    {
+      "num_steps": 10,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 4,
+          "span": "This occurs if and only if one of the sums is zero (making it equal to its negation), while all other magnitudes are non-zero and distinct."
+        }
+      ]
+    },
+    {
+      "num_steps": 170,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 107,
+          "span": "Since $\u03c3_2 = 121 > 0$, the sum of squares of differences is positive, so roots are distinct."
+        }
+      ]
+    }
+  ],
+  "2026-II-12": [
+    {
+      "num_steps": 12,
+      "errors": []
+    },
+    {
+      "num_steps": 7,
+      "errors": []
+    },
+    {
+      "num_steps": 7,
+      "errors": []
+    },
+    {
+      "num_steps": 9,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 1,
+          "span": "the midpoints of opposite edges coincide with the center of the circumscribed sphere and the inscribed sphere"
+        }
+      ]
+    },
+    {
+      "num_steps": 7,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 1,
+          "span": "The tetrahedron can be inscribed in a rectangular box (cuboid) such that the edges of the tetrahedron are the diagonals of the faces of the box."
+        },
+        {
+          "type": "E6",
+          "start_step": 4,
+          "span": "Thus $|-5z_r - 30| = -( -5z_r - 30 ) = 5z_r + 30$?"
+        }
+      ]
+    },
+    {
+      "num_steps": 12,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 1,
+          "span": "all four faces are congruent isosceles triangles"
+        },
+        {
+          "type": "E2",
+          "start_step": 2,
+          "span": "Thus, the line segment CD is perpendicular to the plane of symmetry containing the perpendicular bisector of AB."
+        }
+      ]
+    },
+    {
+      "num_steps": 10,
+      "errors": []
+    },
+    {
+      "num_steps": 12,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 1,
+          "span": "where the midpoints of opposite edges coincide."
+        },
+        {
+          "type": "E2",
+          "start_step": 2,
+          "span": "the lines containing $AB$ and $CD$ are perpendicular and bisect each other."
+        }
+      ]
+    }
+  ],
+  "2026-II-13": [
+    {
+      "num_steps": 184,
+      "errors": [
+        {
+          "type": "E5",
+          "start_step": 184,
+          "span": "$p"
+        }
+      ]
+    },
+    {
+      "num_steps": 187,
+      "errors": [
+        {
+          "type": "E5",
+          "start_step": 187,
+          "span": "Since"
+        }
+      ]
+    },
+    {
+      "num_steps": 230,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 134,
+          "span": "The condition is that every connected component of \\(U\\) (intervals of consecutive integers) have even length."
+        },
+        {
+          "type": "E5",
+          "start_step": 230,
+          "span": "Number of valid sequences of length \\(k\\) with no \"10\" pattern?"
+        }
+      ]
+    },
+    {
+      "num_steps": 188,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 10,
+          "span": "Thus, any connected component of $U$ (which is a set of consecutive integers) must have an even number of elements to allow for a perfect matching where endpoints are in different sets?"
+        },
+        {
+          "type": "E2",
+          "start_step": 89,
+          "span": "Since $|s_i - s_j| \\ge 1$, and the RHS is even, this can only happen if $s_i$ and $s_j$ have different parity? No."
+        },
+        {
+          "type": "E5",
+          "start_step": 188,
+          "span": "- Pairs"
+        }
+      ]
+    },
+    {
+      "num_steps": 1,
+      "errors": [
+        {
+          "type": "E5",
+          "start_step": 1,
+          "span": "Actually, the problem asks for the *least* number of elements $n$ such that there exists a set"
+        }
+      ]
+    },
+    {
+      "num_steps": 184,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 53,
+          "span": "So, the condition for a set $S$ to have *at least one* cousin is that $S$ contains no three consecutive integers."
+        }
+      ]
+    },
+    {
+      "num_steps": 235,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 46,
+          "span": "This implies that if $s_1$ maps to $t$, then $t$ must map to $s_1$."
+        },
+        {
+          "type": "E2",
+          "start_step": 53,
+          "span": "Actually, for a set of integers $U$, the number of perfect matchings using edges $(k, k+1)$ is related to the Fibonacci numbers if $U$ is an interval."
+        },
+        {
+          "type": "E2",
+          "start_step": 113,
+          "span": "$k+2$ must be paired with $k+3$."
+        },
+        {
+          "type": "E6",
+          "start_step": 107,
+          "span": "So 2 cousins."
+        },
+        {
+          "type": "E5",
+          "start_step": 235,
+          "span": "If 1->0, 4->5."
+        }
+      ]
+    },
+    {
+      "num_steps": 163,
+      "errors": [
+        {
+          "type": "E5",
+          "start_step": 163,
+          "span": "What about $\\{1, 2, 4\\}$? (Type 2 + Type 1, gap 1)."
+        }
+      ]
+    }
+  ],
+  "2026-II-14": [
+    {
+      "num_steps": 1,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 1,
+          "span": "Since $S_{n-1}$ cannot be even (if it were positive even, $S_n > S_{n-1} > 0$), $S_{n-1}$ must be odd."
+        },
+        {
+          "type": "E5",
+          "start_step": 1,
+          "span": "If we add 1 now: $S = -5 + 1"
+        }
+      ]
+    },
+    {
+      "num_steps": 3,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 3,
+          "span": "So we need to add a set of numbers summing to 6 after step $k$."
+        },
+        {
+          "type": "E5",
+          "start_step": 3,
+          "span": "$a_4=2"
+        }
+      ]
+    },
+    {
+      "num_steps": 3,
+      "errors": [
+        {
+          "type": "E6",
+          "start_step": 3,
+          "span": "Then $x_2 = 4-6 = -2$."
+        },
+        {
+          "type": "E5",
+          "start_step": 3,
+          "span": "Total for Case B with this structure ($x_2 = a_1-a_"
+        }
+      ]
+    },
+    {
+      "num_steps": 3,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 2,
+          "span": "Thus, if $x_k$ becomes even for any $k < n$, then $x_n > x_k \\ge 2$ (since $x_1 \\ge 1$ and if it's even it's $\\ge 2$)."
+        }
+      ]
+    },
+    {
+      "num_steps": 1,
+      "errors": [
+        {
+          "type": "E5",
+          "start_step": 1,
+          "span": "At $"
+        }
+      ]
+    },
+    {
+      "num_steps": 2,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 2,
+          "span": "The sequence must start and end with state E"
+        },
+        {
+          "type": "E5",
+          "start_step": 2,
+          "span": "Now, for a given partition of 6 into sums $s_1, s_2, \\ldots, s_k$, we have $k$"
+        }
+      ]
+    },
+    {
+      "num_steps": 3,
+      "errors": [
+        {
+          "type": "E5",
+          "start_step": 3,
+          "span": "Let's count for $k=4$.\nWe need to distribute the \"subtracted\" sum 6 into"
+        }
+      ]
+    },
+    {
+      "num_steps": 2,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 2,
+          "span": "Impossible for positive integers (since $x_2 \\ge 1$)."
+        },
+        {
+          "type": "E5",
+          "start_step": 2,
+          "span": "The question is: does there exist a sequence with sum"
+        }
+      ]
+    }
+  ],
+  "2026-II-15": [
+    {
+      "num_steps": 2,
+      "errors": [
+        {
+          "type": "E1",
+          "start_step": 1,
+          "span": "$P = \\sum_{k=1}^7 x_k x_{k+1} x_{k+2} \\equiv 0 \\pmod 3$"
+        },
+        {
+          "type": "E2",
+          "start_step": 2,
+          "span": "There are 5 such arrangements."
+        },
+        {
+          "type": "E5",
+          "start_step": 2,
+          "span": "If 1 is at pos 3: $c=2"
+        }
+      ]
+    },
+    {
+      "num_steps": 3,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 3,
+          "span": "The remaining 4 terms are products of non-zero elements (from the \\{1, 2\\})."
+        },
+        {
+          "type": "E5",
+          "start_step": 3,
+          "span": "For a"
+        }
+      ]
+    },
+    {
+      "num_steps": 5,
+      "errors": [
+        {
+          "type": "E5",
+          "start_step": 5,
+          "span": "Since"
+        }
+      ]
+    },
+    {
+      "num_steps": 2,
+      "errors": [
+        {
+          "type": "E1",
+          "start_step": 1,
+          "span": "S_2 = \\sum_{k=1}^7 x_k x_{k+1} x_{k+2} \\equiv 0 \\pmod 3"
+        },
+        {
+          "type": "E5",
+          "start_step": 2,
+          "span": "Let's check symmetry."
+        }
+      ]
+    },
+    {
+      "num_steps": 2,
+      "errors": [
+        {
+          "type": "E1",
+          "start_step": 1,
+          "span": "$S_2 = \\sum_{k=1}^7 x_k x_{k+1} x_{k+2}$"
+        },
+        {
+          "type": "E5",
+          "start_step": 2,
+          "span": "Let's check."
+        }
+      ]
+    },
+    {
+      "num_steps": 2,
+      "errors": [
+        {
+          "type": "E1",
+          "start_step": 1,
+          "span": "The sum of products $S_2 = \\sum_{k=1}^7 x_k x_{k+1} x_{k+2} \\equiv 0 \\pmod 3$"
+        },
+        {
+          "type": "E5",
+          "start_step": 2,
+          "span": "The values are from $\\{1, 2\\}$. The run of 1 contributes no term to sum (needs 3)."
+        }
+      ]
+    },
+    {
+      "num_steps": 3,
+      "errors": [
+        {
+          "type": "E1",
+          "start_step": 1,
+          "span": "The sum of products $S = \\sum_{k=1}^7 x_k x_{k+1} x_{k+2} \\equiv 0 \\pmod 3$"
+        },
+        {
+          "type": "E5",
+          "start_step": 3,
+          "span": "*Case $n=6$:* Six non-zero elements."
+        }
+      ]
+    },
+    {
+      "num_steps": 5,
+      "errors": [
+        {
+          "type": "E6",
+          "start_step": 5,
+          "span": "Possible counts of 2s in the 6 non-zeros: $N_2' \\in \\{2, 5\\}$ (from previous analysis of sum=0)."
+        },
+        {
+          "type": "E5",
+          "start_step": 5,
+          "span": "Let's count the number of such configurations."
+        }
+      ]
+    }
+  ]
+}

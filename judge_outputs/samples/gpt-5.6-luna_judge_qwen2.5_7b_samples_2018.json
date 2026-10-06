@@ -1,0 +1,576 @@
+{
+  "2018-I-01": [
+    {
+      "num_steps": 7,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 5,
+          "span": "For each \\(m + n = k\\) where \\(1 \\leq k \\leq 100\\), the number of solutions \\((m, n)\\) is \\(k + 1\\)"
+        }
+      ]
+    }
+  ],
+  "2018-I-02": [
+    {
+      "num_steps": 8,
+      "errors": [
+        {
+          "type": "E6",
+          "start_step": 5,
+          "span": "29 + 14 \\cdot 2 = 57, and 57 is divisible by 13"
+        },
+        {
+          "type": "E4",
+          "start_step": 6,
+          "span": "Rechecking with correct values, we find:"
+        },
+        {
+          "type": "E3",
+          "start_step": 7,
+          "span": "Rechecking, correct values are:"
+        }
+      ]
+    }
+  ],
+  "2018-I-03": [
+    {
+      "num_steps": 9,
+      "errors": [
+        {
+          "type": "E1",
+          "start_step": 1,
+          "span": "This is simply the number of ways to choose 5 positions out of 10 for the red cards"
+        }
+      ]
+    }
+  ],
+  "2018-I-04": [
+    {
+      "num_steps": 6,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 5,
+          "span": "This means that $AD + DE + EC = 10 - x + x + x = 10 - x + 2x = 10 + x = 10$"
+        },
+        {
+          "type": "E4",
+          "start_step": 5,
+          "span": "Solving for $x$, we get:\n\\[ 3x = 10 - x \\]"
+        }
+      ]
+    }
+  ],
+  "2018-I-05": [
+    {
+      "num_steps": 12,
+      "errors": []
+    }
+  ],
+  "2018-I-06": [
+    {
+      "num_steps": 8,
+      "errors": [
+        {
+          "type": "E5",
+          "start_step": 6,
+          "span": "Combining both sets of solutions, we have a total of \\(600 + 840 = 1440\\) distinct values for \theta."
+        }
+      ]
+    }
+  ],
+  "2018-I-07": [
+    {
+      "num_steps": 7,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 3,
+          "span": "Since there are 6 vertices, and each triangle is counted twice"
+        },
+        {
+          "type": "E2",
+          "start_step": 4,
+          "span": "For each vertex on the bottom hexagon, there are 2 vertices on the top hexagon that form an isosceles triangle with it"
+        },
+        {
+          "type": "E2",
+          "start_step": 5,
+          "span": "for each of these, there are 2 other vertices on the same hexagon that can form an isosceles triangle with the original vertex and the vertex on the top hexagon"
+        },
+        {
+          "type": "E4",
+          "start_step": 5,
+          "span": "each triangle is counted once, the number of such isosceles triangles is \\(6 \\times 2 \\times 2 / 2 = 12\\)"
+        }
+      ]
+    }
+  ],
+  "2018-I-08": [
+    {
+      "num_steps": 10,
+      "errors": [
+        {
+          "type": "E1",
+          "start_step": 1,
+          "span": "an equiangular hexagon can be divided into 6 equilateral triangles by drawing lines from the center to each vertex"
+        },
+        {
+          "type": "E2",
+          "start_step": 2,
+          "span": "the diameter of the largest circle that fits inside the hexagon is equal to the shortest distance between parallel sides"
+        },
+        {
+          "type": "E6",
+          "start_step": 7,
+          "span": "The height of the hexagon is the minimum of these heights, which is \\(4\\sqrt{5}\\)."
+        }
+      ]
+    }
+  ],
+  "2018-I-09": [
+    {
+      "num_steps": 9,
+      "errors": [
+        {
+          "type": "E1",
+          "start_step": 3,
+          "span": "This means that if we choose a pair from the 16-sum set, we cannot choose the same elements in the 24-sum set."
+        },
+        {
+          "type": "E2",
+          "start_step": 4,
+          "span": "Each pair from the 16-sum set overlaps with exactly one pair from the 24-sum set."
+        }
+      ]
+    }
+  ],
+  "2018-I-10": [
+    {
+      "num_steps": 7,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 4,
+          "span": "For the spokes, the bug can move in either direction, so:\n\\[a_{n+1} = a_{n+1} + j_n, \\quad b_{n+1} = b_{n+1} + i_n, \\quad c_{n+1} = c_{n+1} + h_n, \\quad d_{n+1} = d_{n+1} + g_n, \\quad e_{n+1} = e_{n+1} + f_n.\\]"
+        }
+      ]
+    }
+  ],
+  "2018-I-11": [
+    {
+      "num_steps": 6,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 3,
+          "span": "but \\( 3^{10} \not\\equiv 1 \\pmod{121} \\), so the order is 10."
+        },
+        {
+          "type": "E2",
+          "start_step": 4,
+          "span": "but \\( 3^{52} \not\\equiv 1 \\pmod{169} \\), so the order is 52."
+        }
+      ]
+    }
+  ],
+  "2018-I-12": [
+    {
+      "num_steps": 10,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 7,
+          "span": "The terms \\((1 + \\omega), (1 + \\omega^2), (1 + \\omega^4), \\ldots, (1 + \\omega^{17})\\) are all 0 because \\(1 + \\omega + \\omega^2 = 0\\)."
+        }
+      ]
+    }
+  ],
+  "2018-I-13": [
+    {
+      "num_steps": 10,
+      "errors": [
+        {
+          "type": "E6",
+          "start_step": 2,
+          "span": "\\[ K = \\sqrt{168960} = 24\\sqrt{35}. \\]"
+        },
+        {
+          "type": "E1",
+          "start_step": 4,
+          "span": "\\[ X = (32k + 30(1-k), 0) = (2k + 30, 0). \\]"
+        },
+        {
+          "type": "E5",
+          "start_step": 5,
+          "span": "The coordinates of \\( I_1 \\) and \\( I_2 \\) will be on the angle bisectors of \\( \\angle ABX \\) and \\( \\angle ACX \\) respectively."
+        },
+        {
+          "type": "E5",
+          "start_step": 6,
+          "span": "The area of \\( \\triangle AI_1I_2 \\) can be minimized when \\( X \\) is the foot of the angle bisector of \\( \\angle BAC \\)."
+        },
+        {
+          "type": "E2",
+          "start_step": 7,
+          "span": "specifically \\( \\frac{1}{4} \\) of the area of \\( \\triangle ABC \\) due to the properties of the incenter and the angle bisector."
+        },
+        {
+          "type": "E2",
+          "start_step": 9,
+          "span": "Thus, the minimum possible area of \\( \\triangle AI_1I_2 \\) is \\( 35 \\)."
+        }
+      ]
+    }
+  ],
+  "2018-I-14": [
+    {
+      "num_steps": 6,
+      "errors": [
+        {
+          "type": "E1",
+          "start_step": 2,
+          "span": "it can jump to \\(P_1\\) or \\(P_2\\) in the first jump"
+        },
+        {
+          "type": "E2",
+          "start_step": 3,
+          "span": "Therefore, we have:\n\\[a_n = 2a_{n-2} + 2a_{n-3} + 2a_{n-4} + 2a_{n-5} + 2a_{n-6}\\]"
+        }
+      ]
+    }
+  ],
+  "2018-I-15": [
+    {
+      "num_steps": 11,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 2,
+          "span": "K = \\frac{1}{2} R^2 (\\sin \\alpha + \\sin \\beta + \\sin \\gamma + \\sin \\delta)"
+        },
+        {
+          "type": "E2",
+          "start_step": 6,
+          "span": "\\frac{d_1 d_2}{3} = \\frac{3 d_1 d_2}{10}"
+        },
+        {
+          "type": "E5",
+          "start_step": 7,
+          "span": "The product \\(d_1 d_2\\) can be derived from the properties of the circle and the given sines."
+        }
+      ]
+    }
+  ],
+  "2018-II-01": [
+    {
+      "num_steps": 9,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 4,
+          "span": "The distance Paul has to run back to \\( A \\) is \\( x \\) meters."
+        }
+      ]
+    }
+  ],
+  "2018-II-02": [
+    {
+      "num_steps": 6,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 3,
+          "span": "This suggests a repeating cycle of length 6 starting from \\(a_3\\)."
+        },
+        {
+          "type": "E6",
+          "start_step": 4,
+          "span": "a_9 = (4(8 + 5 + 5)) \\mod 11 = (4 \\cdot 18) \\mod 11 = 72 \\mod 11 = 7"
+        }
+      ]
+    }
+  ],
+  "2018-II-03": [
+    {
+      "num_steps": 15,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 13,
+          "span": "which is greater than 1000, so we stop here."
+        },
+        {
+          "type": "E5",
+          "start_step": 14,
+          "span": "The valid values of b are 10, 59, 168, and 361."
+        }
+      ]
+    }
+  ],
+  "2018-II-04": [
+    {
+      "num_steps": 10,
+      "errors": [
+        {
+          "type": "E1",
+          "start_step": 2,
+          "span": "The octagon can be divided into 8 isosceles triangles and 2 squares."
+        },
+        {
+          "type": "E5",
+          "start_step": 6,
+          "span": "The self-intersecting octagon $CORNELIA$ is formed by removing 2 of the triangles from the octagon $CAROLINE$."
+        },
+        {
+          "type": "E2",
+          "start_step": 8,
+          "span": "we need to consider the rational part only"
+        }
+      ]
+    }
+  ],
+  "2018-II-05": [
+    {
+      "num_steps": 18,
+      "errors": [
+        {
+          "type": "E6",
+          "start_step": 3,
+          "span": "$(xyz)^2 = -80 \\cdot 60 \\cdot -96 + (-80 \\cdot 60 \\cdot 24i - 320i \\cdot 60 \\cdot -96 + (-80 \\cdot -96i - 320i \\cdot 60 \\cdot 24i)$"
+        },
+        {
+          "type": "E1",
+          "start_step": 7,
+          "span": "Let's assume $xyz = a + bi$."
+        },
+        {
+          "type": "E6",
+          "start_step": 15,
+          "span": "$u = 2380800 + 1152000 = 3532800$"
+        },
+        {
+          "type": "E6",
+          "start_step": 16,
+          "span": "$\\left(\\frac{115200}{\\sqrt{3532800}}\\right)^2 = 115200^2 / 3532800 = 3686400 / 3532800 = 1024$"
+        }
+      ]
+    }
+  ],
+  "2018-II-06": [
+    {
+      "num_steps": 9,
+      "errors": [
+        {
+          "type": "E1",
+          "start_step": 4,
+          "span": "From \\(ce = -2\\), possible pairs \\((c, e)\\) are \\((1, -2)\\), \\((-1, 2)\\), \\((2, -1)\\), and \\((-2, 1)\\)."
+        },
+        {
+          "type": "E2",
+          "start_step": 5,
+          "span": "\\[bd - 2 + d - 2 = 2a - 2 \\implies d(b+1) = 2a,\\]"
+        },
+        {
+          "type": "E5",
+          "start_step": 6,
+          "span": "Testing other pairs \\((c, e) = (-1, 2)\\), \\((2, -1)\\), and \\((-2, 1)\\) similarly, we find that only \\((1, -2)\\) and \\((-1, 2)\\) work."
+        },
+        {
+          "type": "E6",
+          "start_step": 7,
+          "span": "The total length of these intervals is \\(3\\)."
+        }
+      ]
+    }
+  ],
+  "2018-II-07": [
+    {
+      "num_steps": 9,
+      "errors": [
+        {
+          "type": "E6",
+          "start_step": 2,
+          "span": "\\[ K = \\sqrt{\\frac{24096}{16}} \\]"
+        },
+        {
+          "type": "E2",
+          "start_step": 4,
+          "span": "The height of the triangle from \\(A\\) to \\(BC\\) is \\(h = 10\\)."
+        },
+        {
+          "type": "E1",
+          "start_step": 5,
+          "span": "\\[ \\text{Area} = \\frac{1}{2} \\left(5\\sqrt{3} + 5\\sqrt{3} \\cdot \\frac{x_k}{9}\\right) \\left(10 - 10 \\cdot \\frac{x_k}{9}\\right) = \\frac{3}{245} \\]"
+        },
+        {
+          "type": "E6",
+          "start_step": 6,
+          "span": "\\[ 245 \\cdot 81 \\sqrt{3} - 3 = x_k^2 \\]"
+        },
+        {
+          "type": "E4",
+          "start_step": 8,
+          "span": "This happens when \\(x_k = \\frac{9k}{2450}\\) for \\(k = 1, 2, \\ldots, 2449\\)."
+        }
+      ]
+    }
+  ],
+  "2018-II-08": [
+    {
+      "num_steps": 7,
+      "errors": [
+        {
+          "type": "E1",
+          "start_step": 2,
+          "span": "the frog must make a total of 4 jumps in the x-direction and 4 jumps in the y-direction"
+        },
+        {
+          "type": "E2",
+          "start_step": 4,
+          "span": "The number of ways to arrange \\( k \\) x-jumps and \\( 4 - k \\) y-jumps in 8 jumps is given by the binomial coefficient \\(\\binom{8}{k, 4-k, 4-k, 4-k} = \\frac{8!}{k!(4-k)!(4-k)!}\\)."
+        }
+      ]
+    }
+  ],
+  "2018-II-09": [
+    {
+      "num_steps": 14,
+      "errors": [
+        {
+          "type": "E6",
+          "start_step": 7,
+          "span": "\\left(\\frac{0 + 27 + 27}{3}, \\frac{\\frac{23}{2} + 6 + 17}{3}\\right) = \\left(\\frac{54}{3}, \\frac{49}{6}\\right)"
+        },
+        {
+          "type": "E6",
+          "start_step": 8,
+          "span": "\\frac{\\frac{23}{2} + 17 + 23}{3} = \\frac{85}{6}"
+        },
+        {
+          "type": "E6",
+          "start_step": 9,
+          "span": "\\frac{\\frac{23}{2} + 23 + 23}{3} = \\frac{85}{6}"
+        },
+        {
+          "type": "E6",
+          "start_step": 10,
+          "span": "\\frac{\\frac{23}{2} + 23 + 17}{3} = \\frac{85}{6}"
+        }
+      ]
+    }
+  ],
+  "2018-II-10": [
+    {
+      "num_steps": 5,
+      "errors": [
+        {
+          "type": "E1",
+          "start_step": 2,
+          "span": "This suggests that the function \\( f \\) can only map elements to cycles of length at most 2, i.e., fixed points or 2-cycles."
+        }
+      ]
+    }
+  ],
+  "2018-II-11": [
+    {
+      "num_steps": 11,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 3,
+          "span": "For a permutation to not satisfy the condition, the first $k$ terms must not contain any number greater than $k$ for any $k$ from $1$ to $5$."
+        },
+        {
+          "type": "E2",
+          "start_step": 9,
+          "span": "The number of permutations that do not satisfy the condition for any $k$ from $1$ to $5$ is $1 + 2 + 6 + 24 + 120 = 153$."
+        }
+      ]
+    }
+  ],
+  "2018-II-12": [
+    {
+      "num_steps": 9,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 3,
+          "span": "This means that the diagonals are angle bisectors of the quadrilateral in terms of area."
+        },
+        {
+          "type": "E2",
+          "start_step": 4,
+          "span": "Since the sum of the areas of the triangles is equal, the diagonals must be perpendicular"
+        },
+        {
+          "type": "E2",
+          "start_step": 8,
+          "span": "\\[ \\text{Area} = \\frac{1}{2} \\times 14 \\times 2\\sqrt{65} = 14\\sqrt{65} \\]"
+        },
+        {
+          "type": "E2",
+          "start_step": 8,
+          "span": "\\[ \\text{Area} = 14 \\times \\sqrt{65} = 14 \\times 8.062 = 112.868 \\approx 112 \\]"
+        }
+      ]
+    }
+  ],
+  "2018-II-13": [
+    {
+      "num_steps": 5,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 2,
+          "span": "From any state \\( S_0 \\), the next state can be \\( S_0 \\), \\( S_1 \\), or \\( S_2 \\) with probabilities \\(\\frac{4}{6}\\), \\(\\frac{1}{6}\\), and \\(\\frac{1}{6}\\) respectively."
+        },
+        {
+          "type": "E2",
+          "start_step": 3,
+          "span": "\\[ p_2 = 0 \\]"
+        },
+        {
+          "type": "E6",
+          "start_step": 4,
+          "span": "\\[ p_0 = \\frac{9}{16} \\]"
+        }
+      ]
+    }
+  ],
+  "2018-II-14": [
+    {
+      "num_steps": 7,
+      "errors": [
+        {
+          "type": "E2",
+          "start_step": 1,
+          "span": "The line \\( AX \\) is the angle bisector of \\( \\angle BAC \\)"
+        },
+        {
+          "type": "E2",
+          "start_step": 2,
+          "span": "Thus, \\( AP \\cdot AB = AQ \\cdot AC \\)."
+        }
+      ]
+    }
+  ],
+  "2018-II-15": [
+    {
+      "num_steps": 7,
+      "errors": [
+        {
+          "type": "E1",
+          "start_step": 1,
+          "span": "the function \\( f \\) must increase at a rate that is at least 1 and at most 3 times the rate of the input difference"
+        },
+        {
+          "type": "E2",
+          "start_step": 2,
+          "span": "the function must increase by at least 2 and at most 6 over the 6 steps from 0 to 6"
+        }
+      ]
+    }
+  ]
+}

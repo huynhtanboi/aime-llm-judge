@@ -1,0 +1,487 @@
+[
+  {
+    "num_steps": 49,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 6,
+        "span": "If they all arrive at the same time, and Patrick left first, then Tanya must have run longer than he walked to cover distance D."
+      },
+      {
+        "type": "E5",
+        "start_step": 49,
+        "span": "Let's re-read carefully: \"One hour after Patrick left"
+      }
+    ]
+  },
+  {
+    "num_steps": 1,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 1,
+        "span": "The structure: Number looks like $a b c a b$ where all are non-zero."
+      },
+      {
+        "type": "E5",
+        "start_step": 1,
+        "span": "3. **$z=5"
+      }
+    ]
+  },
+  {
+    "num_steps": 6,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 2,
+        "span": "Let the center of this small sphere also be at $(x,y,0)$."
+      }
+    ]
+  },
+  {
+    "num_steps": 1,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 1,
+        "span": "form $n = a + ab + ab^2$"
+      },
+      {
+        "type": "E5",
+        "start_step": 1,
+        "span": "$k=3: n = 8+"
+      }
+    ]
+  },
+  {
+    "num_steps": 3,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 2,
+        "span": "$$AB' = BA' = 1$$"
+      }
+    ]
+  },
+  {
+    "num_steps": 3,
+    "errors": [
+      {
+        "type": "E6",
+        "start_step": 3,
+        "span": "So, LHS $= e^{\frac{\\ln x}{20 \\ln 2026}}$."
+      },
+      {
+        "type": "E2",
+        "start_step": 3,
+        "span": "But we require **positive** values of $x$, so $\\ln x > 0 \\implies u > 0$."
+      },
+      {
+        "type": "E2",
+        "start_step": 3,
+        "span": "Both roots have the same sign as the coefficient of $u^2$, which is positive."
+      },
+      {
+        "type": "E5",
+        "start_step": 3,
+        "span": "Actually eq: $\\frac{1}{k}(u^2 - 20ku) = T$ where $T >"
+      }
+    ]
+  },
+  {
+    "num_steps": 2,
+    "errors": [
+      {
+        "type": "E6",
+        "start_step": 2,
+        "span": "- One six and rest ones: $(6 + 1 \\times 5)$ -> Cycle types with one cycle of length 6."
+      },
+      {
+        "type": "E2",
+        "start_step": 2,
+        "span": "Count = $6! / (3^1 \\cdot 2^1 \\cdot 1^1 \\cdot 3!) = 720/36 = 20$."
+      },
+      {
+        "type": "E5",
+        "start_step": 2,
+        "span": "Count = $6! / ("
+      }
+    ]
+  },
+  {
+    "num_steps": 4,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 2,
+        "span": "Divisible by 11? Alternating sum: $(2+4) - (3+1) = 6-4=2$ No."
+      },
+      {
+        "type": "E6",
+        "start_step": 2,
+        "span": "Let's re-calculate $17017 / (7 \\times 11 \\times 13) = 2431 / (91) = 26.7$? Something is wrong."
+      },
+      {
+        "type": "E6",
+        "start_step": 2,
+        "span": "$17017 / 1001 = 16.998...$"
+      },
+      {
+        "type": "E5",
+        "start_step": 4,
+        "span": "The condition is on pairs $(a,b)$ and $(c,e)$."
+      }
+    ]
+  },
+  {
+    "num_steps": 1,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 1,
+        "span": "So she gets 1 with probability $6/6 = 1$."
+      }
+    ]
+  },
+  {
+    "num_steps": 3,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 3,
+        "span": "Let's denote the new triangle as $\\triangle AB'C'$."
+      },
+      {
+        "type": "E6",
+        "start_step": 3,
+        "span": "$\\sin A = \\sqrt{1-(33/65)^2} = \\frac{4}{65}$?"
+      },
+      {
+        "type": "E5",
+        "start_step": 3,
+        "span": "Let's assume the standard \"parallel\" case first"
+      }
+    ]
+  },
+  {
+    "num_steps": 50,
+    "errors": [
+      {
+        "type": "E5",
+        "start_step": 50,
+        "span": "Usually, such a problem asks for max difference between neighbors. If every horizontal neighbor contributes $|x"
+      }
+    ]
+  },
+  {
+    "num_steps": 4,
+    "errors": [
+      {
+        "type": "E6",
+        "start_step": 4,
+        "span": "$C_A = (\\frac{42}{13}, \\frac{52+72/39? No, y_D was 124/39}) (R=1)$ -> $(x,y,R)$."
+      },
+      {
+        "type": "E5",
+        "start_step": 4,
+        "span": "The reflection D is at distance d from G along the normal. The total height of D above A (if we project) or just coordinates"
+      }
+    ]
+  },
+  {
+    "num_steps": 1,
+    "errors": [
+      {
+        "type": "E6",
+        "start_step": 1,
+        "span": "Since N=10000 = 20 \\times 502"
+      },
+      {
+        "type": "E6",
+        "start_step": 1,
+        "span": "If $r=501$: $m \\le (498)/502 = 0$."
+      },
+      {
+        "type": "E5",
+        "start_step": 1,
+        "span": "Wait, I might have miscounted. Let's re-evaluate"
+      }
+    ]
+  },
+  {
+    "num_steps": 37,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 2,
+        "span": "a^2 + b^2 - ab\\sqrt{3} = c^2"
+      },
+      {
+        "type": "E2",
+        "start_step": 3,
+        "span": "An equiangular pentagon IS cyclic."
+      },
+      {
+        "type": "E2",
+        "start_step": 17,
+        "span": "In an equiangular pentagon, all \"long\" diagonals are equal in length."
+      },
+      {
+        "type": "E5",
+        "start_step": 37,
+        "span": "Length squared: $L_{short}^2 = a^2 + b^2 - ab(\\sqrt{5}-1)/2 \\times 2? No."
+      }
+    ]
+  },
+  {
+    "num_steps": 1,
+    "errors": [
+      {
+        "type": "E5",
+        "start_step": 1,
+        "span": "Or maybe there's"
+      }
+    ]
+  },
+  {
+    "num_steps": 8,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 4,
+        "span": "So the condition is that $d$ divides \\text{lcm}(20, 30)."
+      }
+    ]
+  },
+  {
+    "num_steps": 2,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 2,
+        "span": "The path must move strictly right or up. It cannot move left or down."
+      },
+      {
+        "type": "E5",
+        "start_step": 2,
+        "span": "There are 10 such segments? No, `for i=0 to"
+      }
+    ]
+  },
+  {
+    "num_steps": 46,
+    "errors": [
+      {
+        "type": "E5",
+        "start_step": 46,
+        "span": "If we go A(0,0)->B(0,b), then to have interior angle 45 at B"
+      }
+    ]
+  },
+  {
+    "num_steps": 3,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 2,
+        "span": "so \\(n = \\sum_{i=0}^k c_i b^i\\)."
+      }
+    ]
+  },
+  {
+    "num_steps": 47,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 10,
+        "span": "Ratio of $\\binom{r}{4}$ to $\\binom{r}{5}$ is $\\frac{\\binom{r}{4}}{\\binom{r}{5}} = 5$."
+      },
+      {
+        "type": "E3",
+        "start_step": 11,
+        "span": "$B/A = \\frac{\\binom{b}{3}}{\\binom{r}{4}} = \\frac{(b-1)(b-2)}{6}$? No."
+      },
+      {
+        "type": "E5",
+        "start_step": 47,
+        "span": "$\\binom{n}{k+1} = \\"
+      }
+    ]
+  },
+  {
+    "num_steps": 2,
+    "errors": [
+      {
+        "type": "E6",
+        "start_step": 2,
+        "span": "$= \frac{1}{2}u^2 + 4u + 8 - 4u - 10 = \\frac{1}{2}u^2 - 2$."
+      },
+      {
+        "type": "E2",
+        "start_step": 2,
+        "span": "Is it possible for a larger radius to have \"tangency\"? No."
+      },
+      {
+        "type": "E5",
+        "start_step": 2,
+        "span": "So, if my interpretation is correct (\"circle intersects curve\"), then only $r=41$ works for tangency"
+      }
+    ]
+  },
+  {
+    "num_steps": 58,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 6,
+        "span": "Let $X_A, X_B, X_C$ be independent random variables representing the number of times Alice, Bob, and Carol roll respectively until one of them rolls their specific outcome"
+      },
+      {
+        "type": "E2",
+        "start_step": 23,
+        "span": "Since every roll has probability $>0$ for A and B, the sequence of rolls will contain infinitely many As and Bs with probability 1. Thus $T < \\infty$."
+      },
+      {
+        "type": "E1",
+        "start_step": 39,
+        "span": "Consider an infinite sequence generated by $A$ (prob 1/3) or $B$ (prob 1/3)."
+      },
+      {
+        "type": "E5",
+        "start_step": 58,
+        "span": "But if they keep rolling forever, and Carol wins at step $T$, then any subsequent As or Bs don't count because the"
+      }
+    ]
+  },
+  {
+    "num_steps": 43,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 2,
+        "span": "Since $AB=BC$, we have $AC=b$ (base) and legs $a=c, b=c$."
+      },
+      {
+        "type": "E2",
+        "start_step": 28,
+        "span": "So $\u03b8 = (180 - B)/2 = 90 - B/2$."
+      },
+      {
+        "type": "E5",
+        "start_step": 43,
+        "span": "This requires Triangle Inequality: $"
+      }
+    ]
+  },
+  {
+    "num_steps": 86,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 48,
+        "span": "The number consisting of $n$ nines is equal to $\\frac{10^n-1}{9}$."
+      },
+      {
+        "type": "E5",
+        "start_step": 86,
+        "span": "Let's try to compute $S$"
+      }
+    ]
+  },
+  {
+    "num_steps": 2,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 2,
+        "span": "Since AD is tangent to \\omega at D"
+      },
+      {
+        "type": "E2",
+        "start_step": 2,
+        "span": "\\angle ADB = 180 - (\\alpha + \\beta) = 180 - (2\\theta+\\beta)"
+      },
+      {
+        "type": "E5",
+        "start_step": 2,
+        "span": "If $AD$"
+      }
+    ]
+  },
+  {
+    "num_steps": 3,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 1,
+        "span": "exactly 7 distinct sums of their pairs"
+      },
+      {
+        "type": "E2",
+        "start_step": 3,
+        "span": "The number of distinct pairwise sums is at most $3+2-1 = 4$ (since there are $\\binom{3}{2}=3$ pairs)."
+      },
+      {
+        "type": "E6",
+        "start_step": 3,
+        "span": "Product of pairs: $\\Sigma x_ix_j = -(n-11)$"
+      }
+    ]
+  },
+  {
+    "num_steps": 62,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 19,
+        "span": "Actually, it doesn't matter which vertex connects them as long as we can construct such a tetrahedron."
+      },
+      {
+        "type": "E5",
+        "start_step": 57,
+        "span": "Let's assume there exists a unique solution (which implies uniqueness of geometry)."
+      }
+    ]
+  },
+  {
+    "num_steps": 38,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 2,
+        "span": "Let $T = S$; then we are looking at pairs $(A, B)$ where both have size 4040."
+      },
+      {
+        "type": "E5",
+        "start_step": 38,
+        "span": "Let's assume the standard interpretation for this specific problem (it looks like an AIME 20xx problem)."
+      }
+    ]
+  },
+  {
+    "num_steps": 31,
+    "errors": [
+      {
+        "type": "E5",
+        "start_step": 31,
+        "span": "Let's formalize the map from current parity to possible next parities (result of op):"
+      }
+    ]
+  },
+  {
+    "num_steps": 49,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 41,
+        "span": "So we need exactly three variables to be congruent to 1 mod 3 (i.e., equal to 1), and the other four to be \u00b11 such that their sum is -6."
+      },
+      {
+        "type": "E5",
+        "start_step": 49,
+        "span": "Let's formalize residues $r_k \\in \\{0, 1, -1\\}$. Sum $\\equiv 0$."
+      }
+    ]
+  }
+]

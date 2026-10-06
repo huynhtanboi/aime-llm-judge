@@ -1,0 +1,337 @@
+[
+  {
+    "num_steps": 9,
+    "errors": []
+  },
+  {
+    "num_steps": 5,
+    "errors": [
+      {
+        "type": "E5",
+        "start_step": 5,
+        "span": "A -> F -> N -> B -> C -> E -> M -> A? Or A-F-N-B-C-E-M-A?"
+      }
+    ]
+  },
+  {
+    "num_steps": 6,
+    "errors": [
+      {
+        "type": "E6",
+        "start_step": 4,
+        "span": "= \\frac{3024}{720}$? No, let's simplify"
+      }
+    ]
+  },
+  {
+    "num_steps": 7,
+    "errors": [
+      {
+        "type": "E6",
+        "start_step": 1,
+        "span": "$x = \\frac{-(-1) \\pm \\sqrt{(-1)^2 - 4(12)(-6y^2)}}{2(12)}$"
+      }
+    ]
+  },
+  {
+    "num_steps": 5,
+    "errors": [
+      {
+        "type": "E5",
+        "start_step": 5,
+        "span": "Let's check systematically for sum=18 with 3 evens ($e_1, e_2, e_3$) and one odd ($o_1$):\n  Sum of 3 evens:"
+      }
+    ]
+  },
+  {
+    "num_steps": 6,
+    "errors": []
+  },
+  {
+    "num_steps": 53,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 18,
+        "span": "For G to be in the last word:\n1. **Either** $G \\in S_{small}$ and $G = M$"
+      },
+      {
+        "type": "E5",
+        "start_step": 53,
+        "span": "1. **Scenario A**: $G = M$. This means $G$ is a first element (paired with something larger), and no other"
+      }
+    ]
+  },
+  {
+    "num_steps": 8,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 4,
+        "span": "Equation of the line: $3(x - (k+2)) + 4(y - 1.5) = 0$."
+      }
+    ]
+  },
+  {
+    "num_steps": 8,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 8,
+        "span": "So $x=0, y=-4$ is not an intersection point of the *curves* in the sense that rotating $(0,-4)$ doesn't land on it."
+      },
+      {
+        "type": "E5",
+        "start_step": 8,
+        "span": "$\\sqrt{y+4}(y+1) = \\frac{-3y^2+y+12}{2\\sqrt{3}}$."
+      }
+    ]
+  },
+  {
+    "num_steps": 6,
+    "errors": [
+      {
+        "type": "E5",
+        "start_step": 6,
+        "span": "Actually, this is equivalent to finding a $3 \\times 3$ Latin square of symbols where columns are blocks? Not exactly."
+      }
+    ]
+  },
+  {
+    "num_steps": 4,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 1,
+        "span": "minimum is approaching $-1$"
+      },
+      {
+        "type": "E5",
+        "start_step": 4,
+        "span": "Let's check each $n$:"
+      }
+    ]
+  },
+  {
+    "num_steps": 3,
+    "errors": [
+      {
+        "type": "E5",
+        "start_step": 3,
+        "span": "Area calculation: The full triangle defined by $x,y,z > -1$ on the plane sum=75 has vertices $(77,-1,-1)$ etc."
+      }
+    ]
+  },
+  {
+    "num_steps": 6,
+    "errors": [
+      {
+        "type": "E5",
+        "start_step": 6,
+        "span": "We need to calculate $p$, the probability that two random chords (with endpoints in different quadrants) intersect.\nLet's"
+      }
+    ]
+  },
+  {
+    "num_steps": 1,
+    "errors": [
+      {
+        "type": "E6",
+        "start_step": 1,
+        "span": "AD^2 = 26^2 + 13^2 - 2(26)(13)\\cos(60) = 576"
+      },
+      {
+        "type": "E5",
+        "start_step": 1,
+        "span": "Is it possible that $A, C"
+      }
+    ]
+  },
+  {
+    "num_steps": 1,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 1,
+        "span": "we need $A^3 + B^3 \\equiv 0 \\pmod{3^{7-m}}$"
+      },
+      {
+        "type": "E5",
+        "start_step": 1,
+        "span": "Number of such"
+      }
+    ]
+  },
+  {
+    "num_steps": 5,
+    "errors": []
+  },
+  {
+    "num_steps": 9,
+    "errors": []
+  },
+  {
+    "num_steps": 5,
+    "errors": [
+      {
+        "type": "E5",
+        "start_step": 5,
+        "span": "Case A: All internal edges are Blue ("
+      }
+    ]
+  },
+  {
+    "num_steps": 9,
+    "errors": []
+  },
+  {
+    "num_steps": 4,
+    "errors": [
+      {
+        "type": "E5",
+        "start_step": 4,
+        "span": "Let's determine the order of points on the circumcircle of $\\triangle DEF$"
+      }
+    ]
+  },
+  {
+    "num_steps": 8,
+    "errors": [
+      {
+        "type": "E5",
+        "start_step": 8,
+        "span": "Find $m+n$:\n$288 + 5 ="
+      }
+    ]
+  },
+  {
+    "num_steps": 7,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 3,
+        "span": "Let's define the sample space as all non-empty subsets of $A$."
+      }
+    ]
+  },
+  {
+    "num_steps": 58,
+    "errors": [
+      {
+        "type": "E5",
+        "start_step": 20,
+        "span": "Could a non-greedy solution use fewer quarters? Say $q-1$ quarters."
+      },
+      {
+        "type": "E5",
+        "start_step": 58,
+        "span": "We know $f(25+r) ="
+      }
+    ]
+  },
+  {
+    "num_steps": 3,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 2,
+        "span": "For each such constant $c$, there are exactly 2 solutions per period of length $2\\pi$."
+      },
+      {
+        "type": "E6",
+        "start_step": 2,
+        "span": "\\implies -\\frac{1}{4} < m < 5.75"
+      },
+      {
+        "type": "E5",
+        "start_step": 3,
+        "span": "Then $"
+      }
+    ]
+  },
+  {
+    "num_steps": 3,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 3,
+        "span": "...10 (chair n is 1, n-1 is 0)"
+      },
+      {
+        "type": "E5",
+        "start_step": 3,
+        "span": "a(3,0)="
+      }
+    ]
+  },
+  {
+    "num_steps": 43,
+    "errors": [
+      {
+        "type": "E5",
+        "start_step": 43,
+        "span": "Since $12 \\equiv -12 \\pmod{24}$, these are the same vertex."
+      }
+    ]
+  },
+  {
+    "num_steps": 6,
+    "errors": [
+      {
+        "type": "E5",
+        "start_step": 6,
+        "span": "Using the quadratic formula for $4S^2 + 2S - 101 = 0$:"
+      }
+    ]
+  },
+  {
+    "num_steps": 4,
+    "errors": [
+      {
+        "type": "E5",
+        "start_step": 4,
+        "span": "Actually, let's try to find a specific solution where $x_k$ has period 6"
+      }
+    ]
+  },
+  {
+    "num_steps": 3,
+    "errors": [
+      {
+        "type": "E6",
+        "start_step": 2,
+        "span": "We know $x_K = c/2 = u \\implies c = 2u$.\nAnd $y_L = b/2 = v \\implies b = 2v$."
+      },
+      {
+        "type": "E5",
+        "start_step": 3,
+        "span": "Note that $u, v$ must"
+      }
+    ]
+  },
+  {
+    "num_steps": 3,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 2,
+        "span": "$\\ln f(x) = \\sum \\ln(x-r_i) - \\ln x$."
+      },
+      {
+        "type": "E6",
+        "start_step": 3,
+        "span": "As $x$ approaches a root $r_j$ from the left, $\\frac{1}{x-r_j} \\to +\\infty$"
+      },
+      {
+        "type": "E2",
+        "start_step": 3,
+        "span": "Thus, there is exactly one root of $f'(x)=0$ in each interval."
+      },
+      {
+        "type": "E5",
+        "start_step": 3,
+        "span": "Thus, $f' > 0"
+      }
+    ]
+  }
+]

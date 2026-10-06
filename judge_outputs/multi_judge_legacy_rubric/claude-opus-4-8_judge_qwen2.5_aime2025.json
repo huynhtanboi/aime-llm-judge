@@ -1,0 +1,451 @@
+[
+  {
+    "problem_idx": 1,
+    "num_steps": 9,
+    "errors": []
+  },
+  {
+    "problem_idx": 2,
+    "num_steps": 8,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 2,
+        "span": "Point \\(A\\) is at \\((100, 100)\\)."
+      },
+      {
+        "type": "E5",
+        "start_step": 6,
+        "span": "However, for simplicity in area calculation, we note that:\n\\[ \\text{Area} = 288 + \\text{Area of } \\triangle FNB. \\]"
+      },
+      {
+        "type": "E5",
+        "start_step": 8,
+        "span": "Given the complexity, we can use symmetry and known areas to simplify:\n\\[ \\text{Total Area} = 800 + 288 + (288 - 144) = 1328. \\]"
+      }
+    ]
+  },
+  {
+    "problem_idx": 3,
+    "num_steps": 8,
+    "errors": [
+      {
+        "type": "E6",
+        "start_step": 3,
+        "span": "1. \\((6, 3, 1)\\)"
+      }
+    ]
+  },
+  {
+    "problem_idx": 4,
+    "num_steps": 5,
+    "errors": [
+      {
+        "type": "E6",
+        "start_step": 1,
+        "span": "\\[ (4x - y)(3x + 2y) = 0. \\]"
+      },
+      {
+        "type": "E2",
+        "start_step": 3,
+        "span": "Thus, there are \\( 66 - (-66) + 1 = 133 \\) integer solutions for \\( x \\), and each corresponds to a unique \\( y \\)."
+      }
+    ]
+  },
+  {
+    "problem_idx": 5,
+    "num_steps": 7,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 4,
+        "span": "\\(S_1 = 9\\), \\(S_2 = 27\\)"
+      },
+      {
+        "type": "E5",
+        "start_step": 5,
+        "span": "we find that there are 1440 such numbers for each valid last digit"
+      }
+    ]
+  },
+  {
+    "problem_idx": 6,
+    "num_steps": 14,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 6,
+        "span": "The height of these triangles is equal to the radius of the inscribed circle, which is 3."
+      }
+    ]
+  },
+  {
+    "problem_idx": 7,
+    "num_steps": 9,
+    "errors": [
+      {
+        "type": "E5",
+        "start_step": 4,
+        "span": "This means that any pair involving a letter before 'G' in alphabetical order must be paired with a letter that does not form a word lexicographically greater than 'GX'."
+      },
+      {
+        "type": "E6",
+        "start_step": 7,
+        "span": "\\frac{5!}{11 \\choose 2} = \\frac{60}{55} = \\frac{12}{11}"
+      },
+      {
+        "type": "E5",
+        "start_step": 8,
+        "span": "This fraction is derived from combinatorial arguments and simplifies to \\(\\frac{5}{11}\\)."
+      }
+    ]
+  },
+  {
+    "problem_idx": 8,
+    "num_steps": 10,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 2,
+        "span": "|(x + yi) - (4 + ki)| = |(x + yi) - (0 + 3i)|"
+      }
+    ]
+  },
+  {
+    "problem_idx": 9,
+    "num_steps": 7,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 2,
+        "span": "x = \\frac{x' + y'\\sqrt{3}}{\\sqrt{3}}, \\quad y = \\frac{-x'\\sqrt{3} + y'}{\\sqrt{3}}"
+      },
+      {
+        "type": "E5",
+        "start_step": 4,
+        "span": "Substitute \\( y = x^2 - 4 \\) into the transformed equation"
+      },
+      {
+        "type": "E5",
+        "start_step": 6,
+        "span": "After detailed calculations, we find:"
+      }
+    ]
+  },
+  {
+    "problem_idx": 10,
+    "num_steps": 8,
+    "errors": [
+      {
+        "type": "E5",
+        "start_step": 5,
+        "span": "is known to be:\n\\[\n(9!)^2 = (362880)^2\n\\]"
+      }
+    ]
+  },
+  {
+    "problem_idx": 11,
+    "num_steps": 6,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 3,
+        "span": "so we need to consider all points within one period and then extend them due to periodicity"
+      }
+    ]
+  },
+  {
+    "problem_idx": 12,
+    "num_steps": 7,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 3,
+        "span": "The sign combinations for \\(x - y\\), \\(y - z\\), and \\(z - x\\) that satisfy both inequalities are:\n1. \\(x > y > z\\)\n2. \\(y > z > x\\)"
+      },
+      {
+        "type": "E5",
+        "start_step": 5,
+        "span": "By symmetry and the nature of the inequalities, the vertices will be at points where two of the variables are equal or close to each other."
+      },
+      {
+        "type": "E6",
+        "start_step": 6,
+        "span": "937.5 = 475\\sqrt{3}"
+      }
+    ]
+  },
+  {
+    "problem_idx": 13,
+    "num_steps": 9,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 6,
+        "span": "Each new line segment will intersect each existing line segment exactly once (since no two segments are parallel or concurrent)."
+      },
+      {
+        "type": "E2",
+        "start_step": 7,
+        "span": "R = 1 + \\sum_{k=2}^{27} k"
+      }
+    ]
+  },
+  {
+    "problem_idx": 14,
+    "num_steps": 5,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 4,
+        "span": "The function \\( f(X) \\) is minimized when \\( X \\) is the Fermat point of the triangle formed by any three vertices of the pentagon, given that each internal angle is \\( 60^\\circ \\). For a triangle with all angles \\( 60^\\circ \\), the Fermat point coincides with the centroid."
+      },
+      {
+        "type": "E2",
+        "start_step": 5,
+        "span": "f(X) = AB + BC + CD + DE + EA"
+      }
+    ]
+  },
+  {
+    "problem_idx": 15,
+    "num_steps": 7,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 1,
+        "span": "such that \\(a, b, c \\leq 2187\\) (since \\(3^6 = 729\\))"
+      },
+      {
+        "type": "E2",
+        "start_step": 2,
+        "span": "\\(x^3 \\equiv x \\pmod{3^k}\\) for any positive integer \\(k\\)"
+      }
+    ]
+  },
+  {
+    "problem_idx": 16,
+    "num_steps": 4,
+    "errors": [
+      {
+        "type": "E6",
+        "start_step": 3,
+        "span": "(58 - 26)^2 + b^2 = 924 \\implies 32^2 + b^2 = 924 \\implies 1024 + b^2 = 924 \\implies b^2 = -100"
+      },
+      {
+        "type": "E4",
+        "start_step": 4,
+        "span": "\\text{Area} = \\frac{39 \\times 40}{2} = 780"
+      }
+    ]
+  },
+  {
+    "problem_idx": 17,
+    "num_steps": 9,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 5,
+        "span": "Note that for any integer \\( k \\), \\( k \\) clearly divides \\( k \\cdot (k^2 - 4k + 13) \\). Therefore, we need to check when \\( k \\) divides \\( 3(k+1) \\)."
+      }
+    ]
+  },
+  {
+    "problem_idx": 18,
+    "num_steps": 8,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 5,
+        "span": "each initial choice leads to exactly one valid coloring"
+      },
+      {
+        "type": "E4",
+        "start_step": 8,
+        "span": "\\boxed{90}"
+      }
+    ]
+  },
+  {
+    "problem_idx": 19,
+    "num_steps": 10,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 6,
+        "span": "\\left( \\prod_{k=4}^{63} \\frac{k-1}{k-2} \\right) \\left( \\prod_{k=4}^{63} \\frac{(k+1) \\log (k+1)}{k \\log k} \\right)"
+      }
+    ]
+  },
+  {
+    "problem_idx": 20,
+    "num_steps": 8,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 1,
+        "span": "The angles of $\\triangle DEF$ will be half those of $\\triangle ABC$"
+      },
+      {
+        "type": "E2",
+        "start_step": 6,
+        "span": "Arc $DE$ corresponds to $\\angle EDF$, so $\\wideparen{DE} = 2 \\cdot 42^\\circ = 84^\\circ$"
+      },
+      {
+        "type": "E5",
+        "start_step": 6,
+        "span": "Arc $GH = 360^\\circ - (84^\\circ + 120^\\circ + 90^\\circ) = 66^\\circ$ (since $\\angle GHD = 90^\\circ$ as it is a right angle in the triangle formed by midpoints)"
+      }
+    ]
+  },
+  {
+    "problem_idx": 21,
+    "num_steps": 7,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 1,
+        "span": "circle $\\omega_2$ with a radius of $15$ is externally tangent to $\\omega_1$ at point $B$. The distance between the centers, $AB = 9$"
+      },
+      {
+        "type": "E1",
+        "start_step": 2,
+        "span": "we can place $C$ at $(-15, 0)$"
+      },
+      {
+        "type": "E4",
+        "start_step": 6,
+        "span": "where $m = 60\\sqrt{3}$ and $n = 1$"
+      }
+    ]
+  },
+  {
+    "problem_idx": 22,
+    "num_steps": 10,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 3,
+        "span": "every subset must include at least one divisor with both prime factors \\(3^4 \\times 5^2\\) present"
+      },
+      {
+        "type": "E2",
+        "start_step": 7,
+        "span": "The total number of possible nonempty subsets of \\(A\\) (which has 15 elements) is:\n\\[ 2^{15} - 1 = 32768 - 1 = 32767. \\]"
+      }
+    ]
+  },
+  {
+    "problem_idx": 23,
+    "num_steps": 10,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 3,
+        "span": "#### Case 1: \\( N \\) ends in 6 or 7 (e.g., 106, 107)"
+      },
+      {
+        "type": "E2",
+        "start_step": 4,
+        "span": "For \\( N = 106 \\), the greedy choice is $4$ $25$-cent coins, $1$ $10$-cent coin, and $1$ $1$-cent coin (total of 6 coins)."
+      }
+    ]
+  },
+  {
+    "problem_idx": 24,
+    "num_steps": 10,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 5,
+        "span": "each value of \\( k \\) will have:\n\\[ 2 \\times 5 = 10 \\]\nsolutions."
+      },
+      {
+        "type": "E6",
+        "start_step": 7,
+        "span": "x = \\frac{\\pi}{10}, \\frac{3\\pi}{10}, \\frac{7\\pi}{10}, \\frac{9\\pi}{10}, \\frac{11\\pi}{10}, \\frac{13\\pi}{10}, \\frac{17\\pi}{10}, \\frac{19\\pi}{10} \\]\nThere are 8 such values."
+      }
+    ]
+  },
+  {
+    "problem_idx": 25,
+    "num_steps": 10,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 1,
+        "span": "such that no two people are adjacent"
+      },
+      {
+        "type": "E4",
+        "start_step": 6,
+        "span": "the total number of ways to choose 8 chairs out of 16 without any restrictions on adjacency"
+      }
+    ]
+  },
+  {
+    "problem_idx": 26,
+    "num_steps": 4,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 2,
+        "span": "the number of perfect matchings is:\n\\[\n(2k-1)(2k-3)\\cdots 3 \\cdot 1\n\\]"
+      }
+    ]
+  },
+  {
+    "problem_idx": 27,
+    "num_steps": 2,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 2,
+        "span": "A_1 A_2 + A_1 A_3 + \\cdots + A_1 A_{11} + A_{11} A_1 = a_2 + a_3 + \\cdots + a_{10} + a_{11} + a_{11} = 20."
+      }
+    ]
+  },
+  {
+    "problem_idx": 28,
+    "num_steps": 12,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 10,
+        "span": "Since \\(x_{2025}\\) is very close to this value, we can approximate:\n\\[ x_{2025} = \\frac{1}{2}. \\]"
+      }
+    ]
+  },
+  {
+    "problem_idx": 29,
+    "num_steps": 10,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 3,
+        "span": "they lie on a circle with radius 14 centered at the midpoint of \\( BC \\)"
+      },
+      {
+        "type": "E6",
+        "start_step": 7,
+        "span": "half the base (19)"
+      }
+    ]
+  },
+  {
+    "problem_idx": 30,
+    "num_steps": 6,
+    "errors": [
+      {
+        "type": "E1",
+        "span": "f(x) = (x-18)(x-72)(x-98)\\left(1 - \\frac{k}{x}\\right)",
+        "start_step": 1
+      },
+      {
+        "type": "E5",
+        "span": "1. \\( k = 36 \\)\n2. \\( k = 84 \\)\n3. \\( k = 91 \\)",
+        "start_step": 4
+      }
+    ]
+  }
+]

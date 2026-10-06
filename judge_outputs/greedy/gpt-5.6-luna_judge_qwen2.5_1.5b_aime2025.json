@@ -1,0 +1,582 @@
+[
+  {
+    "num_steps": 11,
+    "errors": [
+      {
+        "type": "E6",
+        "start_step": 3,
+        "span": "\\[ 97_b = 9x + 7 \\]"
+      },
+      {
+        "type": "E2",
+        "start_step": 8,
+        "span": "\\[ 9(x - 7) + 34 = 0 \\]"
+      }
+    ]
+  },
+  {
+    "num_steps": 7,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 2,
+        "span": "Point \\(B\\) is directly above \\(A\\), so \\(B = (0, 200)\\)."
+      },
+      {
+        "type": "E2",
+        "start_step": 5,
+        "span": "Quadrilateral \\(DEGF\\) is symmetric with respect to line \\(EF\\)."
+      },
+      {
+        "type": "E4",
+        "start_step": 7,
+        "span": "Since each half has an area of 144:\n\\[ \text{Area of } AFNBCEM = 288 \\]\n\n### Final Answer\n\nANSWER: 576"
+      }
+    ]
+  },
+  {
+    "num_steps": 12,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 3,
+        "span": "We know that:\n1. \\( C + V + S = 9 \\)\n2. Each flavor must be chosen at least once, so \\( C \\geq 1 \\), \\( V \\geq 1 \\), and \\( S \\geq 1 \\)."
+      },
+      {
+        "type": "E1",
+        "start_step": 7,
+        "span": "Now, we need to find the number of non-negative integer solutions to this equation"
+      }
+    ]
+  },
+  {
+    "num_steps": 5,
+    "errors": [
+      {
+        "type": "E6",
+        "start_step": 1,
+        "span": "12x^2 - xy - 6y^2 = (4x + 3y)(3x - 2y) = 0"
+      },
+      {
+        "type": "E6",
+        "start_step": 3,
+        "span": "This gives us a total of 52 possible values for $y$."
+      }
+    ]
+  },
+  {
+    "num_steps": 6,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 3,
+        "span": "where \\(a_1\\) and \\(a_3\\) are in odd positions, and \\(a_2, a_4, a_6, a_8\\) are in even positions."
+      },
+      {
+        "type": "E5",
+        "start_step": 4,
+        "span": "However, for the sake of this problem, let's assume we have found that there are \\(N\\) such permutations."
+      }
+    ]
+  },
+  {
+    "num_steps": 10,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 2,
+        "span": "\\[ \\text{Area} = r + s - 2 \\times \\text{radius} \\times h \\]"
+      },
+      {
+        "type": "E6",
+        "start_step": 3,
+        "span": "\\[ 72 = (r + s)h \\]"
+      },
+      {
+        "type": "E2",
+        "start_step": 6,
+        "span": "\\[ r^2 + s^2 = 72(r+s) + 432 \\]"
+      },
+      {
+        "type": "E5",
+        "start_step": 9,
+        "span": "Since the problem states \\(r \\neq s\\), we can use the fact that the area formula simplifies directly to:"
+      }
+    ]
+  },
+  {
+    "num_steps": 6,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 1,
+        "span": "for any given set of six pairs, there is exactly one way to arrange them alphabetically such that the last word contains $G$."
+      },
+      {
+        "type": "E2",
+        "start_step": 2,
+        "span": "\\frac{12!}{(3!)^4 \\cdot 4!}"
+      },
+      {
+        "type": "E1",
+        "start_step": 4,
+        "span": "Therefore, out of all possible ways to pair and arrange the letters, $\\frac{1}{6!} = \\frac{1}{720}$ of them will have $G$ as the last letter."
+      }
+    ]
+  },
+  {
+    "num_steps": 7,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 2,
+        "span": "This represents a set of lines in the complex plane. The center of these lines is at \\(4 + i\\) and \\(3i\\), respectively"
+      },
+      {
+        "type": "E3",
+        "start_step": 5,
+        "span": "The correct approach is to find the intersection of the circle and the line in a different way."
+      },
+      {
+        "type": "E5",
+        "start_step": 7,
+        "span": "The final answer is:\n\\[ \\boxed{10} \\]"
+      }
+    ]
+  },
+  {
+    "num_steps": 10,
+    "errors": [
+      {
+        "type": "E6",
+        "start_step": 3,
+        "span": "\\[(x', y') = (y - \\sqrt{3}x, x + y/2)\\]"
+      },
+      {
+        "type": "E2",
+        "start_step": 4,
+        "span": "Since this is the same as the original coordinates but rotated, we can set up the equations:\n\\[\n x = y - \\sqrt{3}x\n\\]\n\\[\n y = x + y/2\n\\]"
+      },
+      {
+        "type": "E5",
+        "start_step": 9,
+        "span": "After simplifying, we find that the unique point in the fourth quadrant where the original parabola and its image intersect has \\(y\\) coordinate \\(\\frac{1}{2}\\)."
+      },
+      {
+        "type": "E4",
+        "start_step": 9,
+        "span": "\\[\n x = 0\n\\]\n\\[\n y = 4\n\\]"
+      }
+    ]
+  },
+  {
+    "num_steps": 9,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 4,
+        "span": "The next row must use the remaining digits from 1 to 9 and ensure that each number appears exactly once in its respective block."
+      },
+      {
+        "type": "E5",
+        "start_step": 8,
+        "span": "The answer is:"
+      }
+    ]
+  },
+  {
+    "num_steps": 7,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 1,
+        "span": "We need to solve:\n\\[ x = 34y^2 \\]"
+      },
+      {
+        "type": "E2",
+        "start_step": 3,
+        "span": "f(x + 4) = x + 4 = f(x)"
+      },
+      {
+        "type": "E2",
+        "start_step": 4,
+        "span": "The function repeats every 4 units, so we can find the intersections in one period and then multiply by the number of periods."
+      }
+    ]
+  },
+  {
+    "num_steps": 9,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 2,
+        "span": "\\[ y - zx < x - yz \\]"
+      },
+      {
+        "type": "E2",
+        "start_step": 2,
+        "span": "Rearrange these inequalities:\n\\[ y + zx > x + yz \\]\n\\[ z + xy > x + yz \\]"
+      },
+      {
+        "type": "E2",
+        "start_step": 3,
+        "span": "If \\(z = 1\\), then \\(y > x\\)."
+      },
+      {
+        "type": "E2",
+        "start_step": 7,
+        "span": "The region is a tetrahedron bounded by the plane and the inequalities."
+      },
+      {
+        "type": "E5",
+        "start_step": 8,
+        "span": "After calculating the area, we find that it can be expressed as \\(a\\sqrt{b}\\)."
+      }
+    ]
+  },
+  {
+    "num_steps": 6,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 3,
+        "span": "First, let's calculate the maximum number of regions that can be created with 25 additional line segments:"
+      },
+      {
+        "type": "E2",
+        "start_step": 4,
+        "span": "\\[ E(R) = R(0) + \\sum_{n=1}^{25} (R(n+1) - R(n)) \\]"
+      }
+    ]
+  },
+  {
+    "num_steps": 7,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 2,
+        "span": "the sum of distances from any point to the vertices of a polygon can be minimized by considering the Fermat point (or Torricelli point)"
+      }
+    ]
+  },
+  {
+    "num_steps": 9,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 2,
+        "span": "\\[ a^3 \\equiv b^3 \\equiv c^3 \\pmod{3} \\]"
+      },
+      {
+        "type": "E2",
+        "start_step": 6,
+        "span": "Therefore, we can count only one out of each possible combination and multiply by 6 (since there are \\(3!\\) permutations)."
+      },
+      {
+        "type": "E5",
+        "start_step": 8,
+        "span": "The number of valid triples \\((a, b, c)\\) is \\(N = 6^3 = 216\\)."
+      }
+    ]
+  },
+  {
+    "num_steps": 39,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 11,
+        "span": "\\[ x_1 + x_2 = 26 \\]"
+      },
+      {
+        "type": "E5",
+        "start_step": 26,
+        "span": "\\(x_1 = 20\\)"
+      }
+    ]
+  },
+  {
+    "num_steps": 13,
+    "errors": [
+      {
+        "type": "E6",
+        "start_step": 2,
+        "span": "((d-2)^2+9) = 3(d+1)(d^2-4d+7)"
+      },
+      {
+        "type": "E2",
+        "start_step": 3,
+        "span": "Since \\( d \\) must divide \\( (d+1)(d^2-4d+7) \\)"
+      },
+      {
+        "type": "E6",
+        "start_step": 4,
+        "span": "If \\( d = 1 \\), then \\( n + 2 = 3 \\)."
+      },
+      {
+        "type": "E2",
+        "start_step": 6,
+        "span": "Since \\( d = 0 \\) divides 78, it is a valid solution."
+      },
+      {
+        "type": "E5",
+        "start_step": 10,
+        "span": "We can see that for each positive divisor of 162, there is a corresponding negative divisor."
+      }
+    ]
+  },
+  {
+    "num_steps": 8,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 3,
+        "span": "Let's denote the sides as follows:\n- Top-left (red)\n- Top-right (blue)\n- Bottom-left (red)\n- Bottom-right (blue)"
+      }
+    ]
+  },
+  {
+    "num_steps": 11,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 2,
+        "span": "\\log_k (5^{k^2 - 1}) = \\frac{k^2 - 1}{\\log_k 5}"
+      },
+      {
+        "type": "E2",
+        "start_step": 5,
+        "span": "\\prod_{k=4}^{63} \\frac{(k-1)(k+1)}{(k-2)(k+2)} \\cdot \\log_{k+1} 5"
+      },
+      {
+        "type": "E2",
+        "start_step": 6,
+        "span": "\\left( \\frac{3}{5} \\cdot \\frac{7}{9} \\right) \\cdot \\log_{5} 6 = \\frac{1}{2} \\cdot \\log_{5} 6"
+      },
+      {
+        "type": "E2",
+        "start_step": 10,
+        "span": "\\log_{65} 64 = \\log_{65} (65 - 1) = -\\log_65 65^{-1} = -1"
+      },
+      {
+        "type": "E4",
+        "start_step": 11,
+        "span": "ANSWER: 0"
+      }
+    ]
+  },
+  {
+    "num_steps": 4,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 2,
+        "span": "This means that \\(\\angle DEF = 36^\\circ\\), \\(\\angle EDF = 60^\\circ - 84^\\circ + 90^\\circ = 75^\\circ\\), and \\(\\angle DEF = 36^\\circ\\)"
+      },
+      {
+        "type": "E2",
+        "start_step": 2,
+        "span": "\\wideparen{DE} = 2 \\cdot \\angle EDF"
+      },
+      {
+        "type": "E5",
+        "start_step": 2,
+        "span": "\\wideparen{HJ} = 36^\\circ\\n   - \\wideparen{FG} = 84^\\circ"
+      }
+    ]
+  },
+  {
+    "num_steps": 6,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 1,
+        "span": "the distance between their centers, $AB = 6 + 15 = 21$"
+      },
+      {
+        "type": "E2",
+        "start_step": 2,
+        "span": "Since $\\overline{BC}$ is a diameter of $\\omega_2$, we know that $BC = 12$."
+      },
+      {
+        "type": "E2",
+        "start_step": 3,
+        "span": "This implies that the heights from $D$ to $GH$ and from $C$ to $FG$ are equal"
+      },
+      {
+        "type": "E2",
+        "start_step": 4,
+        "span": "The area of rectangle $EFGH$ would then be $x \\cdot y = 36$."
+      }
+    ]
+  },
+  {
+    "num_steps": 9,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 3,
+        "span": "Therefore, any valid subset \\(B\\) will be:"
+      }
+    ]
+  },
+  {
+    "num_steps": 432,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 3,
+        "span": "The greedy algorithm will choose the 10-cent coin because it's larger than 1 cent but still fits within 2 cents."
+      },
+      {
+        "type": "E4",
+        "start_step": 7,
+        "span": "We can see a pattern emerging where for \\( N = 1 \\) through \\( N = 4 \\), the greedy algorithm always succeeds."
+      },
+      {
+        "type": "E5",
+        "start_step": 432,
+        "span": "For \\( N = 1411 \\), we can use one hundred ninety-one-cent coins, one hundred eighty-nine 10-cent coins, one hundred eighty-eight 25-cent coins, or a combination of these that sums up exactly"
+      }
+    ]
+  },
+  {
+    "num_steps": 6,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 3,
+        "span": "but since we are only interested in positive multiples of \\(\\frac{1}{7}\\), we consider \\(k = 1, 2, 3, 4, 5, 6\\)."
+      },
+      {
+        "type": "E2",
+        "start_step": 4,
+        "span": "For each value of \\(k\\), there is exactly one solution for \\(x\\) within the interval \\(0 < x < 2\\pi\\)."
+      },
+      {
+        "type": "E2",
+        "start_step": 4,
+        "span": "and hence 6 points where the graph of \\(y = f(x)\\) is tangent to the \\(x\\)-axis."
+      }
+    ]
+  },
+  {
+    "num_steps": 9,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 1,
+        "span": "if person A sits in chair 1, then person B cannot sit in chair 2 or chair 3"
+      }
+    ]
+  },
+  {
+    "num_steps": 10,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 1,
+        "span": "number of perfect matchings in a graph where each vertex is connected to exactly two other vertices"
+      },
+      {
+        "type": "E2",
+        "start_step": 3,
+        "span": "M(n) = (n-1)! \\cdot S(n, n-1)"
+      },
+      {
+        "type": "E6",
+        "start_step": 8,
+        "span": "M(24) = 658008"
+      }
+    ]
+  },
+  {
+    "num_steps": 10,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 1,
+        "span": "\\[ \\text{Area} = \\frac{1}{2} \\cdot |A_1 A_2| \\cdot |A_3 A_4| \\cdots |A_{10} A_{11}| \\cdot |\\sin(\\angle A_i A_1 A_{i+1})| = 1. \\]"
+      },
+      {
+        "type": "E2",
+        "start_step": 2,
+        "span": "\\[ |A_1 A_{i+1}|^2 = |A_1 A_2|^2 + |A_3 A_4|^2 - 2 \\cdot |A_1 A_2| \\cdot |A_3 A_4| \\cdot \\cos(\\angle A_i A_1 A_{i+1}). \\]"
+      },
+      {
+        "type": "E1",
+        "start_step": 4,
+        "span": "\\[ |A_1 A_2| + |A_3 A_4| + \\cdots + |A_{10} A_{11}| = 20. \\]"
+      },
+      {
+        "type": "E2",
+        "start_step": 7,
+        "span": "By symmetry and the properties of the polygon, we can deduce:"
+      },
+      {
+        "type": "E5",
+        "start_step": 8,
+        "span": "After simplifying and solving the equation:\\n\\[ |A_1 A_2| + |A_{11} A_1| = \\frac{5\\sqrt{3}}{2}. \\]"
+      },
+      {
+        "type": "E2",
+        "start_step": 8,
+        "span": "\\(p = 0\\)"
+      }
+    ]
+  },
+  {
+    "num_steps": 9,
+    "errors": [
+      {
+        "type": "E6",
+        "start_step": 2,
+        "span": "3x^2 = x + 1 - x"
+      },
+      {
+        "type": "E6",
+        "start_step": 4,
+        "span": "= \\frac{471}{825} = x_2"
+      }
+    ]
+  },
+  {
+    "num_steps": 11,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 5,
+        "span": "we recognize that points K and L are symmetric with respect to the median"
+      },
+      {
+        "type": "E2",
+        "start_step": 7,
+        "span": "\\text{Area of } BKLC = \\text{Area of } \\triangle ABC - 2 \\times \\text{Area of } \\triangle AKL"
+      },
+      {
+        "type": "E5",
+        "start_step": 9,
+        "span": "\\text{Area of } BKLC = 360"
+      },
+      {
+        "type": "E2",
+        "start_step": 10,
+        "span": "n = 120"
+      }
+    ]
+  },
+  {
+    "num_steps": 14,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 1,
+        "span": "The function achieves its minimum value at exactly two positive real numbers if and only if it has a double root."
+      },
+      {
+        "type": "E6",
+        "start_step": 3,
+        "span": "f'(x) = \\frac{(x-18)(x-72)(x-98)(x-k) + (x-18)(x-72)(x-98)x}{x^2} - 1."
+      }
+    ]
+  }
+]

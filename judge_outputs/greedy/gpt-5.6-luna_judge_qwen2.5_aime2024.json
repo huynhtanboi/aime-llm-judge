@@ -1,0 +1,590 @@
+[
+  {
+    "problem_idx": "2024-II-4",
+    "num_steps": 18,
+    "errors": [
+      {
+        "type": "E6",
+        "start_step": 4,
+        "span": "\\frac{x \\cdot y \\cdot z}{y \\cdot x \\cdot z} = 1"
+      },
+      {
+        "type": "E2",
+        "start_step": 12,
+        "span": "4 \\log_2 x + 3 \\log_2 y + 2 \\log_2 z = (3 - 1) \\log_2 x + (2 - 1) \\log_2 y + (1 - 1) \\log_2 z"
+      },
+      {
+        "type": "E2",
+        "start_step": 13,
+        "span": "3 \\left( \\frac{1}{2} + \\log_2 y + \\log_2 z - \\log_2 (xyz) \\right)"
+      },
+      {
+        "type": "E6",
+        "start_step": 14,
+        "span": "= 3 \\cdot \\frac{1}{2} + 2 \\cdot \\frac{1}{3} + \\frac{1}{4}"
+      }
+    ]
+  },
+  {
+    "problem_idx": "2024-II-12",
+    "num_steps": 8,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 3,
+        "span": "P(t, 0), \\quad Q(0, t)"
+      },
+      {
+        "type": "E2",
+        "start_step": 5,
+        "span": "This occurs at the intersection of the perpendicular bisector of \\( AB \\) with line \\( AB \\)."
+      },
+      {
+        "type": "E6",
+        "start_step": 6,
+        "span": "\\[ -6\\sqrt{3}x + 3\\sqrt{3} = 2x + \\sqrt{3} \\]"
+      }
+    ]
+  },
+  {
+    "problem_idx": "2024-I-4",
+    "num_steps": 6,
+    "errors": []
+  },
+  {
+    "problem_idx": "2024-I-3",
+    "num_steps": 5,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 1,
+        "span": "If \\( n = 2, 3 \\), Alice can take all tokens and win."
+      },
+      {
+        "type": "E4",
+        "start_step": 2,
+        "span": "These numbers can be expressed as \\( n = 4k \\) or \\( n = 4k + 3 \\)."
+      }
+    ]
+  },
+  {
+    "problem_idx": "2024-I-8",
+    "num_steps": 9,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 1,
+        "span": "The centers of these circles form a regular octagon."
+      },
+      {
+        "type": "E2",
+        "start_step": 3,
+        "span": "The inradius \\(r\\) of triangle \\(ABC\\) is the distance from the center to any side, which is the same as the circumradius of the octagon:"
+      },
+      {
+        "type": "E2",
+        "start_step": 7,
+        "span": "Since the inradius of triangle \\(ABC\\) is consistent with both scenarios, we equate:"
+      },
+      {
+        "type": "E2",
+        "start_step": 9,
+        "span": "The exact value of \\(m\\) and \\(n\\) can be derived from the expression, but for simplicity in this context:"
+      }
+    ]
+  },
+  {
+    "problem_idx": "2024-I-12",
+    "num_steps": 10,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 1,
+        "span": "f(x) = \\left| x - \\frac{1}{2} \\right|."
+      },
+      {
+        "type": "E1",
+        "start_step": 2,
+        "span": "g(x) = \\left| x - \\frac{1}{4} \\right|."
+      },
+      {
+        "type": "E2",
+        "start_step": 9,
+        "span": "Both \\( f(\\sin(2\\pi x)) \\) and \\( f(\\cos(3\\pi y)) \\) are periodic functions with periods \\(\\frac{1}{2}\\) and \\(\\frac{2}{3}\\), respectively."
+      },
+      {
+        "type": "E2",
+        "start_step": 10,
+        "span": "For each value of \\( x \\) in \\([0, 1)\\), there is exactly one corresponding \\( y \\) that satisfies the equation due to the symmetry and periodicity."
+      }
+    ]
+  },
+  {
+    "problem_idx": "2024-I-11",
+    "num_steps": 8,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 3,
+        "span": "there must be exactly \\(k\\) positions in the original configuration that are red"
+      },
+      {
+        "type": "E2",
+        "start_step": 3,
+        "span": "there are no valid rotations"
+      },
+      {
+        "type": "E2",
+        "start_step": 3,
+        "span": "This cannot happen since we only have one blue and eight positions."
+      },
+      {
+        "type": "E2",
+        "start_step": 3,
+        "span": "For each choice, there are exactly 4 valid rotations"
+      },
+      {
+        "type": "E2",
+        "start_step": 3,
+        "span": "This cannot happen since we have an odd number of blue and an even number of red."
+      },
+      {
+        "type": "E2",
+        "start_step": 3,
+        "span": "These cases are symmetric to the cases for \\(2\\), \\(3\\), and \\(4\\) respectively due to rotational symmetry."
+      }
+    ]
+  },
+  {
+    "problem_idx": "2024-II-11",
+    "num_steps": 7,
+    "errors": [
+      {
+        "type": "E6",
+        "start_step": 5,
+        "span": "which simplifies to:\n\\[27000000 - 600(ab+bc+ca) - (a^3 + b^3 + c^3) + 3abc = 6,000,000.\\]"
+      },
+      {
+        "type": "E5",
+        "start_step": 6,
+        "span": "By comparing terms and solving, we find that the only feasible solution is when \\(a = b = c = 100\\)."
+      }
+    ]
+  },
+  {
+    "problem_idx": "2024-I-2",
+    "num_steps": 11,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 10,
+        "span": "By inspection, we find that:\n\\[ a = b = 2 \\]"
+      },
+      {
+        "type": "E4",
+        "start_step": 11,
+        "span": "\\[ xy = (e^2)(e^2) = e^4 \\]\n\nSince the problem asks for an integer, we need to check if our solution fits within the constraints. Given that \\(x\\) and \\(y\\) are real numbers greater than 1, and the logarithmic equations hold true with these values, we conclude:\n\\[ xy = 100 \\]"
+      }
+    ]
+  },
+  {
+    "problem_idx": "2024-II-6",
+    "num_steps": 14,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 2,
+        "span": "choosing any nonempty subset of the elements in \\( A \\) that are less than or equal to \\( a_i \\)"
+      },
+      {
+        "type": "E2",
+        "start_step": 11,
+        "span": "Since 2036 is closer to 2024, we need to adjust slightly:"
+      },
+      {
+        "type": "E2",
+        "start_step": 13,
+        "span": "the sum of these elements is simply the number of elements in \\( A \\)"
+      }
+    ]
+  },
+  {
+    "problem_idx": "2024-I-7",
+    "num_steps": 8,
+    "errors": [
+      {
+        "type": "E6",
+        "start_step": 6,
+        "span": "- 36i(\\sin\\theta - i\\cos\\theta)."
+      },
+      {
+        "type": "E6",
+        "start_step": 8,
+        "span": "\\sqrt{358992} = \\sqrt{144 \\times 2506.5}"
+      },
+      {
+        "type": "E2",
+        "start_step": 8,
+        "span": "Since we are looking for the largest possible real part, and the answer must be an integer:"
+      }
+    ]
+  },
+  {
+    "problem_idx": "2024-II-3",
+    "num_steps": 7,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 3,
+        "span": "This implies that \\(a + d = 9\\) and \\(b + e + c + f = 9\\)."
+      },
+      {
+        "type": "E6",
+        "start_step": 6,
+        "span": "The number of pairs \\((a, d)\\) is:\n\\[\n\\binom{10}{2} = 45\n\\]"
+      }
+    ]
+  },
+  {
+    "problem_idx": "2024-I-1",
+    "num_steps": 8,
+    "errors": []
+  },
+  {
+    "problem_idx": "2024-II-7",
+    "num_steps": 7,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 2,
+        "span": "Simplifying these, we get:\n\\[ a + b + c + d \\equiv 0 \\pmod{7} \\]"
+      },
+      {
+        "type": "E3",
+        "start_step": 5,
+        "span": "Rechecking and adjusting correctly:\n\\[ N = 9993 \\]\n- Changing the first digit: \\( 1993 \\)\n\\[ 1 + 9 + 9 + 3 = 22 \\equiv 1 \\pmod{7} \\]\n\nFinally, correct number is:\n\\[ N = 9986 \\]"
+      }
+    ]
+  },
+  {
+    "problem_idx": "2024-I-6",
+    "num_steps": 9,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 4,
+        "span": "This is equivalent to choosing 4 out of these 15 positions, which can be done in \\(\\binom{15}{4}\\) ways."
+      },
+      {
+        "type": "E2",
+        "start_step": 5,
+        "span": "The number of ways to distribute 8 R's among 5 segments is given by the stars and bars method, which is \\(\\binom{8+4}{4} = \\binom{12}{4}\\)."
+      },
+      {
+        "type": "E6",
+        "start_step": 8,
+        "span": "1365 \\times 495 = 675525"
+      }
+    ]
+  },
+  {
+    "problem_idx": "2024-I-13",
+    "num_steps": 4,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 2,
+        "span": "\\(-1\\) is a fourth power residue modulo \\( p \\) if and only if the order of \\(-1\\) in the multiplicative group \\(\\mathbb{Z}_p^*\\) divides 4."
+      },
+      {
+        "type": "E5",
+        "start_step": 3,
+        "span": "- For \\( p = 13 \\):"
+      },
+      {
+        "type": "E6",
+        "start_step": 3,
+        "span": "6^4 = 1296 \\equiv -1 \\pmod{13} \\quad (\\text{since } 1296 \\div 13 = 99 \\text{ remainder } 9)"
+      }
+    ]
+  },
+  {
+    "problem_idx": "2024-I-15",
+    "num_steps": 9,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 1,
+        "span": "\\[ ab + bc + ca = 54 \\]"
+      },
+      {
+        "type": "E1",
+        "start_step": 2,
+        "span": "Since the volume is 23 (which is a prime number), one of the dimensions must be 1."
+      }
+    ]
+  },
+  {
+    "problem_idx": "2024-II-15",
+    "num_steps": 5,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 2,
+        "span": "Since there are 6 pairs of opposite sides in a dodecagon (each pair consists of two parallel sides), the number of such rectangles is:"
+      },
+      {
+        "type": "E2",
+        "start_step": 3,
+        "span": "The only way this can happen is if we use two sets of opposite sides that are parallel and separated by an even number of vertices (which would correspond to the diagonals of length 4)."
+      },
+      {
+        "type": "E2",
+        "start_step": 3,
+        "span": "There are 6 pairs of opposite sides, and for each pair, there is exactly one diagonal that can be used to form a rectangle (the other diagonal would not form a right angle)."
+      }
+    ]
+  },
+  {
+    "problem_idx": "2024-II-10",
+    "num_steps": 6,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 4,
+        "span": "AI^2 = R(R - r) = 13(13 - 6) = 13 \\cdot 7 = 91."
+      },
+      {
+        "type": "E2",
+        "start_step": 6,
+        "span": "AB \\cdot AC = \\frac{2K}{r}."
+      },
+      {
+        "type": "E2",
+        "start_step": 6,
+        "span": "for a right angle at \\(A\\) (which is implied by the perpendicularity condition)"
+      }
+    ]
+  },
+  {
+    "problem_idx": "2024-II-9",
+    "num_steps": 7,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 2,
+        "span": "each must be either all white or all black"
+      },
+      {
+        "type": "E2",
+        "start_step": 5,
+        "span": "This means we must use exactly 25 chips in each row and each column."
+      }
+    ]
+  },
+  {
+    "problem_idx": "2024-II-14",
+    "num_steps": 108,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 2,
+        "span": "n = ab + b^1a + 0 \\cdot b^2 = a \\cdot b + b \\cdot a = (a+b)b"
+      },
+      {
+        "type": "E2",
+        "start_step": 7,
+        "span": "possibility that \\( a + b = k^2 \\)"
+      },
+      {
+        "type": "E2",
+        "start_step": 108,
+        "span": "the smallest integer greater than or equal to 2023 that is not a \\( b \\)-beautiful integer for any base \\( b \\) is:"
+      }
+    ]
+  },
+  {
+    "problem_idx": "2024-II-5",
+    "num_steps": 9,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 3,
+        "span": "The triangle formed by extending the sides of the hexagon is a larger equilateral triangle."
+      },
+      {
+        "type": "E2",
+        "start_step": 5,
+        "span": "the homothety centered at the centroid of the hexagon that maps the smaller hexagon to the larger one"
+      },
+      {
+        "type": "E2",
+        "start_step": 8,
+        "span": "the largest side in the extended triangle (300) corresponds to three times the side length of the hexagon"
+      }
+    ]
+  },
+  {
+    "problem_idx": "2024-I-9",
+    "num_steps": 5,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 1,
+        "span": "for point \\(B = (-x_1, -y_1)\\)"
+      },
+      {
+        "type": "E2",
+        "start_step": 4,
+        "span": "the maximum value of \\(BD^2\\) occurs when the points are at the vertices of the asymptotes"
+      },
+      {
+        "type": "E6",
+        "start_step": 5,
+        "span": "BD^2 = 40 + 32 = 72 \times 2 = 160"
+      }
+    ]
+  },
+  {
+    "problem_idx": "2024-II-2",
+    "num_steps": 10,
+    "errors": [
+      {
+        "type": "E6",
+        "start_step": 6,
+        "span": "This gives us the list [1, 2, 9, 9, 3, 4], which sums to 20."
+      },
+      {
+        "type": "E2",
+        "start_step": 7,
+        "span": "Here, the median is 4, which does not appear in the list."
+      },
+      {
+        "type": "E5",
+        "start_step": 7,
+        "span": "The simplest way to add this is by adding another 5 and a 6 (since we want unique numbers)"
+      }
+    ]
+  },
+  {
+    "problem_idx": "2024-II-1",
+    "num_steps": 16,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 12,
+        "span": "|D \\cup G \\cup S| = 900"
+      },
+      {
+        "type": "E2",
+        "start_step": 13,
+        "span": "195 + 367 + 562 - (437 + 3x) + x = 900"
+      },
+      {
+        "type": "E6",
+        "start_step": 13,
+        "span": "x = -\\frac{213}{-2} = 106.5"
+      },
+      {
+        "type": "E2",
+        "start_step": 15,
+        "span": "|D \\cup G \\cup S| = 900 - (437 + 234) + x"
+      }
+    ]
+  },
+  {
+    "problem_idx": "2024-I-10",
+    "num_steps": 8,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 1,
+        "span": "the fact that $D$ lies on the polar line of $A$ with respect to $\\omega$"
+      },
+      {
+        "type": "E2",
+        "start_step": 3,
+        "span": "AB \\cdot AC = AP \\cdot AD"
+      },
+      {
+        "type": "E6",
+        "start_step": 5,
+        "span": "R = \\frac{90}{24\\sqrt{14}}"
+      },
+      {
+        "type": "E2",
+        "start_step": 6,
+        "span": "AP = \\frac{AB \\cdot AC}{BC} = \\frac{5 \\cdot 10}{9} = \\frac{50}{9}"
+      }
+    ]
+  },
+  {
+    "problem_idx": "2024-II-8",
+    "num_steps": 6,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 4,
+        "span": "Using the Pythagorean theorem, we get:\n\\[ 8^2 = r_i^2 + 3^2 \\]"
+      },
+      {
+        "type": "E4",
+        "start_step": 5,
+        "span": "Thus, the answer is:\n\\[ m = 132, \\quad n = 59 \\]"
+      }
+    ]
+  },
+  {
+    "problem_idx": "2024-I-14",
+    "num_steps": 5,
+    "errors": [
+      {
+        "type": "E6",
+        "start_step": 1,
+        "span": "288 V^2 = -567"
+      },
+      {
+        "type": "E5",
+        "start_step": 2,
+        "span": "Summing these areas gives us the total surface area \\(S\\)."
+      }
+    ]
+  },
+  {
+    "problem_idx": "2024-I-5",
+    "num_steps": 8,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 3,
+        "span": "D(x_1, y_1)"
+      },
+      {
+        "type": "E2",
+        "start_step": 4,
+        "span": "we can infer that point \\( D \\) is directly below or above point \\( C \\)"
+      },
+      {
+        "type": "E2",
+        "start_step": 7,
+        "span": "|x_3 - 107| = 184"
+      }
+    ]
+  },
+  {
+    "problem_idx": "2024-II-13",
+    "num_steps": 15,
+    "errors": [
+      {
+        "type": "E6",
+        "start_step": 5,
+        "span": "P(2) = (2-1)(2-\\omega)(2-\\omega^2)\\cdots(2-\\omega^{12}) = 1"
+      },
+      {
+        "type": "E5",
+        "start_step": 13,
+        "span": "By symmetry and properties of roots of unity, the product simplifies to a known result from cyclotomic polynomials. The final value is:"
+      }
+    ]
+  }
+]

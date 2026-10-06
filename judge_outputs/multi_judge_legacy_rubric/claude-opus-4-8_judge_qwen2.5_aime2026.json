@@ -1,0 +1,410 @@
+[
+  {
+    "problem_idx": 1,
+    "num_steps": 15,
+    "errors": []
+  },
+  {
+    "problem_idx": 2,
+    "num_steps": 4,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 3,
+        "span": "(5,0,1), (4,1,1)"
+      },
+      {
+        "type": "E5",
+        "start_step": 4,
+        "span": "The total number of such palindromes is \\( 15 + 25 = 40 \\)."
+      }
+    ]
+  },
+  {
+    "problem_idx": 3,
+    "num_steps": 9,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 2,
+        "span": "The distance from the center of the hemisphere (and the disk) to the farthest point on the sphere's surface that can still fit inside the hemisphere is \\(200 - 42 = 158\\)."
+      }
+    ]
+  },
+  {
+    "problem_idx": 4,
+    "num_steps": 5,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 3,
+        "span": "A number \\( k \\) can be written as a product of two distinct positive integers if it has at least one divisor greater than its square root"
+      }
+    ]
+  },
+  {
+    "problem_idx": 5,
+    "num_steps": 5,
+    "errors": [
+      {
+        "type": "E6",
+        "start_step": 3,
+        "span": "B' = (1 - \\cos \\theta, -\\sin \\theta)."
+      },
+      {
+        "type": "E2",
+        "start_step": 4,
+        "span": "The distance between points \\(A' = (\\cos \\theta, \\sin \\theta)\\) and \\(B' = (1 - \\cos \\theta, -\\sin \\theta)\\)"
+      }
+    ]
+  },
+  {
+    "problem_idx": 6,
+    "num_steps": 14,
+    "errors": []
+  },
+  {
+    "problem_idx": 7,
+    "num_steps": 5,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 1,
+        "span": "the only possible cycle structure is one 6-cycle"
+      }
+    ]
+  },
+  {
+    "problem_idx": 8,
+    "num_steps": 9,
+    "errors": [
+      {
+        "type": "E6",
+        "start_step": 1,
+        "span": "17017 = 17 \\times 19^2"
+      },
+      {
+        "type": "E2",
+        "start_step": 7,
+        "span": "2. \\(5^a \\equiv 1\\) and \\(7^b \\equiv 5\\)"
+      }
+    ]
+  },
+  {
+    "problem_idx": 9,
+    "num_steps": 9,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 2,
+        "span": "the odd-numbered stickers (1, 3, 5) must cover three specific faces such that only one face remains uncovered"
+      }
+    ]
+  },
+  {
+    "problem_idx": 10,
+    "num_steps": 5,
+    "errors": [
+      {
+        "type": "E5",
+        "start_step": 3,
+        "span": "This rotation effectively swaps the roles of \\( A \\) and \\( C \\) while keeping \\( B \\) fixed."
+      },
+      {
+        "type": "E2",
+        "start_step": 5,
+        "span": "\\text{Area of hexagon} = 2 \\times 84 = 168."
+      }
+    ]
+  },
+  {
+    "problem_idx": 11,
+    "num_steps": 8,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 4,
+        "span": "This ensures that every pair of adjacent cells (both horizontally and vertically) has the maximum possible difference of \\(63\\)."
+      }
+    ]
+  },
+  {
+    "problem_idx": 12,
+    "num_steps": 6,
+    "errors": [
+      {
+        "type": "E5",
+        "start_step": 3,
+        "span": "The coordinates of \\(D\\) are:\n\\[ D = \\left( 4, \\frac{8}{3} \\right). \\]"
+      },
+      {
+        "type": "E1",
+        "start_step": 4,
+        "span": "the distance between the planes is equal to the sum of the radii of the spheres"
+      }
+    ]
+  },
+  {
+    "problem_idx": 13,
+    "num_steps": 11,
+    "errors": [
+      {
+        "type": "E5",
+        "start_step": 4,
+        "span": "The binomial coefficient \\( \\binom{10000}{k} \\) is non-zero if and only if the sum of the digits of \\( k \\) in base 503 does not exceed the corresponding digit of 10000 in base 503."
+      },
+      {
+        "type": "E2",
+        "start_step": 8,
+        "span": "S_r = \\frac{2^{10000}}{502}."
+      },
+      {
+        "type": "E2",
+        "start_step": 10,
+        "span": "S_r = \\frac{2^{10000} - 1}{502}."
+      }
+    ]
+  },
+  {
+    "problem_idx": 14,
+    "num_steps": 11,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 8,
+        "span": "f_1^2 + f_2^2 + f_3^2 + f_4^2 + f_5^2 = 2(a^2 + b^2 + c^2 + d^2 + e^2) - (a^2 + b^2 + c^2 + d^2 + e^2)"
+      },
+      {
+        "type": "E4",
+        "start_step": 9,
+        "span": "P^2 = 616 - 800 + 308 = 524"
+      }
+    ]
+  },
+  {
+    "problem_idx": 15,
+    "num_steps": 6,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 2,
+        "span": "each loop must contain:\n\\[ \\frac{100}{5} = 20 \\]\ncells"
+      },
+      {
+        "type": "E5",
+        "start_step": 6,
+        "span": "we can use known results or computational tools to find that there are exactly:\n\\[ \\boxed{126} \\]"
+      }
+    ]
+  },
+  {
+    "problem_idx": 16,
+    "num_steps": 7,
+    "errors": [
+      {
+        "type": "E5",
+        "start_step": 4,
+        "span": "We can check if there are other pairs by solving the equation for different values of \\(m\\):\n- If \\(m = 5\\), then \\(2k = 3(5) - 1 = 14 \\implies k = 7\\) (valid pair).\n- If \\(m = 7\\), then \\(2k = 3(7) - 1 = 20 \\implies k = 10\\) (valid pair)."
+      }
+    ]
+  },
+  {
+    "problem_idx": 17,
+    "num_steps": 12,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 2,
+        "span": "it must make exactly 10 steps to reach from one end to the other"
+      },
+      {
+        "type": "E4",
+        "start_step": 12,
+        "span": "given that \\( N = 638 \\) is a perfect square in this context, we conclude"
+      }
+    ]
+  },
+  {
+    "problem_idx": 18,
+    "num_steps": 9,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 2,
+        "span": "point \\( E \\) on the y-axis at \\((0, 20)\\)"
+      },
+      {
+        "type": "E6",
+        "start_step": 9,
+        "span": "Thus, there are 253 valid values for \\( AB \\)."
+      }
+    ]
+  },
+  {
+    "problem_idx": 19,
+    "num_steps": 6,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 2,
+        "span": "the maximum digit in any number is 9. Therefore, \\( b \\) will be at least 10."
+      }
+    ]
+  },
+  {
+    "problem_idx": 20,
+    "num_steps": 13,
+    "errors": [
+      {
+        "type": "E6",
+        "start_step": 7,
+        "span": "\\frac{1}{(r-4)(r-5)} \\cdot \\frac{1}{6(b-3)} = \\frac{1}{120(r-5)(r-6)} \\cdot \\frac{1}{2(b-2)}"
+      }
+    ]
+  },
+  {
+    "problem_idx": 21,
+    "num_steps": 9,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 6,
+        "span": "This implies that the quadratic in terms of \\( x \\) must have a double root."
+      },
+      {
+        "type": "E5",
+        "start_step": 8,
+        "span": "Solving the resulting quadratic equation, we find two possible values for \\( r \\):\n\\[ r_1 = 35, \\quad r_2 = 7. \\]"
+      }
+    ]
+  },
+  {
+    "problem_idx": 22,
+    "num_steps": 8,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 4,
+        "span": "let's use complementary counting to find the probability that either Alice or Bob does not get enough coins before Carol gets any"
+      }
+    ]
+  },
+  {
+    "problem_idx": 23,
+    "num_steps": 12,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 5,
+        "span": "We need to find values of \\( y \\) and \\( d \\) that satisfy this condition."
+      }
+    ]
+  },
+  {
+    "problem_idx": 24,
+    "num_steps": 9,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 3,
+        "span": "S = \\sum_{k=1}^{\\infty} \\sum_{n=1}^{k} \\left(\\frac{1}{10^n}\\right)^k"
+      },
+      {
+        "type": "E2",
+        "start_step": 5,
+        "span": "This is a known series that sums to \\( S = \\ln(2) \\)."
+      }
+    ]
+  },
+  {
+    "problem_idx": 25,
+    "num_steps": 11,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 2,
+        "span": "by the Power of a Point theorem applied at point \\( A \\):\n\\[ AD^2 = AB \\cdot AE = AC \\cdot AF. \\]"
+      },
+      {
+        "type": "E5",
+        "start_step": 8,
+        "span": "we need to find the smallest values of \\( k \\) that satisfy these conditions. The smallest value for \\( p \\) is 1, giving:"
+      }
+    ]
+  },
+  {
+    "problem_idx": 26,
+    "num_steps": 6,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 4,
+        "span": "\\alpha \\beta \\gamma = -\\sqrt[3]{400}."
+      },
+      {
+        "type": "E5",
+        "start_step": 6,
+        "span": "we find that the greatest integer \\(n\\) that satisfies these conditions is:"
+      }
+    ]
+  },
+  {
+    "problem_idx": 27,
+    "num_steps": 5,
+    "errors": [
+      {
+        "type": "E6",
+        "span": "= \\sqrt{(5\\sqrt{10} + 5)(5\\sqrt{10} - 5)(5)(5)} = 25(10 - 1) = 75",
+        "start_step": 2
+      },
+      {
+        "type": "E6",
+        "span": "= \\sqrt{(5\\sqrt{10} + 9)(5\\sqrt{10} - 9)(9)(9)} = 81(10 - 1) = 729",
+        "start_step": 2
+      },
+      {
+        "type": "E5",
+        "span": "Given the complexity, we use known results for such symmetric tetrahedrons. The distance \\( RS \\) can be simplified to:\n\\[ RS = \\frac{13}{5} \\]",
+        "start_step": 4
+      }
+    ]
+  },
+  {
+    "problem_idx": 28,
+    "num_steps": 8,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 6,
+        "span": "then the number of pairs is \\( \\frac{n}{2} \\). Since there are 4040 cousins, this implies:\n\\[\n\\frac{n}{2} = 4040 \\implies n = 8080\n\\]"
+      }
+    ]
+  },
+  {
+    "problem_idx": 29,
+    "num_steps": 10,
+    "errors": [
+      {
+        "type": "E5",
+        "start_step": 3,
+        "span": "This can only happen if the sequence ends with an even number of odd numbers, as each pair of odd numbers will cancel out."
+      },
+      {
+        "type": "E5",
+        "start_step": 9,
+        "span": "After calculating all possible sequences, we find that there are exactly 70 valid sequences."
+      }
+    ]
+  },
+  {
+    "problem_idx": 30,
+    "num_steps": 8,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 1,
+        "span": "Thus, the sum is a multiple of 3 if and only if there are either 6 or 4 ones among the seven numbers."
+      }
+    ]
+  }
+]

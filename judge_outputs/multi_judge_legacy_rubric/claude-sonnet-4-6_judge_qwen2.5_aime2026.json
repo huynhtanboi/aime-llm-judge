@@ -1,0 +1,566 @@
+[
+  {
+    "problem_idx": "1",
+    "final_answer_correct": true,
+    "num_steps": 15,
+    "errors": [
+      {
+        "type": "E7",
+        "start_step": 8,
+        "span": "Divide the second equation by 3 to simplify:\n\\[\n3d = \\frac{2}{3}p^2 + 6p\n\\]"
+      }
+    ]
+  },
+  {
+    "problem_idx": "2",
+    "final_answer_correct": false,
+    "num_steps": 7,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 5,
+        "span": "If \\( a_4 = 1 \\), then \\( 2(a_1 + a_2 + a_3) = 12 \\Rightarrow a_1 + a_2 + a_3 = 6 \\). Possible triples \\((a_1, a_2, a_3)\\): (5,0,1)"
+      },
+      {
+        "type": "E5",
+        "start_step": 6,
+        "span": "The total number of such palindromes is \\( 15 + 25 = 40 \\)."
+      }
+    ]
+  },
+  {
+    "problem_idx": "3",
+    "final_answer_correct": false,
+    "num_steps": 8,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 2,
+        "span": "The distance from the center of the hemisphere (and the disk) to the farthest point on the sphere's surface that can still fit inside the hemisphere is 200 - 42 = 158."
+      }
+    ]
+  },
+  {
+    "problem_idx": "4",
+    "final_answer_correct": false,
+    "num_steps": 5,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 4,
+        "span": "We need to count the integers from 3 to 101 that have at least one divisor greater than their square root. This is equivalent to counting the integers in this range that are not perfect squares (since a perfect square has an equal pair of divisors, and we need distinct pairs)."
+      }
+    ]
+  },
+  {
+    "problem_idx": "5",
+    "final_answer_correct": true,
+    "num_steps": 5,
+    "errors": [
+      {
+        "type": "E7",
+        "start_step": 3,
+        "span": "B' = (1 - \\cos \\theta, -\\sin \\theta). \nThis is derived from rotating the vector $(0, 0) - (\\cos \\theta, \\sin \\theta) = (-\\cos \\theta, -\\sin \\theta)$ by $\\theta$ clockwise."
+      },
+      {
+        "type": "E2",
+        "start_step": 4,
+        "span": "The distance between points $A' = (\\cos \\theta, \\sin \\theta)$ and $B' = (1 - \\cos \\theta, -\\sin \\theta)$ is given by"
+      }
+    ]
+  },
+  {
+    "problem_idx": "6",
+    "final_answer_correct": true,
+    "num_steps": 14,
+    "errors": []
+  },
+  {
+    "problem_idx": "7",
+    "final_answer_correct": false,
+    "num_steps": 3,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 1,
+        "span": "the only possible cycle structure is one 6-cycle"
+      }
+    ]
+  },
+  {
+    "problem_idx": "8",
+    "final_answer_correct": false,
+    "num_steps": 9,
+    "errors": [
+      {
+        "type": "E7",
+        "start_step": 1,
+        "span": "17017 = 17 \\times 19^2"
+      },
+      {
+        "type": "E2",
+        "start_step": 7,
+        "span": "5^a \\equiv 1\\) and \\(7^b \\equiv 5"
+      },
+      {
+        "type": "E7",
+        "start_step": 8,
+        "span": "10 choices for \\(a\\) and 17 choices for \\(b\\), giving \\(10 \\times 17 = 170\\) pairs"
+      }
+    ]
+  },
+  {
+    "problem_idx": "9",
+    "final_answer_correct": false,
+    "num_steps": 9,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 2,
+        "span": "the odd-numbered stickers (1, 3, 5) must cover three specific faces such that only one face remains uncovered. Since the even stickers are already placed and visible, we need to ensure that the placement of the odd stickers results in exactly one blank face."
+      },
+      {
+        "type": "E6",
+        "start_step": 7,
+        "span": "The first odd sticker (3) has a $\\frac{4}{5}$ chance of covering an even number because it cannot cover itself.\n- The second odd sticker (1) also has a $\\frac{4}{5}$ chance to avoid leaving more than one face blank, as it can either cover the remaining even or another odd.\n- The last odd sticker (5) must land on an even face that is already covered by 3 or 1, which happens with probability $\\frac{2}{5}$ because there are two even faces left and only one of them will be covered."
+      },
+      {
+        "type": "E5",
+        "start_step": 9,
+        "span": "The fraction $\\frac{32}{125}$ is already in simplest form, so $m=32$ and $n=125$. Therefore, $m+n=157$."
+      }
+    ]
+  },
+  {
+    "problem_idx": "10",
+    "final_answer_correct": false,
+    "num_steps": 5,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 3,
+        "span": "This rotation effectively swaps the roles of A and C while keeping B fixed."
+      },
+      {
+        "type": "E6",
+        "start_step": 4,
+        "span": "The hexagon AA'CC'B'B' can be divided into two congruent triangles, each with an area equal to half the area of triangle \u25b3ABC, plus a rectangle formed by the circumradius."
+      },
+      {
+        "type": "E5",
+        "start_step": 5,
+        "span": "The area of hexagon AA'CC'B'B' can be calculated as twice the area of triangle \u25b3ABC: Area of hexagon = 2 \u00d7 84 = 168."
+      }
+    ]
+  },
+  {
+    "problem_idx": "11",
+    "final_answer_correct": false,
+    "num_steps": 6,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 4,
+        "span": "we can use a checkerboard pattern where each cell alternates between the smallest and largest remaining numbers. This ensures that every pair of adjacent cells (both horizontally and vertically) has the maximum possible difference of 63."
+      },
+      {
+        "type": "E5",
+        "start_step": 5,
+        "span": "Each difference contributes a maximum value of 63, so the maximum possible value of M is: M_max = 112 \u00d7 63"
+      }
+    ]
+  },
+  {
+    "problem_idx": "12",
+    "final_answer_correct": false,
+    "num_steps": 6,
+    "errors": [
+      {
+        "type": "E7",
+        "start_step": 3,
+        "span": "The coordinates of \\(D\\) are:\n\\[ D = \\left( 4, \\frac{8}{3} \\right). \\]"
+      },
+      {
+        "type": "E2",
+        "start_step": 4,
+        "span": "The distance from point \\(D\\) to plane \\(\\mathcal P\\) is 4 (since the radius at \\(A, B,\\) and \\(C\\) are 1, 2, and 3 respectively)."
+      },
+      {
+        "type": "E6",
+        "start_step": 5,
+        "span": "The distance from the center of the sphere tangent at \\(D\\) to plane \\(\\mathcal P\\) is \\(4 + r\\). Since this must equal the sum of the distances from the other centers, we have:\n\\[ 1 + 2 + 3 + r = 6 + r. \\]"
+      },
+      {
+        "type": "E5",
+        "start_step": 6,
+        "span": "The value of \\(r\\) is \\(\\frac{5}{3}\\), and the sum \\(m+n\\) where \\(r = \\frac{m}{n}\\) is:\n\\[ m + n = 5 + 3 = 8. \\]"
+      }
+    ]
+  },
+  {
+    "problem_idx": "13",
+    "final_answer_correct": false,
+    "num_steps": 11,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 7,
+        "span": "the sum of binomial coefficients modulo a prime can be simplified. Specifically, we use the fact that:\n\\[\n\\sum_{m=0}^{p-1} \\binom{n}{m} = 2^n.\n\\]"
+      },
+      {
+        "type": "E6",
+        "start_step": 8,
+        "span": "Given the symmetry and periodicity, we can use:\n\\[\nS_r = \\frac{2^{10000}}{502}.\n\\]"
+      },
+      {
+        "type": "E4",
+        "start_step": 9,
+        "span": "Since \\( 2^{10000} \\equiv 1 \\pmod{503} \\) by Fermat's Little Theorem, we have:\n\\[\nS_r = \\frac{1}{502}.\n\\]\nThis is not an integer, so we need to re-evaluate the sum modulo 503."
+      },
+      {
+        "type": "E6",
+        "start_step": 10,
+        "span": "The number of valid \\( n \\) for each \\( r \\) that are multiples of 503 can be determined by:\n\\[\nS_r = \\frac{2^{10000} - 1}{502}.\n\\]"
+      },
+      {
+        "type": "E5",
+        "start_step": 11,
+        "span": "The number of integers in the list \\( S_0, S_1, \\ldots, S_{501} \\) that are multiples of 503 is:\n\\[\n\\boxed{251}."
+      }
+    ]
+  },
+  {
+    "problem_idx": "14",
+    "final_answer_correct": false,
+    "num_steps": 11,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 8,
+        "span": "The relationship between the sum of the squares of the sides and diagonals for an equiangular pentagon is:\n\\[f_1^2 + f_2^2 + f_3^2 + f_4^2 + f_5^2 = 2(a^2 + b^2 + c^2 + d^2 + e^2) - (a^2 + b^2 + c^2 + d^2 + e^2).\\]"
+      },
+      {
+        "type": "E4",
+        "start_step": 9,
+        "span": "\\[800 = 616 - P^2.\\]\nThus,\n\\[P^2 = 616 - 800 + 308 = 524.\\]"
+      },
+      {
+        "type": "E5",
+        "start_step": 10,
+        "span": "The square of the perimeter is given as \\(524\\), which can be expressed in the form \\(m \\sqrt{n}\\) where \\(m\\) and \\(n\\) are integers, and \\(n\\) is not divisible by the square of any prime. Here, \\(524 = 524 \\times 1\\)."
+      }
+    ]
+  },
+  {
+    "problem_idx": "15",
+    "final_answer_correct": false,
+    "num_steps": 6,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 2,
+        "span": "each loop must contain: 100/5 = 20 cells"
+      },
+      {
+        "type": "E1",
+        "start_step": 5,
+        "span": "For (2, 10): This is invalid because it would require a loop that extends beyond the grid. For (3, 9): This is invalid for similar reasons."
+      },
+      {
+        "type": "E6",
+        "start_step": 6,
+        "span": "we can use known results or computational tools to find that there are exactly: 126"
+      },
+      {
+        "type": "E5",
+        "start_step": 6,
+        "span": "ways to partition a 10 \u00d7 10 grid into 5 cell loops."
+      }
+    ]
+  },
+  {
+    "problem_idx": "16",
+    "final_answer_correct": false,
+    "num_steps": 7,
+    "errors": [
+      {
+        "type": "E5",
+        "start_step": 4,
+        "span": "We can check if there are other pairs by solving the equation for different values of m:\n- If m = 5, then 2k = 3(5) - 1 = 14 implies k = 7 (valid pair).\n- If m = 7, then 2k = 3(7) - 1 = 20 implies k = 10 (valid pair)."
+      }
+    ]
+  },
+  {
+    "problem_idx": "17",
+    "final_answer_correct": false,
+    "num_steps": 6,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 2,
+        "span": "Each step the bug takes is either an upward diagonal (UD) or a horizontal (H). Since the grid has 10 squares and the bug starts at A and ends at B, it must make exactly 10 steps to reach from one end to the other. The key constraint is that the bug cannot move right-to-left, meaning every H step must be followed by a UD step."
+      },
+      {
+        "type": "E5",
+        "start_step": 6,
+        "span": "Since \u221a638 is not an integer, we approximate it: \u221a638 \u2248 25.26 However, since the problem asks for the exact value of \u221aN, and given that N = 638 is a perfect square in this context, we conclude: 25"
+      }
+    ]
+  },
+  {
+    "problem_idx": "18",
+    "final_answer_correct": false,
+    "num_steps": 9,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 1,
+        "span": "triangles \u25b3ABE and \u25b3CDE are right-angled at A and E respectively"
+      },
+      {
+        "type": "E2",
+        "start_step": 6,
+        "span": "The area of pentagon ABCDE can be split into the areas of triangles ABE and CDE"
+      },
+      {
+        "type": "E7",
+        "start_step": 7,
+        "span": "10(AB + x_C - x_D) must be a multiple of 16. Since 10 is not a factor of 16, AB + x_C \u2212 x_D must be a multiple of 8"
+      },
+      {
+        "type": "E5",
+        "start_step": 9,
+        "span": "there are 253 valid values for AB"
+      }
+    ]
+  },
+  {
+    "problem_idx": "19",
+    "final_answer_correct": false,
+    "num_steps": 6,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 2,
+        "span": "Since we are considering numbers less than 1000, the maximum digit in any number is 9. Therefore, b will be at least 10."
+      },
+      {
+        "type": "E2",
+        "start_step": 4,
+        "span": "For these numbers, the greatest digit is at most 9. Therefore, b = 10. We need: n = d_1 \u00b7 10 + d_0 Since f(n) = n, this equation holds true for all two-digit numbers where each digit is less than 10."
+      },
+      {
+        "type": "E5",
+        "start_step": 5,
+        "span": "From 1 to 9, there is only one number: 1."
+      }
+    ]
+  },
+  {
+    "problem_idx": "20",
+    "final_answer_correct": false,
+    "num_steps": 12,
+    "errors": [
+      {
+        "type": "E7",
+        "start_step": 7,
+        "span": "Further simplification gives:\n\\[\n\\frac{1}{(r-4)(r-5)} \\cdot \\frac{1}{6(b-3)} = \\frac{1}{120(r-5)(r-6)} \\cdot \\frac{1}{2(b-2)}\n\\]"
+      }
+    ]
+  },
+  {
+    "problem_idx": "21",
+    "final_answer_correct": false,
+    "num_steps": 9,
+    "errors": [
+      {
+        "type": "E6",
+        "start_step": 7,
+        "span": "After expanding and simplifying, we find: results in a quadratic equation in x. The discriminant of this quadratic must be zero."
+      },
+      {
+        "type": "E5",
+        "start_step": 8,
+        "span": "we find two possible values for r: r_1 = 35, r_2 = 7"
+      },
+      {
+        "type": "E5",
+        "start_step": 9,
+        "span": "35 + 7 = 42"
+      }
+    ]
+  },
+  {
+    "problem_idx": "22",
+    "final_answer_correct": false,
+    "num_steps": 6,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 3,
+        "span": "We can generalize this to find the total probability that Carol gets a coin before both Alice and Bob get at least two coins. This is an infinite geometric series"
+      }
+    ]
+  },
+  {
+    "problem_idx": "23",
+    "final_answer_correct": false,
+    "num_steps": 12,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 5,
+        "span": "Since x must be an integer, the numerator 119y + 250d must be divisible by 12. We need to find values of y and d that satisfy this condition."
+      },
+      {
+        "type": "E5",
+        "start_step": 12,
+        "span": "Perimeter of \u25b3AIC is 10 + 2d. Since d must be an integer, we need to check if it fits the ratio"
+      }
+    ]
+  },
+  {
+    "problem_idx": "24",
+    "final_answer_correct": false,
+    "num_steps": 9,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 3,
+        "span": "This can be rearranged as a single sum over all k and n:\n\\[\nS = \\sum_{k=1}^{\\infty} \\sum_{n=1}^{k} \\left(\\frac{1}{10^n}\\right)^k\n\\]"
+      },
+      {
+        "type": "E2",
+        "start_step": 4,
+        "span": "\\sum_{n=1}^{k} \\frac{1}{10^{nk}} = \\frac{\\frac{1}{10^k}}{1 - \\frac{1}{10^k}} = \\frac{1}{10^k (10^k - 1)}"
+      },
+      {
+        "type": "E6",
+        "start_step": 5,
+        "span": "This is a known series that sums to \\( S = \\ln(2) \\)."
+      },
+      {
+        "type": "E5",
+        "start_step": 9,
+        "span": "Thus:\n\\[\n(693147 \\times 10^9) \\mod 1000 = 147\n\\]"
+      }
+    ]
+  },
+  {
+    "problem_idx": "25",
+    "final_answer_correct": false,
+    "num_steps": 11,
+    "errors": [
+      {
+        "type": "E6",
+        "start_step": 7,
+        "span": "Now we need to find the possible values of k such that both x = 8k and y = 9k are integers, and BC = x + y = 17k is an integer."
+      },
+      {
+        "type": "E5",
+        "start_step": 11,
+        "span": "Given that AE, AF, BD, CD must all be integers and considering practical limits in such problems, we find that the possible values of BC are 17, 34, 51. Summing these: 17 + 34 + 51 = 102."
+      }
+    ]
+  },
+  {
+    "problem_idx": "26",
+    "final_answer_correct": false,
+    "num_steps": 8,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 6,
+        "span": "Since \\(p\\) is a real number, we can consider the quadratic in terms of \\(s\\)"
+      },
+      {
+        "type": "E6",
+        "start_step": 7,
+        "span": "The possible values of \\(\\alpha, \\beta, \\gamma\\) that satisfy \\(\\alpha^2 \\beta^2 \\gamma^2 = 400\\) are the cube roots of 400."
+      },
+      {
+        "type": "E5",
+        "start_step": 8,
+        "span": "the greatest integer \\(n\\) that satisfies these conditions is:\\n\\[\\n\\boxed{186}.\\n\\]"
+      }
+    ]
+  },
+  {
+    "problem_idx": "27",
+    "final_answer_correct": false,
+    "num_steps": 4,
+    "errors": [
+      {
+        "type": "E7",
+        "start_step": 2,
+        "span": "= 25(10 - 1) = 75"
+      },
+      {
+        "type": "E7",
+        "start_step": 2,
+        "span": "= 81(10 - 1) = 729"
+      },
+      {
+        "type": "E6",
+        "start_step": 3,
+        "span": "The inradius r can be found using the formula: V = 1/3 K_1 h + 1/3 K_2 h where V is the volume of the tetrahedron. The volume V can also be calculated as: V = 1/6 abc sin(\u03b8)"
+      },
+      {
+        "type": "E6",
+        "start_step": 4,
+        "span": "we use known results for such symmetric tetrahedrons. The distance RS can be simplified to: RS = 13/5"
+      }
+    ]
+  },
+  {
+    "problem_idx": "28",
+    "final_answer_correct": false,
+    "num_steps": 5,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 4,
+        "span": "If we denote the number of elements in S as n, then the number of pairs is n/2. Since there are 4040 cousins, this implies: n/2 = 4040 implies n = 8080"
+      }
+    ]
+  },
+  {
+    "problem_idx": "29",
+    "final_answer_correct": false,
+    "num_steps": 6,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 3,
+        "span": "This can only happen if the sequence ends with an even number of odd numbers, as each pair of odd numbers will cancel out."
+      },
+      {
+        "type": "E5",
+        "start_step": 6,
+        "span": "we find that there are exactly 70 valid sequences."
+      }
+    ]
+  },
+  {
+    "problem_idx": "30",
+    "final_answer_correct": false,
+    "num_steps": 4,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 1,
+        "span": "Thus, the sum is a multiple of 3 if and only if there are either 6 or 4 ones among the seven numbers."
+      },
+      {
+        "type": "E2",
+        "start_step": 3,
+        "span": "by symmetry and combinatorial arguments, we find that exactly half of these will satisfy P \u2261 0 (mod 3)"
+      },
+      {
+        "type": "E5",
+        "start_step": 4,
+        "span": "The total number of valid tuples is: 18 + 4 = 22"
+      }
+    ]
+  }
+]

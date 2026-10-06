@@ -1,0 +1,662 @@
+[
+  {
+    "num_steps": 28,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 9,
+        "span": "Since Tanya and Jose start running one hour later than Patrick, they will take \\( t + 1 \\) hours to reach the park."
+      },
+      {
+        "type": "E6",
+        "start_step": 16,
+        "span": "= (P + 7) \\cdot (t + 2)"
+      },
+      {
+        "type": "E2",
+        "start_step": 23,
+        "span": "J = \\frac{P + 12}{-5} + 7"
+      },
+      {
+        "type": "E5",
+        "start_step": 25,
+        "span": "After solving these equations, we get:"
+      },
+      {
+        "type": "E4",
+        "start_step": 26,
+        "span": "D = 24t = 24 \\times 5.8 = 140.8"
+      },
+      {
+        "type": "E6",
+        "start_step": 27,
+        "span": "the distance from the school to the park is \\( \\frac{140}{8} \\)"
+      }
+    ]
+  },
+  {
+    "num_steps": 5,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 3,
+        "span": "Let's denote the palindrome as \\(ab\\)."
+      }
+    ]
+  },
+  {
+    "num_steps": 14,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 2,
+        "span": "and \n\\[ (x - 42)^2 + y^2 \\leq 42^2. \\]"
+      }
+    ]
+  },
+  {
+    "num_steps": 55,
+    "errors": [
+      {
+        "type": "E6",
+        "start_step": 6,
+        "span": "\\( (a+1)(b+1) = 5 \\). The solutions are \\( (a, b) = (1, 3) \\)"
+      },
+      {
+        "type": "E5",
+        "start_step": 6,
+        "span": "only \\( a = 2 \\) is positive.\n- If \\( n = 4 \\)"
+      }
+    ]
+  },
+  {
+    "num_steps": 6,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 2,
+        "span": "(x_A, y_A) = (x_1 + (\\cos \\theta)(y_2 - x_2) - (\\sin \\theta)(x_2 - x_1), y_1 + (\\sin \\theta)(y_2 - x_2) + (\\cos \\theta)(x_2 - x_1))"
+      },
+      {
+        "type": "E5",
+        "start_step": 4,
+        "span": "Using the coordinates of \\(B^\\prime\\), we can express it in terms of \\(A\\) and then use the distance formula to find a relationship involving \\(\\cos \\theta\\)."
+      },
+      {
+        "type": "E2",
+        "start_step": 5,
+        "span": "For instance, if \\(\\theta = 45^\\circ\\) or \\(315^\\circ\\), then \\(\\cos \\theta = -\\frac{1}{2}\\)."
+      },
+      {
+        "type": "E4",
+        "start_step": 6,
+        "span": "Where \\(m\\) and \\(n\\) are relatively prime positive integers. After further calculations, we find that:\n\n**ANSWER:**\n\\[\n-2\n\\]"
+      }
+    ]
+  },
+  {
+    "num_steps": 422,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 1,
+        "span": "Let \\(\\log_{2026} x = y\\), then \\(x = 10^y\\)."
+      },
+      {
+        "type": "E6",
+        "start_step": 5,
+        "span": "\\sqrt[20]{10^{y \\cdot y}} = 10^{y/20}"
+      },
+      {
+        "type": "E1",
+        "start_step": 10,
+        "span": "Let\u2019s assume \\(x = k \\cdot 2026^m\\) where \\(k\\) and \\(m\\) are integers."
+      },
+      {
+        "type": "E6",
+        "start_step": 14,
+        "span": "Since \\(2026 = 2 \\times 19 \\times 53\\)"
+      },
+      {
+        "type": "E3",
+        "start_step": 16,
+        "span": "This equation is not easily solvable, so let's try another approach by considering the properties of logarithms and exponents."
+      },
+      {
+        "type": "E5",
+        "start_step": 422,
+        "span": "Finally, let"
+      }
+    ]
+  },
+  {
+    "num_steps": 8,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 1,
+        "span": "The condition given is that applying the function four times in succession returns the original element."
+      },
+      {
+        "type": "E2",
+        "start_step": 2,
+        "span": "This means that every element in $A$ must be part of a cycle of length 1 or 4."
+      },
+      {
+        "type": "E2",
+        "start_step": 5,
+        "span": "For cycles of length 4, each cycle fixes the elements within it but not others."
+      },
+      {
+        "type": "E2",
+        "start_step": 6,
+        "span": "Each element is fixed, contributing $6! / 2 = 360$ functions"
+      },
+      {
+        "type": "E2",
+        "start_step": 6,
+        "span": "Simplifying this, we find that there are $3$ such permutations."
+      }
+    ]
+  },
+  {
+    "num_steps": 10,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 1,
+        "span": "17017 = 13 \\times 1301"
+      },
+      {
+        "type": "E2",
+        "start_step": 3,
+        "span": "(17+1)(17+1)(17+1)\\cdots(17+1)^{17} = 18 \\times 18 \\times 18^{17}"
+      },
+      {
+        "type": "E2",
+        "start_step": 5,
+        "span": "b^{17} \\equiv 5 \\mod 12"
+      },
+      {
+        "type": "E6",
+        "start_step": 9,
+        "span": "19^4 = (19^2)^2 = 361^2 = 129681 \\equiv 81 \\mod 1000"
+      }
+    ]
+  },
+  {
+    "num_steps": 475,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 1,
+        "span": "The first roll results in a face with an even number being revealed."
+      },
+      {
+        "type": "E5",
+        "start_step": 475,
+        "span": "**Step 475:** The probability of this happening is $\\frac{1}{2} \\times \\frac{1}{471} = \\frac{1}{942}$"
+      }
+    ]
+  },
+  {
+    "num_steps": 5,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 3,
+        "span": "Since \\( AC \\) is perpendicular to \\( BC \\), we need to rotate the triangle such that this condition holds."
+      },
+      {
+        "type": "E2",
+        "start_step": 4,
+        "span": "The hexagon can be divided into two congruent triangles, each formed by rotating half of \\( \triangle ABC \\) around point \\( C \\)."
+      }
+    ]
+  },
+  {
+    "num_steps": 6,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 3,
+        "span": "Place 1s in positions (1,2), (3,4), ..., (7,8)"
+      },
+      {
+        "type": "E2",
+        "start_step": 4,
+        "span": "Each row will have a maximum difference of 59 (since there are 8 numbers in each row, and they alternate between 1s and 2s)."
+      },
+      {
+        "type": "E2",
+        "start_step": 4,
+        "span": "The total number of pairs is:\n\\[ 64 \\text{ rows} \\times 7 \\text{ columns per row} = 448 \\]"
+      }
+    ]
+  },
+  {
+    "num_steps": 7,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 3,
+        "span": "x' = x_0 - 2A(Ax_0 + By_0 + C)/B^2"
+      },
+      {
+        "type": "E1",
+        "start_step": 4,
+        "span": "We need to find the radius r of the fourth sphere."
+      },
+      {
+        "type": "E2",
+        "start_step": 5,
+        "span": "1 + r = 2 + 3 = 5"
+      }
+    ]
+  },
+  {
+    "num_steps": 7,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 2,
+        "span": "\\binom{10000}{k} \\equiv \\prod_{i=0}^8 (\\text{base-10000 representation of } k)_p \\mod 503"
+      },
+      {
+        "type": "E1",
+        "start_step": 3,
+        "span": "This is simply the sum of all binomial coefficients from 0 to 10000."
+      },
+      {
+        "type": "E2",
+        "start_step": 5,
+        "span": "The key insight here is that the sum \\(S_r\\) will be a multiple of 503 if and only if there are exactly 256 terms in the sum"
+      }
+    ]
+  },
+  {
+    "num_steps": 500,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 5,
+        "span": "(a^2 + b^2 + c^2 + d^2 + e^2) + (f^2 + g^2 + h^2 + i^2 + j^2) = 10P^2"
+      },
+      {
+        "type": "E2",
+        "start_step": 6,
+        "span": "Since \\(P\\) must be an integer"
+      },
+      {
+        "type": "E1",
+        "start_step": 8,
+        "span": "\\[ a = b = c = d = e = x \\]"
+      },
+      {
+        "type": "E6",
+        "start_step": 8,
+        "span": "\\[ 5x^2 + 4y^2 = 308 \\]"
+      }
+    ]
+  },
+  {
+    "num_steps": 7,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 1,
+        "span": "For simplicity, let\u2019s assume that each cell loop is a \\(6 \\times 6\\) loop"
+      },
+      {
+        "type": "E2",
+        "start_step": 2,
+        "span": "2a + 2b - 4 = 2(6) + 2(b-2) - 4"
+      }
+    ]
+  },
+  {
+    "num_steps": 9,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 2,
+        "span": "24 = 4 + (1 - 1)d"
+      },
+      {
+        "type": "E2",
+        "start_step": 8,
+        "span": "### Step 7: Sum of the First 10 Terms"
+      }
+    ]
+  },
+  {
+    "num_steps": 13,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 1,
+        "span": "The bug can only move along these diagonals and cannot revisit any segment."
+      },
+      {
+        "type": "E6",
+        "start_step": 11,
+        "span": "\\[\\sqrt{48620} = 196.7 \\approx 197\\]"
+      }
+    ]
+  },
+  {
+    "num_steps": 7,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 1,
+        "span": "This means that triangle \\(ABC\\) is a right-angled isosceles triangle with legs of length 14."
+      },
+      {
+        "type": "E2",
+        "start_step": 2,
+        "span": "The pentagon can be divided into two triangles, \u25b3ABE and \u25b3CDE."
+      },
+      {
+        "type": "E2",
+        "start_step": 3,
+        "span": "We know that \\(AB = 14\\)"
+      },
+      {
+        "type": "E5",
+        "start_step": 6,
+        "span": "The only value of \\(AB\\) that fits within these constraints is:"
+      }
+    ]
+  },
+  {
+    "num_steps": 8,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 3,
+        "span": "Possible values for \\( n \\): \\( 0, 1, 2, ..., 9 \\)."
+      },
+      {
+        "type": "E2",
+        "start_step": 3,
+        "span": "This equation can only hold if \\( b = 10 \\) and the digits match, which is not possible since \\( b > g(d_n) \\)."
+      }
+    ]
+  },
+  {
+    "num_steps": 9,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 5,
+        "span": "\\binom{r}{4} = \\binom{r}{5}"
+      },
+      {
+        "type": "E2",
+        "start_step": 6,
+        "span": "The binomial coefficient \\(\\binom{r}{k}\\) is equal when \\( r = 10 - k \\)."
+      },
+      {
+        "type": "E2",
+        "start_step": 7,
+        "span": "since \\( r + b = n \\) and \\( r = 8 \\), we have:\n\\[\nn = 15\n\\]"
+      }
+    ]
+  },
+  {
+    "num_steps": 200,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 3,
+        "span": "The equation of the parabola is:\n\\[ y = x^2 - 8x + 12 \\]"
+      },
+      {
+        "type": "E2",
+        "start_step": 9,
+        "span": "The equation of this tangent line can be written as:\n\\[ y - (x^2 - 8x + 12) = (2x - 8)(x - x_0) \\]"
+      },
+      {
+        "type": "E5",
+        "start_step": 17,
+        "span": "Now let's find all real numbers $r$ such that there is at least one point where the circle with radius $r$ centered at $(4, 39)$ is tangent to the parabola."
+      }
+    ]
+  },
+  {
+    "num_steps": 299,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 2,
+        "span": "This means we need to consider the sequences where Alice and Bob get their first coin on the second roll, third roll, etc., but Carol gets her first coin on the fourth or later roll."
+      },
+      {
+        "type": "E2",
+        "start_step": 3,
+        "span": "The probability that Alice gets a coin before Carol is \\( \\frac{1}{3} \\)"
+      },
+      {
+        "type": "E2",
+        "start_step": 3,
+        "span": "the probability that she does not get a coin in two rolls (i.e., both rolls are either 5 or 6)"
+      },
+      {
+        "type": "E2",
+        "start_step": 3,
+        "span": "The probability that Carol gets her first coin on the fourth roll or later is \\( \\left( \\frac{1}{3} \\right)^4 + \\left( \\frac{1}{3} \\right)^5 + \\cdots \\)"
+      },
+      {
+        "type": "E4",
+        "start_step": 6,
+        "span": "P(\\text{Carol gets her first coin}) = \\left( \\frac{2}{3} \\right)^2 + \\left( \\frac{2}{3} \\right)^3 + \\cdots = 1 - \\frac{\\frac{4}{9}}{1 - \\frac{1}{9}} = 1 - \\frac{4}{8} = \\frac{5}{8}"
+      }
+    ]
+  },
+  {
+    "num_steps": 12,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 3,
+        "span": "The perimeter of \\( \\triangle AIC \\) is \\( AC + AI + CI = x + AI + I \\)."
+      },
+      {
+        "type": "E2",
+        "start_step": 4,
+        "span": "Since \\( I \\) lies on the altitude from \\( C \\), it divides \\( AC \\) into two equal segments"
+      },
+      {
+        "type": "E5",
+        "start_step": 7,
+        "span": "Let's assume \\( x = 10 \\)"
+      }
+    ]
+  },
+  {
+    "num_steps": 14,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 3,
+        "span": "S = \\sum_{n=2}^{\\infty} \\frac{1}{10^n - 1}"
+      },
+      {
+        "type": "E2",
+        "start_step": 5,
+        "span": "\\frac{1}{10^n - 1} = \\frac{1}{9999} + \\frac{1}{9998} + \\cdots + \\frac{1}{10000}"
+      },
+      {
+        "type": "E5",
+        "start_step": 6,
+        "span": "S \\approx \\sum_{n=2}^{5} \\frac{1}{10^n - 1}"
+      },
+      {
+        "type": "E6",
+        "start_step": 8,
+        "span": "S \\approx 0.00040000"
+      },
+      {
+        "type": "E2",
+        "start_step": 9,
+        "span": "S = 0.0004 + 0.0002 + 0.0001 + 0.0001 + 0.0001 = 0.0008"
+      },
+      {
+        "type": "E6",
+        "start_step": 11,
+        "span": "10^{100} \\times 0.0008 = 8 \\times 10^{-2}"
+      }
+    ]
+  },
+  {
+    "num_steps": 7,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 3,
+        "span": "AE^2 + AF^2 = AB \\cdot AC"
+      },
+      {
+        "type": "E2",
+        "start_step": 4,
+        "span": "AD^2 = AE \\cdot AF"
+      },
+      {
+        "type": "E2",
+        "start_step": 5,
+        "span": "This means we can use the Pythagorean theorem in triangle $ABD$ and $ACD$."
+      },
+      {
+        "type": "E5",
+        "start_step": 6,
+        "span": "After solving these equations, we find that the possible values for $BC$ are 250."
+      }
+    ]
+  },
+  {
+    "num_steps": 15,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 11,
+        "span": "P = 0, Q = 400"
+      },
+      {
+        "type": "E6",
+        "start_step": 11,
+        "span": "n - 11 = 0 + 3 \\cdot 400 = 1200"
+      },
+      {
+        "type": "E6",
+        "start_step": 12,
+        "span": "6 \\cdot 6 + 3 \\cdot 80 = 312"
+      },
+      {
+        "type": "E5",
+        "start_step": 14,
+        "span": "After testing several values, we find that the maximum value of \\(n\\) is:"
+      }
+    ]
+  },
+  {
+    "num_steps": 11,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 2,
+        "span": "The formula for the circumradius $R_{\\text{tetra}}$ of a tetrahedron with edge lengths $a, b, c, d, e, f$ is given by:"
+      },
+      {
+        "type": "E2",
+        "start_step": 4,
+        "span": "The distance $RS$ is the radius of the sphere containing all vertices minus the radius of the sphere that circumscribes the tetrahedron."
+      },
+      {
+        "type": "E5",
+        "start_step": 7,
+        "span": "For simplicity, let's assume we have calculated $R_{\\text{tetra}} = \\frac{\\sqrt{(ab + cd)(ac + de)(ad + ef)}}{4K}$ and found that it equals some value."
+      }
+    ]
+  },
+  {
+    "num_steps": 10,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 6,
+        "span": "For each element in \\( S \\), there is exactly one corresponding element in \\( T \\) that differs by 1."
+      },
+      {
+        "type": "E2",
+        "start_step": 9,
+        "span": "\\( S = \\{1, 2, 3, ..., 8079\\} \\)\n- \\( T = \\{2, 3, 4, ..., 8080\\} \\)"
+      }
+    ]
+  },
+  {
+    "num_steps": 79,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 1,
+        "span": "The operation \\(a \\circ b\\) is defined as:\n- \\(a - b\\) if both \\(a\\) and \\(b\\) are odd."
+      },
+      {
+        "type": "E2",
+        "start_step": 2,
+        "span": "The subsequent numbers do not affect the result since we only care about the initial part."
+      },
+      {
+        "type": "E3",
+        "start_step": 6,
+        "span": "Let's construct another sequence:\n- \\(a_1 = 4\\)\n- \\(a_2 = 8\\)\n- \\(a_3 = 6\\)\n- \\(a_4 = 5\\)"
+      },
+      {
+        "type": "E6",
+        "start_step": 36,
+        "span": "\\(a_{34} = 37\\) (even)"
+      }
+    ]
+  },
+  {
+    "num_steps": 8,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 1,
+        "span": "the product of every pair of consecutive elements must also be a multiple of 3."
+      },
+      {
+        "type": "E2",
+        "start_step": 3,
+        "span": "If \\(a_k \\equiv 1 \\pmod{3}\\), then \\(a_k = 1\\) or \\(2\\)."
+      },
+      {
+        "type": "E2",
+        "start_step": 4,
+        "span": "at least one of the pairs \\((a_k, a_{k+1})\\) for \\(k = 1, 2, \\ldots, 6\\) must include both 1 and 2."
+      },
+      {
+        "type": "E6",
+        "start_step": 5,
+        "span": "We need the coefficient of \\(x^{7k}\\)"
+      },
+      {
+        "type": "E5",
+        "start_step": 6,
+        "span": "By symmetry and combinatorial arguments, we can determine that exactly half of the possible tuples will satisfy both conditions."
+      },
+      {
+        "type": "E2",
+        "start_step": 6,
+        "span": "which happens with probability \\( \\frac{2}{3} \\) for each pair."
+      },
+      {
+        "type": "E2",
+        "start_step": 7,
+        "span": "Since we are dealing with integers between 0 and 999, the answer is:"
+      }
+    ]
+  }
+]

@@ -1,0 +1,561 @@
+[
+  {
+    "num_steps": 6,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 3,
+        "span": "\\[ \\frac{d}{v + 2} - 1 = \\frac{d}{v} - 1 \\]"
+      },
+      {
+        "type": "E5",
+        "start_step": 5,
+        "span": "Let's test \\( v = 15 \\):"
+      },
+      {
+        "type": "E6",
+        "start_step": 5,
+        "span": "\\[ \\frac{30}{24} - 2 = \\frac{30 - 48}{24} = \\frac{12}{24} = \\frac{1}{2} \\]"
+      }
+    ]
+  },
+  {
+    "num_steps": 14,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 1,
+        "span": "can have 1, 2, or 3 digits (since the sum of 4 or more digits would exceed 13 if each digit is at least 1)"
+      }
+    ]
+  },
+  {
+    "num_steps": 8,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 2,
+        "span": "The distance from the center of the hemisphere to the center of the sphere is the radius of the hemisphere minus the radius of the sphere, which is \\(200 - 42 = 158\\)."
+      },
+      {
+        "type": "E2",
+        "start_step": 7,
+        "span": "6241 is a prime number"
+      }
+    ]
+  },
+  {
+    "num_steps": 11,
+    "errors": [
+      {
+        "type": "E6",
+        "start_step": 4,
+        "span": "the minimum product is 2"
+      },
+      {
+        "type": "E2",
+        "start_step": 5,
+        "span": "check if $k+1$ can be factored into two distinct integers"
+      },
+      {
+        "type": "E5",
+        "start_step": 10,
+        "span": "After checking all values, we find that the valid $k$ values are those for which $k+1$ has at least two distinct factors. We count these values."
+      }
+    ]
+  },
+  {
+    "num_steps": 8,
+    "errors": [
+      {
+        "type": "E6",
+        "start_step": 3,
+        "span": "the coordinates of \\( A' \\) can be written as \\( (1 - \\cos \theta, \\sin \theta) \\)"
+      },
+      {
+        "type": "E2",
+        "start_step": 4,
+        "span": "The new coordinates of \\( B' \\) are:\n\\[ B' = (1 - \\cos \\theta - \\sin \\theta \\tan \\theta, \\sin \\theta - \\cos \\theta \\tan \\theta) \\]"
+      },
+      {
+        "type": "E4",
+        "start_step": 7,
+        "span": "The second equation is not possible since it would imply \\( \\cos \\theta < -1 \\), which is not valid."
+      }
+    ]
+  },
+  {
+    "num_steps": 10,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 7,
+        "span": "Equate the exponents of the corresponding bases: \\(k^2 = 20 + 20k\\) and \\(k^2 = 20k\\)."
+      },
+      {
+        "type": "E4",
+        "start_step": 8,
+        "span": "For \\(k = 20\\), we get \\(400 = 400 + 400\\), which is false. However, we need to recheck the consistency of the equations. The only consistent solution is \\(k = 20\\)."
+      }
+    ]
+  },
+  {
+    "num_steps": 6,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 1,
+        "span": "the function \\(\\pi\\) must form cycles of length 1 or 6"
+      },
+      {
+        "type": "E2",
+        "start_step": 2,
+        "span": "Six 1-cycles (which is not possible since we need a function that maps onto \\(A\\))"
+      },
+      {
+        "type": "E2",
+        "start_step": 4,
+        "span": "Therefore, the number of ways to form two 3-cycles is \\(\\binom{6}{3} \\times 2 \\times 2 = 20 \\times 4 = 80\\)."
+      }
+    ]
+  },
+  {
+    "num_steps": 8,
+    "errors": [
+      {
+        "type": "E6",
+        "start_step": 6,
+        "span": "There are 9 odd and 8 even values for \\(a\\) and \\(d\\)."
+      },
+      {
+        "type": "E2",
+        "start_step": 7,
+        "span": "For each valid \\((a, d)\\) pair, \\(b\\) and \\(c\\) can be any of the 18 values (0 through 17)."
+      }
+    ]
+  },
+  {
+    "num_steps": 7,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 1,
+        "span": "This means that the faces with stickers 2, 4, and 6 are already covered, and we need to ensure that the remaining faces (1, 3, 5) are either covered or left blank."
+      },
+      {
+        "type": "E2",
+        "start_step": 5,
+        "span": "The probability that the other faces (2, 4, 6) are covered by the stickers 2, 4, and 6 is 1 because the die is fair and the stickers are placed randomly."
+      }
+    ]
+  },
+  {
+    "num_steps": 9,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 4,
+        "span": "The rotation of \\( \triangle ABC \\) about its circumcenter by 90 degrees"
+      }
+    ]
+  },
+  {
+    "num_steps": 6,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 2,
+        "span": "This ensures that each black cell is adjacent to white cells and vice versa, maximizing the differences."
+      },
+      {
+        "type": "E2",
+        "start_step": 3,
+        "span": "each black cell will have an absolute difference of 32 with its adjacent white cell"
+      },
+      {
+        "type": "E2",
+        "start_step": 3,
+        "span": "each cell has 4 adjacent cells"
+      }
+    ]
+  },
+  {
+    "num_steps": 7,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 4,
+        "span": "The distance from \\(D\\) to the plane \\(\\mathcal{P}\\) is the radius of the sphere centered at \\(D\\), which is \\(r\\)."
+      },
+      {
+        "type": "E2",
+        "start_step": 5,
+        "span": "The distance from \\(D\\) to the plane \\(\\mathcal{T}\\) is the sum of the radii of the spheres centered at \\(A\\), \\(B\\), \\(C\\), and \\(D\\)."
+      },
+      {
+        "type": "E2",
+        "start_step": 6,
+        "span": "Since \\(r\\) must be positive, we take the absolute value:"
+      }
+    ]
+  },
+  {
+    "num_steps": 13,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 4,
+        "span": "for \\( p = 503 \\), we use the \\( 503 \\)-th roots of unity"
+      },
+      {
+        "type": "E2",
+        "start_step": 6,
+        "span": "\\((1 + \\omega^j)^{503} = 0\\) because \\(\\omega^j\\) is a root of the polynomial \\( x^{503} - 1 = 0\\)"
+      },
+      {
+        "type": "E6",
+        "start_step": 6,
+        "span": "\\((1 + \\omega^j)^{10000} = 0^{20} \\cdot (1 + \\omega^j)^{2}\\)"
+      },
+      {
+        "type": "E2",
+        "start_step": 10,
+        "span": "Therefore, the only non-zero term is when \\( 1 - r \\equiv 0 \\pmod{503} \\) or \\( 2 - r \\equiv 0 \\pmod{503} \\)."
+      },
+      {
+        "type": "E2",
+        "start_step": 12,
+        "span": "Therefore, there are exactly 2 values of \\( r \\) for which \\( S_r \\) is a multiple of 503."
+      }
+    ]
+  },
+  {
+    "num_steps": 10,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 1,
+        "span": "Since the pentagon is equiangular, it is also cyclic, meaning it can be inscribed in a circle."
+      },
+      {
+        "type": "E2",
+        "start_step": 4,
+        "span": "the fact that the pentagon is equiangular and thus symmetric"
+      },
+      {
+        "type": "E2",
+        "start_step": 5,
+        "span": "\\sum_{\\text{all sides and diagonals}} \\text{square length} = 2 \\left( \\sum \\text{side squares} + \\sum \\text{diagonal squares} \\right) - 2 \\sum \\text{side squares}"
+      },
+      {
+        "type": "E2",
+        "start_step": 7,
+        "span": "P^2 = 4 \\left( \\sum \\text{side squares} + \\sum \\text{diagonal squares} \\right) - 4 \\sum \\text{side squares}"
+      }
+    ]
+  },
+  {
+    "num_steps": 9,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 1,
+        "span": "it consists of the cells on the boundary of this rectangle plus the cells inside the rectangle"
+      },
+      {
+        "type": "E6",
+        "start_step": 6,
+        "span": "This leaves us with \\(36\\) cells, which can be partitioned into three \\(6 \times 6\\) loops, each with \\(20\\) cells."
+      },
+      {
+        "type": "E2",
+        "start_step": 8,
+        "span": "Since the loops are indistinguishable in terms of their sizes, we just need to count the number of ways to arrange the loops, which is 1 in this case."
+      }
+    ]
+  },
+  {
+    "num_steps": 9,
+    "errors": []
+  },
+  {
+    "num_steps": 6,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 1,
+        "span": "the bug can only move right or up"
+      },
+      {
+        "type": "E2",
+        "start_step": 4,
+        "span": "This means that the U must be the last move"
+      }
+    ]
+  },
+  {
+    "num_steps": 8,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 1,
+        "span": "triangles ABC and CDE are isosceles right-angled triangles"
+      },
+      {
+        "type": "E2",
+        "start_step": 3,
+        "span": "BE = \\sqrt{AE^2 - AB^2} = \\sqrt{20^2 - x^2}"
+      },
+      {
+        "type": "E1",
+        "start_step": 4,
+        "span": "B, C, D are collinear"
+      },
+      {
+        "type": "E5",
+        "start_step": 7,
+        "span": "By testing values of $x$ from 1 to 2025, we find that the only values that satisfy the condition are"
+      }
+    ]
+  },
+  {
+    "num_steps": 8,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 3,
+        "span": "Thus, \\( b \\) is the minimum of \\( a+1 \\) and \\( b+1 \\)."
+      },
+      {
+        "type": "E1",
+        "start_step": 5,
+        "span": "Thus, \\( b = a + 1 \\)."
+      },
+      {
+        "type": "E6",
+        "start_step": 7,
+        "span": "which simplifies to \\( 900 + 100 + c = 900 + 100 + 10 + c \\), which is true for any \\( c \\)."
+      },
+      {
+        "type": "E6",
+        "start_step": 8,
+        "span": "we have 1 single-digit number"
+      }
+    ]
+  },
+  {
+    "num_steps": 16,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 8,
+        "span": "Canceling common terms, we obtain:"
+      },
+      {
+        "type": "E5",
+        "start_step": 14,
+        "span": "The five least values of \\( n \\) are 32, 33, 34, 35, and 36."
+      }
+    ]
+  },
+  {
+    "num_steps": 11,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 7,
+        "span": "For tangency, the quadratic equation in \\(x\\) must have exactly one solution. This means the discriminant of the resulting quadratic equation must be zero."
+      }
+    ]
+  },
+  {
+    "num_steps": 8,
+    "errors": [
+      {
+        "type": "E1",
+        "start_step": 3,
+        "span": "For Alice and Bob to each get at least one coin, the possible outcomes are (A, B), (A, A), (B, A), and (B, B)."
+      },
+      {
+        "type": "E2",
+        "start_step": 6,
+        "span": "This is a geometric series where the first two rolls are (A, B), (A, A), (B, A), or (B, B), and the third roll is (A, B) or (B, A), and so on."
+      },
+      {
+        "type": "E6",
+        "start_step": 6,
+        "span": "\\frac{4}{9} \\cdot \\frac{2}{9} \\cdot \\frac{81}{79} = \\frac{64}{237}"
+      }
+    ]
+  },
+  {
+    "num_steps": 11,
+    "errors": [
+      {
+        "type": "E5",
+        "start_step": 3,
+        "span": "However, for simplicity, we will use the fact that the perimeter ratio is given and solve for the sides."
+      },
+      {
+        "type": "E2",
+        "start_step": 10,
+        "span": "The perimeter of \\(\\triangle AIC\\) is \\(61 + 61 + 3 = 125\\)"
+      }
+    ]
+  },
+  {
+    "num_steps": 11,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 2,
+        "span": "\\frac{1}{10^n - 1} = \\frac{1}{9 \\cdot 11 \\cdot 101 \\cdots (10^{n-1} + 1)}"
+      },
+      {
+        "type": "E6",
+        "start_step": 3,
+        "span": "\\frac{1}{10^n - 1} = \\frac{1}{9} \\cdot \\frac{1}{1 - \\frac{1}{10^n}}"
+      },
+      {
+        "type": "E5",
+        "start_step": 11,
+        "span": "Step 11: Recognizing the pattern, we can approximate \\( S \\) by summing the first few terms:"
+      }
+    ]
+  },
+  {
+    "num_steps": 10,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 3,
+        "span": "BD \u00b7 BE = AD^2 = CD \u00b7 CF"
+      },
+      {
+        "type": "E2",
+        "start_step": 4,
+        "span": "BE \u00b7 AB = AE \u00b7 AB \u21d2 AE = BE"
+      },
+      {
+        "type": "E6",
+        "start_step": 8,
+        "span": "1800 \u00f7 208 \u2248 8.67"
+      },
+      {
+        "type": "E5",
+        "start_step": 9,
+        "span": "The valid \\( k \\) values are 5 and 15."
+      },
+      {
+        "type": "E4",
+        "start_step": 9,
+        "span": "The valid \\( k \\) values are 5 and 15."
+      }
+    ]
+  },
+  {
+    "num_steps": 10,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 5,
+        "span": "The coefficient of \\(x\\) is \\(n - 11\\), which is equal to \\(\\alpha \beta + \beta \\gamma + \\gamma \\alpha = p\\)."
+      },
+      {
+        "type": "E6",
+        "start_step": 7,
+        "span": "which simplifies to \\(6s^2 \\equiv 0 \\pmod{13}\\)"
+      },
+      {
+        "type": "E2",
+        "start_step": 7,
+        "span": "but since \\(s\\) is an integer, \\(s\\) must be a multiple of 13."
+      },
+      {
+        "type": "E2",
+        "start_step": 8,
+        "span": "The possible values of \\(s\\) are \\(0, \\pm 13, \\pm 26, \\pm 39, \\pm 52, \\pm 65\\)."
+      },
+      {
+        "type": "E5",
+        "start_step": 9,
+        "span": "The only integer values for \\(n\\) are 10 and 703."
+      }
+    ]
+  },
+  {
+    "num_steps": 7,
+    "errors": [
+      {
+        "type": "E6",
+        "start_step": 1,
+        "span": "s(s - 5\\sqrt{10})(s - 5\\sqrt{10})(s - 10)"
+      },
+      {
+        "type": "E6",
+        "start_step": 2,
+        "span": "s(s - 5\\sqrt{10})(s - 5\\sqrt{10})(s - 18)"
+      },
+      {
+        "type": "E2",
+        "start_step": 3,
+        "span": "V = \\frac{1}{6} \\sqrt{(a^2b^2 + b^2c^2 + c^2a^2 - a^4 - b^4 - c^4)}"
+      },
+      {
+        "type": "E5",
+        "start_step": 3,
+        "span": "so we use the correct volume formula for a tetrahedron with given areas and heights."
+      },
+      {
+        "type": "E2",
+        "start_step": 4,
+        "span": "R = \\frac{abc}{4V}"
+      },
+      {
+        "type": "E2",
+        "start_step": 6,
+        "span": "RS = \\sqrt{R^2 - r^2}"
+      }
+    ]
+  },
+  {
+    "num_steps": 8,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 5,
+        "span": "This sequence must be a contiguous set of integers because each element in $S$ is paired with an element exactly 1 away, and the sets are disjoint."
+      },
+      {
+        "type": "E2",
+        "start_step": 7,
+        "span": "The smallest $n$ that satisfies this is $n = 4041$"
+      }
+    ]
+  },
+  {
+    "num_steps": 6,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 2,
+        "span": "since the operation \\(a + b\\) is used when the sum is even"
+      }
+    ]
+  },
+  {
+    "num_steps": 9,
+    "errors": [
+      {
+        "type": "E2",
+        "start_step": 3,
+        "span": "The sum of these products will be 0 modulo 3 if and only if the number of 1's in the sum is a multiple of 3."
+      },
+      {
+        "type": "E2",
+        "start_step": 8,
+        "span": "Among these 729 7-tuples, exactly one-third will satisfy the second condition as well, because the second condition is independent of the first in a symmetric way."
+      }
+    ]
+  }
+]
